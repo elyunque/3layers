@@ -1,0 +1,57 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "3 Layers"
+
+[params]
+company = "3 Layers"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    title = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "domain"
+    title = "Domain"
+    url = "/domain/"
+    weight = 2
+  [[menu.main]]
+    identifier = "hosting"
+    title = "Hosting"
+    url = "/hosting/"
+    weight = 3
+    [[menu.main]]
+        identifier = "hosting1"
+        title = "Shared Hosting"
+        url = "/hosting/"
+        parent = "hosting"
+        weight = 4
+    [[menu.main]]
+        identifier = "hosting2"
+        title = "Dedicated Hosting"
+        url = "/hosting/"
+        parent = "hosting"
+        weight = 5
+    [[menu.main]]
+        identifier = "hosting3"
+        title = "Premium Hosting"
+        url = "/hosting/"
+        parent = "hosting"
+        weight = 6
+    [[menu.main]]
+        identifier = "hosting4"
+        title = "Cloud Hosting"
+        url = "/hosting/"
+        parent = "hosting"
+        weight = 7
+  [[menu.main]]
+    identifier = "blog"
+    title = "Blog"
+    url = "/blog/"
+    weight = 8
+  [[menu.main]]
+    identifier = "contact"
+    title = "Contact"
+    url = "/contact/"
+    weight = 9

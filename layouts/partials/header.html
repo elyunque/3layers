@@ -1,0 +1,94 @@
+<div class="site-navbar-wrap bg-white">
+    <div class="site-navbar-top">
+      <div class="container py-2">
+        <div class="row align-items-center">
+          
+          <div class="col-6 col-md-6 col-lg-2">
+            <a href="index.html" class="d-flex align-items-center site-logo">
+              <span class="fl-bigmug-line-cube29 mr-3 cube-bg"></span>
+              <span><h3>{{ .Site.Params.company }}</h3></span>
+            </a>
+          </div>
+
+          {{ range first 2 (where .Site.Pages "Section" "contact") }}
+            {{ if isset .Params "title" }}
+            <div class="col-6 col-md-6 col-lg-10">
+              <ul class="unit-4 ml-auto text-right">
+
+                <li class="text-left">
+                  <a href="#">
+                    <div class="d-flex align-items-center block-unit">
+                      <div class="icon mr-0 mr-md-4">
+                        <span class="fl-bigmug-line-headphones32 h3"></span>
+                      </div>
+                      <div class="d-none d-lg-block">
+                        <span class="d-block text-gray-500 text-uppercase">24/7 Support</span>
+                        <span class="h6">{{ .Params.phone }}</span>
+                      </div>
+                    </div>
+                  </a>
+                </li>
+
+
+                <li class="text-left">
+                  <a href="#">
+                    <div class="d-flex align-items-center block-unit">
+                      <div class="icon mr-0 mr-md-4">
+                        <span class="fl-bigmug-line-email64 h5"></span>
+                      </div>
+                      <div class="d-none d-lg-block">
+                        <span class="d-block text-gray-500 text-uppercase">Email</span>
+                        <span class="h6">{{ .Params.email }}</span>
+                      </div>
+                    </div>
+                  </a>
+                </li>
+
+                <li class="text-left">
+                  <a href="#">
+                    <div class="d-flex align-items-center block-unit">
+                      <div class="icon mr-0 mr-md-4">
+                        <span class="fl-bigmug-line-chat55 h2"></span>
+                      </div>
+                      <div class="d-none d-lg-block">
+                        <span class="d-block text-gray-500 text-uppercase">Live Chat</span>
+                        <span class="h6">Chat With Us Now</span>
+                      </div>
+                    </div>
+                  </a>
+                </li>
+
+
+              </ul>
+            </div>
+            {{ end }}
+          {{ end }}
+
+          
+
+        </div>
+        
+      </div>
+    </div>
+    <div class="site-navbar bg-dark">
+      <div class="container py-1">
+        <div class="row align-items-center">
+
+          <div class="col-4 col-md-4 col-lg-8">
+            <nav class="site-navigation text-left" role="navigation">
+              <div class="d-inline-block d-lg-none ml-md-0 mr-auto py-3"><a href="#" class="site-menu-toggle js-menu-toggle text-white"><span class="icon-menu h3"></span></a></div>
+
+            {{ partial "menu" . }}
+
+            </nav>
+          </div>
+          <div class="col-8 col-md-8 col-lg-4 text-right">
+            <a href="register.html" class="btn btn-primary btn-outline-primary rounded-0 text-white py-2 px-4">Register</a>
+            <a href="register.html" class="btn btn-primary btn-primary rounded-0 py-2 px-4">Login</a>
+          </div>
+
+
+        </div>
+      </div>
+    </div>
+  </div>
