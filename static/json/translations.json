@@ -26,6 +26,9 @@
     "Email Address": {
         "es": "Correo Eléctronico"
     },
+    "Email": {
+        "es": "Correo Eléctronico"
+    },
     "More Info": {
         "es": "Más Información"
     },
@@ -43,5 +46,14 @@
     },
     "Cloud Hosting": {
         "es": "Hospedaje Nube"
+    },
+    "24/7 Support": {
+        "es": "Soporte 24x7"
+    },
+    "Live Chat": {
+        "es": "Chat en Vivo"
+    },
+    "Chat With Us Now": {
+        "es": "Chatea con nosotros"
     }
 }

@@ -12,59 +12,58 @@
 
           {{ range first 2 (where .Site.Pages "Section" "contact") }}
             {{ if isset .Params "title" }}
-            <div class="col-6 col-md-6 col-lg-10">
-              <ul class="unit-4 ml-auto text-right">
+              <div class="col-6 col-md-6 col-lg-10">
+                <ul class="unit-4 ml-auto text-right">
 
-                <li class="text-left">
-                  <a href="#">
-                    <div class="d-flex align-items-center block-unit">
-                      <div class="icon mr-0 mr-md-4">
-                        <span class="fl-bigmug-line-headphones32 h3"></span>
+                  <li class="text-left">
+                    <a href="#">
+                      <div class="d-flex align-items-center block-unit">
+                        <div class="icon mr-0 mr-md-4">
+                          <span class="fl-bigmug-line-headphones32 h3"></span>
+                        </div>
+                        <div class="d-none d-lg-block">
+                          <span class="d-block text-gray-500 text-uppercase"><span data-translate="24/7 Support"></span></span>
+                          <span class="h6">{{ .Params.phone }}</span>
+                        </div>
                       </div>
-                      <div class="d-none d-lg-block">
-                        <span class="d-block text-gray-500 text-uppercase">24/7 Support</span>
-                        <span class="h6">{{ .Params.phone }}</span>
-                      </div>
-                    </div>
-                  </a>
-                </li>
-
-
-                <li class="text-left">
-                  <a href="#">
-                    <div class="d-flex align-items-center block-unit">
-                      <div class="icon mr-0 mr-md-4">
-                        <span class="fl-bigmug-line-email64 h5"></span>
-                      </div>
-                      <div class="d-none d-lg-block">
-                        <span class="d-block text-gray-500 text-uppercase">Email</span>
-                        <span class="h6">{{ .Params.email }}</span>
-                      </div>
-                    </div>
-                  </a>
-                </li>
-
-                <li class="text-left">
-                  <a href="#">
-                    <div class="d-flex align-items-center block-unit">
-                      <div class="icon mr-0 mr-md-4">
-                        <span class="fl-bigmug-line-chat55 h2"></span>
-                      </div>
-                      <div class="d-none d-lg-block">
-                        <span class="d-block text-gray-500 text-uppercase">Live Chat</span>
-                        <span class="h6">Chat With Us Now</span>
-                      </div>
-                    </div>
-                  </a>
-                </li>
+                    </a>
+                  </li>
 
 
-              </ul>
-            </div>
+                  <li class="text-left">
+                    <a href="#">
+                      <div class="d-flex align-items-center block-unit">
+                        <div class="icon mr-0 mr-md-4">
+                          <span class="fl-bigmug-line-email64 h5"></span>
+                        </div>
+                        <div class="d-none d-lg-block">
+                          <span class="d-block text-gray-500 text-uppercase"><span data-translate="Email"></span></span>
+                          <span class="h6">{{ .Params.email }}</span>
+                        </div>
+                      </div>
+                    </a>
+                  </li>
+
+                  <li class="text-left">
+                    <a href="#">
+                      <div class="d-flex align-items-center block-unit">
+                        <div class="icon mr-0 mr-md-4">
+                          <span class="fl-bigmug-line-chat55 h2"></span>
+                        </div>
+                        <div class="d-none d-lg-block">
+                          <span class="d-block text-gray-500 text-uppercase"><span data-translate="Live Chat"></span></span>
+                          <span class="h6"><span data-translate="Chat With Us Now"></span></span>
+                        </div>
+                      </div>
+                    </a>
+                  </li>
+
+
+                </ul>
+              </div>
             {{ end }}
           {{ end }}
 
-          
 
         </div>
         
