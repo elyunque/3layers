@@ -52,12 +52,11 @@
 
 </script>
 
-<!-- Show Body after load -->
-<!-- <script>
-    $(window).load(function() {
-    // When the page has loaded
-    $("body").show(0);
-    
-    });
-</script> -->
-  
+<script>
+$body = $("body");
+
+$(document).on({
+    ajaxStart: function() { $body.addClass("loading");    },
+     ajaxStop: function() { $body.removeClass("loading"); }    
+});
+</script>
