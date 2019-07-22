@@ -1,0 +1,18 @@
+robots = [
+    "Googlebot", 
+    "googlebot-image", 
+    "googlebot-mobile", 
+    "MSNBot", 
+    "Slurp", 
+    "Teoma", 
+    "Gigabot", 
+    "Robozilla", 
+    "Nutch", 
+    "ia_archiver", 
+    "baiduspider", 
+    "naverbot", 
+    "yeti", 
+    "yahoo-mmcrawler", 
+    "psbot", 
+    "yahoo-blogs/v3.9"
+]

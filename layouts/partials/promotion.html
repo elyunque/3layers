@@ -1,0 +1,17 @@
+{{ range first 1 (where .Site.Pages "Section" "promotion") }}
+    {{ if isset .Params "title" }}
+        <div class="site-blocks-cover overlay" style="background-image: url('{{ .Params.thumbnail | absURL }}');" data-aos="fade" data-stellar-background-ratio="0.5">
+            <div class="container">
+                <div class="row align-items-center text-left">
+                <div class="col-md-7">
+                    <h1 class="mb-2">{{ .Title }}</h1>
+                    <p class="mb-5">{{ .Plain }}</p>
+                    <p>
+                        <a href="{{ .Params.pageurl | absURL }}" class="btn btn-primary py-3 px-5 rounded-0">{{ .Params.button }}</a>
+                    </p>
+                </div>
+                </div>
+            </div>
+        </div>  
+    {{ end }}
+{{ end }}

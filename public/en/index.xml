@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>In English</title>
+    <link>https://example.com/</link>
+    <description>Recent content on In English</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Jul 2019 00:10:12 -0400</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Customer Support</title>
+      <link>https://example.com/hero/hero2/</link>
+      <pubDate>Sun, 21 Jul 2019 00:10:12 -0400</pubDate>
+      
+      <guid>https://example.com/hero/hero2/</guid>
+      <description>24 x 7 x 365</description>
+    </item>
+    
+    <item>
+      <title>Affordable Domains</title>
+      <link>https://example.com/hero/hero1/</link>
+      <pubDate>Sun, 21 Jul 2019 00:05:15 -0400</pubDate>
+      
+      <guid>https://example.com/hero/hero1/</guid>
+      <description>From $7/year</description>
+    </item>
+    
+    <item>
+      <title>Testimonial4</title>
+      <link>https://example.com/testimonial/testimonial4/</link>
+      <pubDate>Sat, 20 Jul 2019 23:36:55 -0400</pubDate>
+      
+      <guid>https://example.com/testimonial/testimonial4/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae aut minima nihil sit distinctio recusandae doloribus ut fugit officia voluptate soluta.</description>
+    </item>
+    
+    <item>
+      <title>Testimonial3</title>
+      <link>https://example.com/testimonial/testimonial3/</link>
+      <pubDate>Sat, 20 Jul 2019 23:36:52 -0400</pubDate>
+      
+      <guid>https://example.com/testimonial/testimonial3/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae aut minima nihil sit distinctio recusandae doloribus ut fugit officia voluptate soluta.</description>
+    </item>
+    
+    <item>
+      <title>Testimonial2</title>
+      <link>https://example.com/testimonial/testimonial2/</link>
+      <pubDate>Sat, 20 Jul 2019 23:35:36 -0400</pubDate>
+      
+      <guid>https://example.com/testimonial/testimonial2/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae aut minima nihil sit distinctio recusandae doloribus ut fugit officia voluptate soluta.</description>
+    </item>
+    
+    <item>
+      <title>Testimonial1</title>
+      <link>https://example.com/testimonial/testimonial1/</link>
+      <pubDate>Sat, 20 Jul 2019 23:30:58 -0400</pubDate>
+      
+      <guid>https://example.com/testimonial/testimonial1/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae aut minima nihil sit distinctio recusandae doloribus ut fugit officia voluptate soluta.</description>
+    </item>
+    
+    <item>
+      <title>Client Reviews</title>
+      <link>https://example.com/panel/client-reviews/</link>
+      <pubDate>Sat, 20 Jul 2019 22:57:30 -0400</pubDate>
+      
+      <guid>https://example.com/panel/client-reviews/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur is a nice adipisicing elita ssumenda a similique perferendis dolorem eos.</description>
+    </item>
+    
+    <item>
+      <title>Best Support</title>
+      <link>https://example.com/panel/best-support/</link>
+      <pubDate>Sat, 20 Jul 2019 22:56:48 -0400</pubDate>
+      
+      <guid>https://example.com/panel/best-support/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur is a nice adipisicing elita ssumenda a similique perferendis dolorem eos.</description>
+    </item>
+    
+    <item>
+      <title>Amazing Uptime</title>
+      <link>https://example.com/panel/amazing-uptime/</link>
+      <pubDate>Sat, 20 Jul 2019 22:56:12 -0400</pubDate>
+      
+      <guid>https://example.com/panel/amazing-uptime/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur is a nice adipisicing elita ssumenda a similique perferendis dolorem eos.</description>
+    </item>
+    
+    <item>
+      <title>Outstanding Speed</title>
+      <link>https://example.com/panel/outstanding-speed/</link>
+      <pubDate>Sat, 20 Jul 2019 22:55:11 -0400</pubDate>
+      
+      <guid>https://example.com/panel/outstanding-speed/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur is a nice adipisicing elita ssumenda a similique perferendis dolorem eos.</description>
+    </item>
+    
+    <item>
+      <title>Top Data Centers</title>
+      <link>https://example.com/panel/top-data-centers/</link>
+      <pubDate>Sat, 20 Jul 2019 22:54:26 -0400</pubDate>
+      
+      <guid>https://example.com/panel/top-data-centers/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur is a nice adipisicing elita ssumenda a similique perferendis dolorem eos.</description>
+    </item>
+    
+    <item>
+      <title>High Quality Hardware</title>
+      <link>https://example.com/panel/high-quality-hardware/</link>
+      <pubDate>Sat, 20 Jul 2019 22:50:17 -0400</pubDate>
+      
+      <guid>https://example.com/panel/high-quality-hardware/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur is a nice adipisicing elita ssumenda a similique perferendis dolorem eos.</description>
+    </item>
+    
+    <item>
+      <title>Premium Hosting</title>
+      <link>https://example.com/hosting/premium-hosting/</link>
+      <pubDate>Sat, 20 Jul 2019 21:35:36 -0400</pubDate>
+      
+      <guid>https://example.com/hosting/premium-hosting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dedicated Hosting</title>
+      <link>https://example.com/hosting/dedicated-hosting/</link>
+      <pubDate>Sat, 20 Jul 2019 21:35:18 -0400</pubDate>
+      
+      <guid>https://example.com/hosting/dedicated-hosting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shared Hosting</title>
+      <link>https://example.com/hosting/shared-hosting/</link>
+      <pubDate>Sat, 20 Jul 2019 21:27:57 -0400</pubDate>
+      
+      <guid>https://example.com/hosting/shared-hosting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

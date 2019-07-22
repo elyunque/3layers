@@ -1,0 +1,25 @@
+<div class="site-section bg-light">
+    <div class="container">
+        <div class="row justify-content-center text-center mb-5">
+            <div class="col-md-6" data-aos="fade">
+                <h2>{{ .Params.hosting }}</h2>
+            </div>
+        </div>
+        <div class="row hosting">
+            {{ range sort (where .Site.Pages "Section" "hosting") ".Params.fade" }}
+                {{ if isset .Params "title" }}
+                    
+                    <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="{{ .Params.fade }}">
+                        <div class="unit-2 text-center border py-5 h-100 bg-white">
+                        <span class="icon fl-bigmug-line-paper122 text-primary"></span>
+                        <h3 class="h4 text-black">{{ .Title }}</h3>
+                        <p class="mb-4 text-gray-500">{{ .Params.description }}</p>
+                        <p><a href="{{ .Params.pageurl }}" class="btn btn-primary py-2 px-4 rounded-0">{{ .Params.button }}</a></p>
+                        </div>
+
+                    </div>
+                {{ end }}
+            {{ end}}
+        </div>
+    </div>
+</div>

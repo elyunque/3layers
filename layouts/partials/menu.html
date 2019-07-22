@@ -3,18 +3,18 @@
     {{ range sort .Site.Menus.main "Weight" }}
         {{ if .HasChildren }}
             <li class="has-children" class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
-                <a href="{{ .URL }}"><span data-translate="{{ .Title }}"></span></a>
+                <a href="{{ .URL }}">{{ .Title }}</a>
                 <ul class="dropdown arrow-top">
                     {{ range .Children }}
                         <li>
-                            <a href="{{ .URL }}"><span data-translate="{{ .Title }}"></span></a>
+                            <a href="{{ .URL }}">{{ .Title }}</a>
                         </li>
                     {{ end }}
                 </ul>
             </li>          
         {{ else }}
             <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
-                <a href="{{ .URL }}"><span data-translate="{{ .Title }}"></span></a>
+                <a href="{{ .URL }}">{{ .Title }}</a>
             </li>
         {{ end }}
     {{ end }}

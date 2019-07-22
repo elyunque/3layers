@@ -1,0 +1,36 @@
+<div class="site-section block-4 bg-light">
+
+        <div class="container">
+  
+          <div class="row justify-content-center text-center mb-5">
+            <div class="col-md-6" data-aos="fade" >
+              <h2>{{ .Params.testimonials }}</h2>
+            </div>
+          </div>
+  
+          <div class="nonloop-block-4 owl-carousel" data-aos="fade">
+            
+            {{ range where .Site.Pages "Section" "testimonial" }}
+              {{ if isset .Params "title" }}
+                <div class="item col-md-6 mx-auto">
+                  
+                  <div class="block-38 text-center">
+                    <div class="block-38-img">
+                      <div class="block-38-header"> 
+                        <img src="{{ .Params.thumbnail | absURL }}" alt="Image placeholder">
+                        <h3 class="block-38-heading">{{ .Params.name }}</h3>
+                        <p class="block-38-subheading">{{ .Params.position }}</p>
+                      </div>
+                      <div class="block-38-body">
+                        <p>{{ .Plain }}</p>
+                      </div>
+                    </div>
+                  </div>
+      
+                </div>
+              {{ end }}
+            {{ end }}
+  
+          </div>
+        </div>
+      </div>

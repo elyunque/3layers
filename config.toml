@@ -1,57 +1,109 @@
 baseURL = "https://3layers.host/"
 languageCode = "en-us"
 title = "3 Layers"
+enableRobotsTXT = true
+defaultContentLanguage = "es"
 
 [params]
 company = "3 Layers"
 
-[menu]
-  [[menu.main]]
-    identifier = "home"
-    title = "Home"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    identifier = "domain"
-    title = "Domain"
-    url = "/domain/"
+[languages]
+  [languages.en]    
+    languageName = "English"
+    title = "In English"
+    home = "Home"
     weight = 2
-  [[menu.main]]
-    identifier = "hosting"
-    title = "Hosting"
-    url = "/hosting/"
-    weight = 3
-    [[menu.main]]
-        identifier = "hosting1"
-        title = "Shared Hosting"
-        url = "/hosting/"
-        parent = "hosting"
-        weight = 4
-    [[menu.main]]
-        identifier = "hosting2"
-        title = "Dedicated Hosting"
-        url = "/hosting/"
-        parent = "hosting"
-        weight = 5
-    [[menu.main]]
-        identifier = "hosting3"
-        title = "Premium Hosting"
-        url = "/hosting/"
-        parent = "hosting"
-        weight = 6
-    [[menu.main]]
-        identifier = "hosting4"
-        title = "Cloud Hosting"
-        url = "/hosting/"
-        parent = "hosting"
-        weight = 7
-  [[menu.main]]
-    identifier = "blog"
-    title = "Blog"
-    url = "/blog/"
-    weight = 8
-  [[menu.main]]
-    identifier = "contact"
-    title = "Contact"
-    url = "/contact/"
-    weight = 9
+  
+    [[languages.en.menu.main]]
+      identifier = "home"
+      title = "Home"
+      url = "/"
+      weight = 1
+    [[languages.en.menu.main]]
+      identifier = "domain"
+      title = "Domain"
+      url = "/domain/"
+      weight = 2
+    [[languages.en.menu.main]]
+      identifier = "hosting"
+      title = "Hosting"
+      url = "/hosting/"
+      weight = 3
+      [[languages.en.menu.main]]
+          identifier = "hosting1"
+          title = "Shared Hosting"
+          url = "/hosting/"
+          parent = "hosting"
+          weight = 4
+      [[languages.en.menu.main]]
+          identifier = "hosting2"
+          title = "Dedicated Hosting"
+          url = "/hosting/"
+          parent = "hosting"
+          weight = 5
+      [[languages.en.menu.main]]
+          identifier = "hosting3"
+          title = "Premium Hosting"
+          url = "/hosting/"
+          parent = "hosting"
+          weight = 6
+    [[languages.en.menu.main]]
+      identifier = "blog"
+      title = "Blog"
+      url = "/blog/"
+      weight = 8
+    [[languages.en.menu.main]]
+      identifier = "contact"
+      title = "Contact"
+      url = "/contact/"
+      weight = 9
+
+  [languages.es]
+    languageName = "Español"
+    title = "En Español"
+    home = "Inicio"
+    weight = 1
+
+    [[languages.es.menu.main]]
+      identifier = "home"
+      title = "Inicio"
+      url = "/"
+      weight = 1
+    [[languages.es.menu.main]]
+      identifier = "domain"
+      title = "Dominio"
+      url = "/domain/"
+      weight = 2
+    [[languages.es.menu.main]]
+      identifier = "hosting"
+      title = "Alojamiento"
+      url = "/hosting/"
+      weight = 3
+      [[languages.es.menu.main]]
+          identifier = "hosting1"
+          title = "Alojamiento Compartido"
+          url = "/hosting/"
+          parent = "hosting"
+          weight = 4
+      [[languages.es.menu.main]]
+          identifier = "hosting2"
+          title = "Alojamiento Dedicado"
+          url = "/hosting/"
+          parent = "hosting"
+          weight = 5
+      [[languages.es.menu.main]]
+          identifier = "hosting3"
+          title = "Alojamiento Premium"
+          url = "/hosting/"
+          parent = "hosting"
+          weight = 6
+    [[languages.es.menu.main]]
+      identifier = "blog"
+      title = "Blog"
+      url = "/blog/"
+      weight = 8
+    [[languages.es.menu.main]]
+      identifier = "contact"
+      title = "Contacto"
+      url = "/contact/"
+      weight = 9
