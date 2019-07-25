@@ -1,5 +1,5 @@
 ---
-title: "How Much Pay for 3  Months"
+title: "¿Cuanto debo pagar por 3 Meses?"
 date: 2019-07-21T13:15:27-04:00
 draft: false
 sitemap: false

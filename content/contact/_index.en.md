@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-description: "Contact Us"
+subtitle: "Contact Us"
 date: 2019-07-11T21:28:48-04:00
 draft: false
 thumbnail: "images/hero_bg_1.jpg"

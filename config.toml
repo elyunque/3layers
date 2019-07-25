@@ -12,63 +12,60 @@ company = "3 Layers"
     languageName = "English"
     title = "In English"
     home = "Home"
+    homeurl = "/en/"
     weight = 2
   
     [[languages.en.menu.main]]
-      identifier = "home"
-      title = "Home"
-      url = "/"
-      weight = 1
-    [[languages.en.menu.main]]
       identifier = "domain"
       title = "Domain"
-      url = "/domain/"
+      url = "/en/domain/"
       weight = 2
     [[languages.en.menu.main]]
       identifier = "hosting"
       title = "Hosting"
-      url = "/hosting/"
+      url = "/en/hosting/"
       weight = 3
       [[languages.en.menu.main]]
           identifier = "hosting1"
           title = "Shared Hosting"
-          url = "/hosting/"
+          url = "/en/hosting/hosting1/"
           parent = "hosting"
           weight = 4
       [[languages.en.menu.main]]
           identifier = "hosting2"
           title = "Dedicated Hosting"
-          url = "/hosting/"
+          url = "/en/hosting/hosting2/"
           parent = "hosting"
           weight = 5
       [[languages.en.menu.main]]
           identifier = "hosting3"
           title = "Premium Hosting"
-          url = "/hosting/"
+          url = "/en/hosting/hosting3/"
           parent = "hosting"
           weight = 6
     [[languages.en.menu.main]]
+      identifier = "ssl"
+      title = "SSL"
+      url = "/en/ssl/"
+      weight = 7
+    [[languages.en.menu.main]]
       identifier = "blog"
       title = "Blog"
-      url = "/blog/"
+      url = "/en/blog/"
       weight = 8
     [[languages.en.menu.main]]
       identifier = "contact"
       title = "Contact"
-      url = "/contact/"
+      url = "/en/contact/"
       weight = 9
 
   [languages.es]
     languageName = "Español"
     title = "En Español"
     home = "Inicio"
+    homeurl = "/"
     weight = 1
 
-    [[languages.es.menu.main]]
-      identifier = "home"
-      title = "Inicio"
-      url = "/"
-      weight = 1
     [[languages.es.menu.main]]
       identifier = "domain"
       title = "Dominio"
@@ -82,21 +79,26 @@ company = "3 Layers"
       [[languages.es.menu.main]]
           identifier = "hosting1"
           title = "Alojamiento Compartido"
-          url = "/hosting/"
+          url = "/hosting/hosting1/"
           parent = "hosting"
           weight = 4
       [[languages.es.menu.main]]
           identifier = "hosting2"
           title = "Alojamiento Dedicado"
-          url = "/hosting/"
+          url = "/hosting/hosting2/"
           parent = "hosting"
           weight = 5
       [[languages.es.menu.main]]
           identifier = "hosting3"
           title = "Alojamiento Premium"
-          url = "/hosting/"
+          url = "/hosting/hosting3/"
           parent = "hosting"
           weight = 6
+    [[languages.es.menu.main]]
+      identifier = "ssl"
+      title = "SSL"
+      url = "/ssl/"
+      weight = 7
     [[languages.es.menu.main]]
       identifier = "blog"
       title = "Blog"
