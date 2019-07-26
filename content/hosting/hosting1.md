@@ -12,7 +12,7 @@ fade: 100
 sitemap: true
 ---
 
-{{< hostingtable 
+{{< pricetable 
 
 tabletitle1="BASICO" tabletitle2="PREMIUM" tabletitle3="AVANZADO" 
 tableprice1="$19.99" tableprice2="$49.99" tableprice3="$99.99"

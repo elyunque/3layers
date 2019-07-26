@@ -1,111 +1,77 @@
 baseURL = "https://3layers.host/"
-languageCode = "en-us"
 title = "3 Layers"
 enableRobotsTXT = true
-defaultContentLanguage = "es"
 
 [params]
 company = "3 Layers"
+home = "Inicio"
+homeurl = "/"
+weight = 10
 
-[languages]
-  [languages.en]    
-    languageName = "English"
-    title = "In English"
-    home = "Home"
-    homeurl = "/en/"
-    weight = 2
-  
-    [[languages.en.menu.main]]
-      identifier = "domain"
-      title = "Domain"
-      url = "/en/domain/"
-      weight = 2
-    [[languages.en.menu.main]]
-      identifier = "hosting"
-      title = "Hosting"
-      url = "/en/hosting/"
-      weight = 3
-      [[languages.en.menu.main]]
-          identifier = "hosting1"
-          title = "Shared Hosting"
-          url = "/en/hosting/hosting1/"
-          parent = "hosting"
-          weight = 4
-      [[languages.en.menu.main]]
-          identifier = "hosting2"
-          title = "Dedicated Hosting"
-          url = "/en/hosting/hosting2/"
-          parent = "hosting"
-          weight = 5
-      [[languages.en.menu.main]]
-          identifier = "hosting3"
-          title = "Premium Hosting"
-          url = "/en/hosting/hosting3/"
-          parent = "hosting"
-          weight = 6
-    [[languages.en.menu.main]]
-      identifier = "ssl"
-      title = "SSL"
-      url = "/en/ssl/"
-      weight = 7
-    [[languages.en.menu.main]]
-      identifier = "blog"
-      title = "Blog"
-      url = "/en/blog/"
-      weight = 8
-    [[languages.en.menu.main]]
-      identifier = "contact"
-      title = "Contact"
-      url = "/en/contact/"
-      weight = 9
-
-  [languages.es]
-    languageName = "Español"
-    title = "En Español"
-    home = "Inicio"
-    homeurl = "/"
-    weight = 1
-
-    [[languages.es.menu.main]]
-      identifier = "domain"
-      title = "Dominio"
-      url = "/domain/"
-      weight = 2
-    [[languages.es.menu.main]]
-      identifier = "hosting"
-      title = "Alojamiento"
-      url = "/hosting/"
-      weight = 3
-      [[languages.es.menu.main]]
-          identifier = "hosting1"
-          title = "Alojamiento Compartido"
-          url = "/hosting/hosting1/"
-          parent = "hosting"
-          weight = 4
-      [[languages.es.menu.main]]
-          identifier = "hosting2"
-          title = "Alojamiento Dedicado"
-          url = "/hosting/hosting2/"
-          parent = "hosting"
-          weight = 5
-      [[languages.es.menu.main]]
-          identifier = "hosting3"
-          title = "Alojamiento Premium"
-          url = "/hosting/hosting3/"
-          parent = "hosting"
-          weight = 6
-    [[languages.es.menu.main]]
-      identifier = "ssl"
-      title = "SSL"
-      url = "/ssl/"
-      weight = 7
-    [[languages.es.menu.main]]
-      identifier = "blog"
-      title = "Blog"
-      url = "/blog/"
-      weight = 8
-    [[languages.es.menu.main]]
-      identifier = "contact"
-      title = "Contacto"
-      url = "/contact/"
-      weight = 9
+[[menu.main]]
+  identifier = "domain"
+  title = "Dominio"
+  url = "/domain/"
+  weight = 20
+[[menu.main]]
+  identifier = "hosting"
+  title = "Alojamiento"
+  url = "/hosting/"
+  weight = 30
+  [[menu.main]]
+      identifier = "hosting1"
+      title = "Alojamiento Compartido"
+      url = "/hosting/hosting1/"
+      parent = "hosting"
+      weight = 31
+  [[menu.main]]
+      identifier = "hosting2"
+      title = "Alojamiento Dedicado"
+      url = "/hosting/hosting2/"
+      parent = "hosting"
+      weight = 32
+  [[menu.main]]
+      identifier = "hosting3"
+      title = "Alojamiento Premium"
+      url = "/hosting/hosting3/"
+      parent = "hosting"
+      weight = 33
+[[menu.main]]
+  identifier = "ssl"
+  title = "SSL"
+  url = "/ssl/"
+  weight = 40
+  [[menu.main]]
+      identifier = "ssl1"
+      title = "SSL de Dominio"
+      url = "/en/ssl/ssl1/"
+      parent = "ssl"
+      weight = 41
+  [[menu.main]]
+      identifier = "ssl2"
+      title = "Validación de Negocio"
+      url = "/en/ssl/ssl2/"
+      parent = "ssl"
+      weight = 42
+  [[menu.main]]
+      identifier = "ssl3"
+      title = "Validación Extendida"
+      url = "/en/ssl/ssl3/"
+      parent = "ssl"
+      weight = 43
+  [[menu.main]]
+      identifier = "ssl4"
+      title = "Wildcard SSL"
+      url = "/en/ssl/ssl4/"
+      parent = "ssl"
+      weight = 44
+[[menu.main]]
+  identifier = "blog"
+  title = "Blog"
+  url = "/blog/"
+  weight = 50
+[[menu.main]]
+  identifier = "contact"
+  title = "Contacto"
+  url = "/contact/"
+  weight = 60

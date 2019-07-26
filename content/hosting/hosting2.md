@@ -1,18 +1,18 @@
 ---
-title: "Alojamiento Premium"
-subtitle: "Alojamiento Premium"
-date: 2019-07-20T21:35:36-04:00
+title: "Alojamiento Dedicado"
+subtitle: "Alojamiento Dedicado"
+date: 2019-07-20T21:35:18-04:00
 draft: false
 thumbnail: "images/hero_bg_1.jpg"
-icon: "icon fl-bigmug-line-hot67"
-description: "Planes desde $9.99/mes"
+icon: "fl-bigmug-line-airplane86"
+description: "Planes desde $6.99/mes"
 button: "Ver Detalles"
 pageurl: "https://google.com"
-fade: 300
+fade: 200
 sitemap: true
 ---
 
-{{< hostingtable 
+{{< pricetable 
 
 tabletitle1="BASICO" tabletitle2="PREMIUM" tabletitle3="AVANZADO" 
 tableprice1="$19.99" tableprice2="$49.99" tableprice3="$99.99"

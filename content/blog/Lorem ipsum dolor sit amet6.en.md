@@ -1,9 +1,0 @@
----
-title: "Lorem Ipsum Dolor Sit Amet6"
-date: 2019-07-21T15:24:21-04:00
-draft: false
-sitemap: false
-thumbnail: "images/img_1.jpg"
-author: "3layers"
----
-
