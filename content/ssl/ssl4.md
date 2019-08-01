@@ -9,12 +9,13 @@ sitemap: true
 
 {{< pricetable 
 topdata="<p>Los certificados SSL con comodín son muy populares y tienen una sólida reputación de grandes ahorradores de costos, ya que pueden proteger subdominios ilimitados dentro del mismo dominio. Ya no es necesario comprar y administrar varios certificados de dominio único. La mayoría de los certificados Wildcard admiten licencias de servidor ilimitadas, lo que permite la instalación en tantos servidores / dispositivos como sea necesario. Reediciones ilimitadas gratuitas disponibles para todos los pedidos.</p>"
+tablefeatured1="featured-pricing" tablefeatured2="" tablefeatured3="" 
 tabletitle1="GeoTrust" tabletitle2="RapidSSL" tabletitle3="Sectigo" 
-tableprice1="<small>from</small> $169.63" tableprice2="<small>from</small> $82.13" tableprice3="<small>from</small> $61.48"
-tablebutton1="Conozca Más" tablebutton2="Conozca Más" tablebutton3="Conozca Más" 
-tablelink1="https://google.com" tablelink2="https://google.com" tablelink3="https://google.com" 
-tablecontent1="QuickSSL Premium Wildcard<br>True BusinessID Wildcard<br><br>" 
-tablecontent2="Wildcard certificate<br><br><br>" 
-tablecontent3="PositiveSSL Multi Wildcard<br>PositiveSSL Wildcard<br>InstantSSL Premium Wildcard<br>"
+tableprice1="<small>desde</small> $169.<small><sup><u>63</sup></u> /año</small>" tableprice2="<small>desde</small> $82.<small><sup><u>13</sup></u> /año</small>" tableprice3="<small>desde</small> $61.<small><sup><u>48</sup></u> /año</small>"
+tablebutton1="Contáctanos sobre GeoTrust" tablebutton2="Contáctanos sobre RapidSSL" tablebutton3="Contáctanos sobre Sectigo" 
+tablelink1="/contact/" tablelink2="/contact/" tablelink3="/contact/" 
+tablecontent1="<a href='/blog/geotrustquicksslpremiumwildcard/'>QuickSSL Premium Wildcard</a><br><a href='/blog/geotrusttruebusinessidwildcard/'>True BusinessID Wildcard</a><br><br><br>" 
+tablecontent2="<a href='/blog/rapidsslwildcardcertificate/'>Wildcard certificate</a><br><br><br><br>" 
+tablecontent3="<a href='/blog/sectigopositivesslmultiwildcard/'>PositiveSSL Multi Wildcard</a><br><a href='/blog/sectigopositivesslwildcard/'>PositiveSSL Wildcard</a><br><a href='/blog/sectigoinstantsslpremiumwildcard/'>InstantSSL Premium Wildcard</a><br><br>"
 
  >}}

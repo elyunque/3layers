@@ -1,26 +1,27 @@
 ---
-title: "Alojamiento Premium"
-subtitle: "Alojamiento Premium"
+title: "Alojamiento Dedicado"
+subtitle: "Alojamiento Dedicado"
 date: 2019-07-20T21:35:36-04:00
 draft: false
 thumbnail: "images/hero_bg_1.jpg"
 icon: "icon fl-bigmug-line-hot67"
 description: "Planes desde $9.99/mes"
 button: "Ver Detalles"
-pageurl: "https://google.com"
+pageurl: "/hosting/hosting3/"
 fade: 300
 sitemap: true
 ---
 
 {{< pricetable 
-
-tabletitle1="BASICO" tabletitle2="PREMIUM" tabletitle3="AVANZADO" 
-tableprice1="$19.99" tableprice2="$49.99" tableprice3="$99.99"
-tablebutton1="Conozca Más" tablebutton2="Conozca Más" tablebutton3="Conozca Más" 
-tablelink1="https://google.com" tablelink2="https://google.com" tablelink3="https://google.com" 
-tablecontent1="1 Website<br>25 Cuentas de Correo Eléctronico<br>100 GB Almacenamiento<br>300 Giga Ancho de Banda" 
-tablecontent2="1 Website<br>25 Cuentas de Correo Eléctronico<br>100 GB Almacenamiento<br>300 Giga Ancho de Banda" 
-tablecontent3="1 Website<br>25 Cuentas de Correo Eléctronico<br>100 GB Almacenamiento<br>300 Giga Ancho de Banda" 
+topdata="<p>Los alojamientos dedicados son una efectiva forma de colocar aplicaciones, CMS, ERP, PBX, base de datos y Portales Web que su empresa requiera, trabajamos con los centros de datos mas grandes del mundo, ofreciendo Hardware de última generación, con capacidad exclusiva para procesar <i>Internet of things (IoT)</i> e <i>Inteligencia de Negocio</i> (incluyendo <i>Inteligencia Artificial</i>).</p>"
+tablefeatured1="" tablefeatured2="featured-pricing" tablefeatured3="" 
+tabletitle1="RENDIMIENTO" tabletitle2="ALMACENAMIENTO" tabletitle3="INFRAESTRUCTURA" 
+tableprice1="$167.<small><sup><u>98</sup></u> /mes</small>" tableprice2="$321.<small><sup><u>10</sup></u> /mes</small>" tableprice3="$505.<small><sup><u>20</sup></u> /mes</small>"
+tablebutton1="Contáctanos" tablebutton2="Contáctanos" tablebutton3="Contáctanos" 
+tablelink1="/contact/" tablelink2="/contact/" tablelink3="/contact/" 
+tablecontent1="Intel i7-6700K<br>4 c / 8 t<br>4  GHz / 4.2  GHz<br>32GB RAM<br>2×480GB SSD SATA<br>+ 1×4TB HDD SATA<br>1 Gbps" 
+tablecontent2="Intel Xeon E5 2620v3<br>6 c / 12 t<br>2.4  GHz / 3.2  GHz<br>64GB RAM<br>12×6TB HDD SAS <br>+ 1×160GB SSD SATA<br>3 Gbps<br>" 
+tablecontent3="Intel Xeon Silver 4110<br>8 c / 16 t<br>2.1 GHz / 3 GHz<br>96GB RAM<br>2×6TB HDD SAS<br>3 Gbps<br>Red Interna" 
 
 
  >}}

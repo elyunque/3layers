@@ -1,6 +1,7 @@
 ---
-title: "¿Cual es el nombre de su Empresa?"
-date: 2019-07-21T13:15:19-04:00
+faq: "faq"
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
 draft: false
 sitemap: false
 ---

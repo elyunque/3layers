@@ -1,6 +1,26 @@
 <div class="unit-5 overlay" style="background-image: url('{{ .Params.thumbnail | absURL }}');">
     <div class="container text-center">
-        <h2 class="mb-0">{{ .Params.subtitle }}</h2>
-        <p class="mb-0 unit-6"><a href="{{ .Site.Params.homeurl | absURL }}"><span>{{ .Site.Params.home }}</span></a> <span class="sep">></span> <span>{{ .Title }}</span></span></p>
+        {{ if isset .Params "subtitle" }}
+            <h2 class="mb-0">{{ .Params.subtitle }}</h2>
+        {{ else }}
+            <h2 class="mb-0">{{ .Title }}</h2>
+        {{ end }}
+        <p class="mb-0 unit-6">
+            <a href="{{ .Site.Params.homeurl | absURL }}">
+                <span>{{ .Site.Params.home }}</span>
+            </a>&nbsp;
+            <span class="sep">
+                >
+            </span>&nbsp;
+            {{ if isset .Params "author" }}
+                <a href="{{ .Site.Params.blogurl | absURL }}">
+                    {{ .Site.Params.blog }}
+                </a>
+                <span class="sep">
+                    >
+                </span>&nbsp;
+            {{ end }}
+            <span>{{ .Title }}</span>        
+        </p>
     </div>
 </div>

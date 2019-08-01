@@ -24,12 +24,19 @@
     <div class="site-section">
       <div class="container">
 
-        {{ .Content }}
+          {{ partial "goback" . }}
+
+          <br>
+
+          {{ .Content  }}
+
+          <br>
+
+          {{ partial "goback" . }}
 
       </div>
     </div>
     
-
     {{ partial "footer" . }}
     
   </div>

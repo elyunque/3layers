@@ -1,8 +1,8 @@
 {{ .Get "topdata" | safeHTML  }}
 <br>
 <div class="row">
-    <div class="col-md-6 col-lg-4" data-aos="fade" data-aos-delay="0">
-        <div class="unit-7 pricing-table-modern__item">
+    <div class="col-md-6 col-lg-4">
+        <div class="unit-7 pricing-table-modern__item {{ .Get `tablefeatured1` }}">
         <div class="pricing-table__item-header">
             <div class="pricing-table__item-header-bg">
             <div class="pricing-table__item-header-bg-inner"></div>
@@ -17,8 +17,8 @@
         </div>
     </div>
 
-    <div class="col-md-6 col-lg-4" data-aos="fade" data-aos-delay="0">
-        <div class="unit-7 pricing-table-modern__item featured-pricing">
+    <div class="col-md-6 col-lg-4">
+        <div class="unit-7 pricing-table-modern__item {{ .Get `tablefeatured2` }}"}>
         <div class="pricing-table__item-header">
             <div class="pricing-table__item-header-bg">
             <div class="pricing-table__item-header-bg-inner"></div>
@@ -28,13 +28,12 @@
         <div class="pricing-table__item-main">
             <span class="d-block h2">{{ .Get "tableprice2" | safeHTML }}</span>            
             <p>{{ .Get "tablecontent2" | safeHTML  }}</p>
-            <div class="pricing-table__item-control"><a class="btn btn-primary rounded-0 py-2 px-4" href="{{ .Get `tablelink2` | absURL }}">{{  .Get "tablebutton2" }}</a></div>
-        </div>
+            <div class="pricing-table__item-control"><a class="btn btn-secondary rounded-0 py-2 px-4" href="{{ .Get `tablelink2` | absURL }}">{{  .Get "tablebutton2" }}</a></div>        </div>
         </div>
     </div>
 
-    <div class="col-md-6 col-lg-4" data-aos="fade" data-aos-delay="0">
-        <div class="unit-7 pricing-table-modern__item">
+    <div class="col-md-6 col-lg-4">
+        <div class="unit-7 pricing-table-modern__item {{ .Get `tablefeatured3` }}">
         <div class="pricing-table__item-header">
             <div class="pricing-table__item-header-bg">
             <div class="pricing-table__item-header-bg-inner"></div>

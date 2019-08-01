@@ -1,9 +1,9 @@
 ---
-title: "RapidSSL"
+title: "RapidSSL de GeoTrust"
 subtitle: "RapidSSL de GeoTrust"
 date: 2019-07-25T22:16:42-04:00
 draft: false
-sitemap: false
+sitemap: true
 thumbnail: "images/ext/rapidssl.png"
 author: "3layers"
 ---
