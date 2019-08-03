@@ -15,9 +15,9 @@ placeholderfullname: "Nombre y Apellido"
 placeholderemail: "Introduzca su Correo Eléctronico"
 placeholdersubject: "Introduzca su Asunto"
 placeholdermessage: "Díganos Hola"
-address: "203 Fake St. Mountain View, San Francisco, California, USA"
-phone: "+1 232 3235 324"
-email: "youremail2@domain.com"
+address: "Santo Domingo, República Dominicana."
+phone: "+1 829 787 0797"
+email: "hpimentel+3layers@gmail@com"
 form: "https://formspree.io/hpimentel+formspree@gmail.com"
 sitemap: true
 ---
