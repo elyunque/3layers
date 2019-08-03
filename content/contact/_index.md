@@ -18,7 +18,7 @@ placeholdermessage: "Díganos Hola"
 address: "203 Fake St. Mountain View, San Francisco, California, USA"
 phone: "+1 232 3235 324"
 email: "youremail2@domain.com"
-form: "https://mailthis.to/3layers"
+form: "https://formspree.io/hpimentel+formspree@gmail.com"
 sitemap: true
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ad iure porro mollitia architecto hic consequuntur. Distinctio nisi perferendis dolore, ipsa consectetur
