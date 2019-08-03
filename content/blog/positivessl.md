@@ -37,7 +37,7 @@ PositiveSSL ofrece el cifrado SSL más sólido disponible, con claves RSA SHA-25
 
 Cada certificado SSL incluye licencias de servidor ilimitadas, para que pueda proteger todos sus servidores físicos.
 
-***Con la confianza de todos los principales navegadores web***
+**Con la confianza de todos los principales navegadores web***
 
 La compatibilidad del navegador es una parte clave de la elección de un proveedor de SSL. Compatible con todos los navegadores populares, los certificados PositiveSSL son una opción sin preocupaciones para mantener la confianza en su sitio web.
 
