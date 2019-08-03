@@ -10,7 +10,7 @@
                     <h1 class="mb-2">{{ .Title }}</h1>
                     <p class="mb-5">{{ .Plain }}</p>
                     <p>                
-                        <a href="#" class="btn btn-white btn-outline-white py-3 px-5 rounded-0">
+                        <a href="{{ .Params.pageurl | absURL }}" class="btn btn-white btn-outline-white py-3 px-5 rounded-0">
                             {{ .Params.button }}
                         </a>
                     </p>
