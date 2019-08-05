@@ -27,7 +27,7 @@
           <div class="col-md-12 col-lg-8 mb-5">
           
             <form name="contact" method="POST" class="p-5 bg-white" data-netlify-recaptcha="true" netlify-honeypot="bot-field" data-netlify="true">
-
+              
               <div class="row form-group">
                 <div class="col-md-12 mb-3 mb-md-0">
                   <label class="font-weight-bold" for="fullname">{{ .Params.textfullname }}</label>
@@ -54,10 +54,14 @@
                 </div>
               </div>
 
-              <div class="invisible">
-                  <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
-              </div>
-
+              <div class="row form-group">
+                  <div class="col-md-12">
+                      <div data-netlify-recaptcha="true"></div>
+                  </div>
+              </div>  
+               
+              <input type="hidden" name="bot-field" />
+              
               <div class="row form-group">
                 <div class="col-md-12">
                   <input type="submit" value="Send" class="btn btn-primary  py-2 px-4 rounded-0">
