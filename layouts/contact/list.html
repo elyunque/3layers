@@ -26,7 +26,11 @@
       
           <div class="col-md-12 col-lg-8 mb-5">
           
-            <form action="{{ .Params.form }}" method="POST" class="p-5 bg-white">
+            <form name="contact" method="POST" class="p-5 bg-white" netlify netlify-honeypot="bot-field" data-netlify="true" data-netlify="true">
+
+              <p class="hidden">
+                <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+              </p>
 
               <div class="row form-group">
                 <div class="col-md-12 mb-3 mb-md-0">
