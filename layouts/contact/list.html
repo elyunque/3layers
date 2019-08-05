@@ -31,26 +31,26 @@
               <div class="row form-group">
                 <div class="col-md-12 mb-3 mb-md-0">
                   <label class="font-weight-bold" for="fullname">{{ .Params.textfullname }}</label>
-                  <input type="text" id="fullname" name="fullname" class="form-control" placeholder="{{ .Params.placeholderfullname }}">
+                  <input required type="text" id="fullname" name="fullname" class="form-control" placeholder="{{ .Params.placeholderfullname }}">
                 </div>
               </div>
               <div class="row form-group">
                 <div class="col-md-12">
                   <label class="font-weight-bold" for="email">{{ .Params.textemail }}</label>
-                  <input type="email" id="email" name="email" class="form-control" placeholder="{{ .Params.placeholderemail }}">
+                  <input required  type="email" id="email" name="email" class="form-control" placeholder="{{ .Params.placeholderemail }}">
                 </div>
               </div>
               <div class="row form-group">
                 <div class="col-md-12">
                   <label class="font-weight-bold" for="email">{{ .Params.textsubject }}</label>
-                  <input type="text" id="subject" name="subject" class="form-control" placeholder="{{ .Params.placeholdersubject }}">
+                  <input required  type="text" id="subject" name="subject" class="form-control" placeholder="{{ .Params.placeholdersubject }}">
                 </div>
               </div>
               
               <div class="row form-group">
                 <div class="col-md-12">
                   <label class="font-weight-bold" for="message">{{ .Params.textmessage }}</label> 
-                  <textarea name="message" id="message" cols="30" rows="5" class="form-control" placeholder="{{ .Params.placeholdermessage }}"></textarea>
+                  <textarea required name="message" id="message" cols="30" rows="5" class="form-control" placeholder="{{ .Params.placeholdermessage }}"></textarea>
                 </div>
               </div>
 
