@@ -5,71 +5,58 @@
         <div class="row">
         <div class="col-lg-7">
             <div class="row">
-            <div class="col-6 col-md-4 col-lg-4 mb-5 mb-lg-0">
-                <h3 class="footer-heading mb-4">Company</h3>
+                    <div class="col-6 col-md-6 col-lg-6 mb-6 mb-lg-0">
+                            <h3 class="footer-heading mb-4">Alojamientos</h3>
+                            <ul class="list-unstyled">
+                                    {{ range sort (where .Site.Pages "Section" "hosting") ".Params.fade" }}
+                                        {{ if isset .Params "title" }}
+                                            <li><a href="{{ .Params.pageurl }}">{{ .Title }}</a></li>
+                                        {{ end }}
+                                    {{ end }}
+                            </ul>
+                            <h3 class="footer-heading mb-4">SSL</h3>
+                            <ul class="list-unstyled">
+                                    {{ range where .Site.Pages "Section" "ssl" }}
+                                        {{ if isset .Params "title" }}
+                                            <li><a href="{{ .Params.pageurl }}">{{ .Title }}</a></li>
+                                        {{ end }}
+                                    {{ end }}
+                            </ul>
+                        </div>            
+            <div class="col-6 col-md-6 col-lg-6 mb-6 mb-lg-0">
+                <h3 class="footer-heading mb-4">Menu Rápido</h3>
                 <ul class="list-unstyled">
-                <li><a href="#">About</a></li>
-                <li><a href="#">Services</a></li>
-                <li><a href="#">Servers</a></li>
-                <li><a href="#">Hosting</a></li>
-                <li><a href="#">News</a></li>
-                <li><a href="#">Careers</a></li>
-                </ul>
-            </div>
-            <div class="col-6 col-md-4 col-lg-4 mb-5 mb-lg-0">
-                <h3 class="footer-heading mb-4">Navigations</h3>
-                <ul class="list-unstyled">
-                <li><a href="#">About</a></li>
-                <li><a href="#">Services</a></li>
-                <li><a href="#">Servers</a></li>
-                <li><a href="#">Hosting</a></li>
-                <li><a href="#">News</a></li>
-                <li><a href="#">Careers</a></li>
-                </ul>
-            </div>
-            <div class="col-6 col-md-4 col-lg-4 mb-5 mb-lg-0">
-                <h3 class="footer-heading mb-4">Quick Menu</h3>
-                <ul class="list-unstyled">
-                <li><a href="#">About</a></li>
-                <li><a href="#">Services</a></li>
-                <li><a href="#">Servers</a></li>
-                <li><a href="#">Hosting</a></li>
-                <li><a href="#">News</a></li>
-                <li><a href="#">Careers</a></li>
+                <li><a href="/">Inicio</a></li>
+                <li><a href="/domain/">Dominios</a></li>
+                <li><a href="/ssl/ssl1">SSL</a></li>
+                <li><a href="/hosting/hosting1">Alojamiento</a></li>
+                <li><a href="/blog/">Blog</a></li>                
                 </ul>
             </div>
             </div>
         </div>
         <div class="col-lg-5">
             <div class="row mb-5">
-            <div class="col-md-12"><h3 class="footer-heading mb-4">Europe</h3></div>
-            <div class="col-md-6">
-                <p>London - 2398 <br> 10 Japson Street</p>    
-            </div>
-            <div class="col-md-6">
-                Tel. + (123) 3240-345-9348 <br>
-                Mail. europe@youdomain.com
-            </div>
-            </div>
-
-            <div class="row">
-            <div class="col-md-12"><h3 class="footer-heading mb-4">USA</h3></div>
-            <div class="col-md-6">
-                <p>New York - 2398 <br> 10 Hadson Carl Street</p>    
-            </div>
-            <div class="col-md-6">
-                Tel. + (123) 3240-345-9348 <br>
-                Mail. usa@youdomain.com
-            </div>
-            </div>
-            
+            {{ range first 1 (where .Site.Pages "Section" "contact") }}
+                {{ if isset .Params "title" }}       
+                    <div class="col-md-12"><h3 class="footer-heading mb-4">República Dominicana</h3></div>
+                    <div class="col-md-6">
+                        <p>{{ .Params.address }}</p>    
+                    </div>
+                    <div class="col-md-6">
+                        T: {{ .Params.phone }} <br>
+                        M: {{ .Params.email }}
+                    </div>
+                    </div>
+                {{ end }}
+            {{ end }}
         </div>
         </div>
         <div class="row pt-5 mt-5 text-center">
         <div class="col-md-12">
             <p>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            Copyright &copy; <script>document.write(new Date().getFullYear());</script> All Rights Reserved | This template is made with <i class="icon-heart text-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
+            Copyright &copy; <script>document.write(new Date().getFullYear());</script> All Rights Reserved 3layers.host | This template is made with <i class="icon-heart text-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             </p>
         </div>
