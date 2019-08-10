@@ -1,7 +1,6 @@
 baseURL = "https://3layers.host/"
 title = "3 Layers"
 enableRobotsTXT = true
-disqus_identifier = "hpimentel"
 
 [params]
 company = "3 Layers"
