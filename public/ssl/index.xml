@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ssls on 3 Layers</title>
+    <link>https://3layers.host/ssl/</link>
+    <description>Recent content in Ssls on 3 Layers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 25 Jul 2019 21:39:15 -0400</lastBuildDate>
+    
+	<atom:link href="https://3layers.host/ssl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SSL Wildcard</title>
+      <link>https://3layers.host/ssl/ssl4/</link>
+      <pubDate>Thu, 25 Jul 2019 21:39:15 -0400</pubDate>
+      
+      <guid>https://3layers.host/ssl/ssl4/</guid>
+      <description>Los certificados SSL con comodín son muy populares y tienen una sólida reputación de grandes ahorradores de costos, ya que pueden proteger subdominios ilimitados dentro del mismo dominio. Ya no es necesario comprar y administrar varios certificados de dominio único. La mayoría de los certificados Wildcard admiten licencias de servidor ilimitadas, lo que permite la instalación en tantos servidores / dispositivos como sea necesario. Reediciones ilimitadas gratuitas disponibles para todos los pedidos.</description>
+    </item>
+    
+    <item>
+      <title>Validación Extendida</title>
+      <link>https://3layers.host/ssl/ssl3/</link>
+      <pubDate>Thu, 25 Jul 2019 21:39:06 -0400</pubDate>
+      
+      <guid>https://3layers.host/ssl/ssl3/</guid>
+      <description>Los certificados SSL de Validación ampliada (EV) son los productos más respetados y valiosos que tenemos, ya que proporcionan la barra de direcciones verde con el nombre de la empresa verificada. La barra de direcciones verde es el indicador de seguridad más conocido en línea. Los certificados EV SSL aumentan la confianza de sus clientes finales y aumentan las conversiones hasta en un 17.3%. Tienen el nivel de garantía más alto en comparación con los certificados DV o OV.</description>
+    </item>
+    
+    <item>
+      <title>Validación de Negocio</title>
+      <link>https://3layers.host/ssl/ssl2/</link>
+      <pubDate>Thu, 25 Jul 2019 21:38:59 -0400</pubDate>
+      
+      <guid>https://3layers.host/ssl/ssl2/</guid>
+      <description>Los certificados SSL de validación comercial se vuelven más populares en el mercado, ya que les permite a los usuarios finales verificar el nombre de la empresa, la dirección y el número de teléfono del sitio web que visitan. Eso ayuda a establecer relaciones de confianza y aumentar las conversiones.
+Ofrecemos varios certificados SSL de validación de la organización de la mayoría de las autoridades de certificación (CA) de confianza. Normalmente, se requieren pocos días hábiles para pasar la verificación, sin embargo, puede tomar más tiempo, así que tenga paciencia.</description>
+    </item>
+    
+    <item>
+      <title>SSL de Dominio</title>
+      <link>https://3layers.host/ssl/ssl1/</link>
+      <pubDate>Thu, 25 Jul 2019 19:24:46 -0400</pubDate>
+      
+      <guid>https://3layers.host/ssl/ssl1/</guid>
+      <description>Certificados SSL de Validación de Dominio (DV) disponibles para todas las entidades privadas / individuales, empresas / organizaciones y gubernamentales. No se requiere documentación; todo lo que necesita es pasar la verificación de propiedad del dominio a través de uno de los métodos disponibles.
+Mayores certificados DV de SSL provistos con el logotipo de Static Site Seal, reemisiones gratuitas ilimitadas, licencias de servidor ilimitadas, refuerzo de Google Rank y garantía de devolución de dinero de 30 días.</description>
+    </item>
+    
+  </channel>
+</rss>

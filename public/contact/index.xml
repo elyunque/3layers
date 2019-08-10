@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacto on 3 Layers</title>
+    <link>https://3layers.host/contact/</link>
+    <description>Recent content in Contacto on 3 Layers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 11 Jul 2019 21:28:48 -0400</lastBuildDate>
+    
+	<atom:link href="https://3layers.host/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

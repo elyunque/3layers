@@ -34,6 +34,11 @@
 
           {{ partial "goback" . }}
 
+          <br>
+          {{ if isset .Params "author" }} 
+            {{ template "_internal/disqus.html" . }}   
+          {{ end }}
+
       </div>
     </div>
     
