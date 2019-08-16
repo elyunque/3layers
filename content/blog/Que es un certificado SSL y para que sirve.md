@@ -1,13 +1,12 @@
 ---
-title: "¿Qué es un certificado SSL y para qué sirve?"
-subtitle: "¿Qué es un certificado SSL y para qué sirve?"
-date: 2019-08-15T10:42:10-04:00
+title: ¿Qué es un certificado SSL y para qué sirve?
+subtitle: ¿Qué es un certificado SSL y para qué sirve?
+date: 2019-08-15T14:42:10.000Z
 draft: false
 sitemap: true
-thumbnail: "images/ext/ssl.png"
-author: "3layers"
+thumbnail: images/ext/ssl.png
+author: 3layers
 ---
-
 Hoy en día es más común oír hablar a los usuarios de Internet sobre lo que pueden o no hacer en sus equipos móviles, PC, o portátiles. En general, tenemos una generación de usuarios más consciente de la seguridad, y aunque muchas acciones son mitos (obtenidos en su mayoría por rumores en redes sociales o WhatsApp), muchas otras son realidades, y nos ayudaran a estar más seguro en un mundo lleno de [Ciberataques](https://es.wikipedia.org/wiki/Ciberataque) y [Guerras digitales entre grandes potencias](https://www.kaspersky.com/about/policy-blog/general-cybersecurity/how-to-deal-with-militarizing-cyberspace).
 
 Para el usuario moderno ya no es desconocido que los portales puedes ser seguros o inseguros, esta tendencia traída a nosotros a través de promociones de Google en la que informaba que estará bloqueando los portales que no cuenten con certificados de seguridad y no solo eso, que estará afectando el [SEO](https://rubycom.com/seo-search-engine-optimization) y reputación de estos portales no seguro. Pero en general, la comunidad completa de grandes proveedores y los [Certificate authority](https://es.wikipedia.org/wiki/Autoridad_de_certificaci%C3%B3n) han estado en estos últimos dos años forzando el uso de SSL.
@@ -28,12 +27,12 @@ Es de vital importante que un Portal Web y su correo electrónico cuenten con un
 
 El navegador web que usted utilice le dirá que está visitando un portal web seguro. Al visualizar un icono con un candado en la barra de navegación:
 
-  Barra de Estatus  | Navegador
-  ------------- | -------------
-  ![Chrome SSL Status](/images/ext/chromessl.jpg) | Google Chrome 
-  ![Apple Safari SSL Status](/images/ext/safarissl.jpg) | Apple Safari
-  ![Mozilla Firefox SSL Status](/images/ext/firefoxssl.jpg) | Mozilla Firefox
-  ![Opera SSL Status](/images/ext/operassl.jpg) | Opera
+| Barra de Estatus                                          | Navegador       |
+| --------------------------------------------------------- | --------------- |
+| ![Chrome SSL Status](/images/ext/chromessl.jpg)           | Google Chrome   |
+| ![Apple Safari SSL Status](/images/ext/safarissl.jpg)     | Apple Safari    |
+| ![Mozilla Firefox SSL Status](/images/ext/firefoxssl.jpg) | Mozilla Firefox |
+| ![Opera SSL Status](/images/ext/operassl.jpg)             | Opera           |
 
 Para sus correos electrónicos los puertos seguros siempre serán 993, 995, y 465, esto quiere decir que si no está usando uno de estos puertos en la configuración de su correo electrónico, usted está sobre una conexión no encriptada. Es importante destacar que, aunque este sobre estos puertos contacte a su proveedor de correo electrónico para asegurarse que el certificado está activo y que estos puertos están abriendo una conexión segura.
 
