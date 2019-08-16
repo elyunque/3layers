@@ -5,7 +5,12 @@ backend:
   media_folder: "static/ext"
   public_folder: "uploads"
 
-  collections:
+media_library:
+  name: uploadcare
+  config:
+    publicKey: demopublickey
+
+collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
     folder: "content/blog" # The path to the folder where the documents are stored
@@ -15,4 +20,8 @@ backend:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "SubTitle", name: "subtitle", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
+      - {label: "Site Map", name: "sitemap", widget: "boolean", default: true}
+      - {label: "Featured Image", name: "thumbnail", widget: "image"}
+      - {label: "Author", name: "author", widget: "string", default: "3layers"}
       - {label: "Body", name: "body", widget: "markdown"}
