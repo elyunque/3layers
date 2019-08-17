@@ -29,8 +29,7 @@ Ahora cada sitio web con certificado SSL instalado gana una clasificación más 
 
 En 3Layers Host conocemos la importancia de la compatibilidad con la mayoría de los navegadores móviles y de PC. GeoTrust está invirtiendo fondos sustanciales para hacer que su SSL sea compatible con todos los dispositivos del planeta. Eche un vistazo a la lista completa de todos los [dispositivos compatibles](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
 
-**Potente compatibilidad**
-En 3Layers Host conocemos la importancia de la compatibilidad con la mayoría de los navegadores móviles y de PC. RapidSSL está invirtiendo fondos sustanciales para hacer que su SSL sea compatible con todos los dispositivos del planeta. Eche un vistazo a la lista completa de todos los [dispositivos compatibles](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+**Soporte de dispositivo universal**
 
-**Potente compatibilidad**
-En 3Layers Host conocemos la importancia de la compatibilidad con la mayoría de los navegadores móviles y de PC. RapidSSL está invirtiendo fondos sustanciales para hacer que su SSL sea compatible con todos los dispositivos del planeta. Eche un vistazo a la lista completa de todos los [dispositivos compatibles](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+Certificado SSL con más del 99% de confianza en navegadores comunes, sistemas operativos, clientes de correo electrónico y dispositivos. Utilice solo certificados de confianza para establecer la confianza entre los clientes potenciales existentes y nuevos. Asegúrese de que SSL tenga una instalación adecuada. Obtenga más información sobre la compatibilidad del dispositivo SSL.
+
