@@ -29,3 +29,6 @@ Ahora cada sitio web con certificado SSL instalado gana una clasificación más 
 **Potente compatibilidad**
 
 En 3Layers Host conocemos la importancia de la compatibilidad con la mayoría de los navegadores móviles y de PC. RapidSSL está invirtiendo fondos sustanciales para hacer que su SSL sea compatible con todos los dispositivos del planeta. Eche un vistazo a la lista completa de todos los [dispositivos compatibles](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+
+**Potente compatibilidad**
+En 3Layers Host conocemos la importancia de la compatibilidad con la mayoría de los navegadores móviles y de PC. RapidSSL está invirtiendo fondos sustanciales para hacer que su SSL sea compatible con todos los dispositivos del planeta. Eche un vistazo a la lista completa de todos los [dispositivos compatibles](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
