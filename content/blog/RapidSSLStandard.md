@@ -7,7 +7,6 @@ sitemap: true
 thumbnail: images/ext/rapidssl.png
 author: 3layers
 ---
-
 El certificado RapidSSL de 3Layers Host pertenece a la marca GeoTrust CA. Lacual es una autoridad de certificación bastante antigua y conocida con millones de ventas. Al igual que cualquier otra validación de dominio, el proceso de emisión de certificados SSL toma alrededor de cinco minutos. RapidSSL admite el cifrado de 128/256 bits, por lo que dispone de algoritmos hash SHA2.
 
 La validación tiene un proceso automático, y es por eso por lo que es posible obtener SSL en cualquier momento, de día o de noche. No es necesario enviar ningún documento comercial o privado al centro de certificación, ya que RapidSSL solo requiere la confirmación de la propiedad del dominio. Es posible pasar la validación solo por correo electrónico y es recomendable contar con un correo electrónico en su gestor de correo electrónico admin@sudominio.com o webmaster@sudominio.com para hacer el proceso más rapido.
@@ -29,4 +28,4 @@ Ahora cada sitio web con certificado SSL instalado gana una clasificación más 
 
 **Potente compatibilidad**
 
-En 3Layers Host conocemos la importancia de la compatibilidad con la mayoría de los navegadores móviles y de PC. RapidSSL está invirtiendo fondos sustanciales para hacer que su SSL sea compatible con todos los dispositivos del planeta. Eche un vistazo a la lista completa de todos los dispositivos compatibles.
+En 3Layers Host conocemos la importancia de la compatibilidad con la mayoría de los navegadores móviles y de PC. RapidSSL está invirtiendo fondos sustanciales para hacer que su SSL sea compatible con todos los dispositivos del planeta. Eche un vistazo a la lista completa de todos los [dispositivos compatibles](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
