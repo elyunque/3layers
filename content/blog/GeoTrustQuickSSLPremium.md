@@ -15,7 +15,7 @@ La emisión del certificado en 3Layers Host solo toma entre 5 y 8 minutos para o
 
 QuickSSL Premium de 3Layers Host viene con el logotipo dinámico del sello del sitio para aumentar las conversiones y aumentar la confianza en sus servicios y sitio web. La información de verificación aparecerá en su navegador de Internet una vez que alguien haga clic en el icono del sello SSL del sitio. Asegúrese de colocar el sello del sitio en las páginas más populares, como la página de inicio, el inicio de sesión o en las secciones de pago en línea. El sello GeoTrust de 3Layers Host se ve de la siguiente forma en su Portal Web.
 
-![Geotrust SSL Seal](https://ucarecdn.com/f57d87d6-3c5f-4c7a-acba-55b6b9c0f84b/)
+![Geotrust SSL Seal](images/ext/geotrust-seal.png)
 
 **Certificado de dominio examinado**
 

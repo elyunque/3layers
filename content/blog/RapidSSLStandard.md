@@ -18,7 +18,7 @@ Para su conveniencia es posible obtener RapidSSL por tres años, ahorrar más di
 
 El certificado RapidSSL equipa un sitio web con el logotipo estático estándar de Site Seal. Viene en formato animado-gif y presenta información sobre el monto de la garantía y el nivel de encriptación. Ponga el sello en los carritos de la compra y en los formularios web para asegurar que sus clientes, proveedores y visitantes en general sepan que están protegidos. Con esto recibe la confianza del cliente y elimina cualquier duda.
 
-[Geotrust Seal SSL](images/ext/ rapidssl_ssl_certificate.gif)
+![Geotrust Seal SSL](images/ext/ rapidssl_ssl_certificate.gif)
 
 **Emisión rápida de SSL**
 La validación de dominio SSL es una protección instantánea dentro de los cinco minutos posterior a la solicitud a 3Layers Host. No hay documentos, ni escaneos ni fax, todo lo que RapidSSL requiere es confirmar la propiedad del dominio por correo electrónico. Y nosotros en 3Layers Host lo hacemos por usted.
