@@ -31,5 +31,7 @@ Google Inc. ha anunciado cambios en el algoritmo del motor de búsqueda. Ahora t
 
 GeoTrust, como una de las marcas más conocidas, emitida por DigiCert CA, invierte mucha potencia para la compatibilidad del navegador en tantos dispositivos como sea posible, incluidos los dispositivos móviles. Hoy, GeoTrust ofrece una compatibilidad potente del 99% con cada dispositivo. Tómese unos minutos para consultar la lista de [dispositivos compatibles](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
 
-**Potente compatibilidad**
-En 3Layers Host conocemos la importancia de la compatibilidad con la mayoría de los navegadores móviles y de PC. RapidSSL está invirtiendo fondos sustanciales para hacer que su SSL sea compatible con todos los dispositivos del planeta. Eche un vistazo a la lista completa de todos los [dispositivos compatibles](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+
+**Único garantía real en Latinoamericano**
+
+3Layers Host es la única empresa con contacto directo con los Certificate Authorities en el mundo, por lo que garantizamos contacto directo y solución a sus situacion por personal experto en la República Dominicana, Panamá, Costa Rica, México, Guatemala y en toda latinoamericano a través de nuestros [agentes de ventas de 3Layers Host](https://3layers.host/contact/).

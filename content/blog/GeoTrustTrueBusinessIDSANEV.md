@@ -8,21 +8,23 @@ thumbnail: "images/ext/geotrust.png"
 author: "3layers"
 ---
 
-La solución perfecta para aquellos que tienen múltiples sitios web de comercio electrónico o corporativos que requieren la mejor protección y características de confianza como la barra de direcciones verdes que viene con cada certificado SSL. Es posible proteger hasta 250 dominios con el último algoritmo hash SHA-256. Reediciones gratuitas ilimitadas y licencias de servidor ilimitadas están disponibles durante todo el ciclo de vida de SSL emitido.
+La solución perfecta para aquellos que tienen múltiples sitios web de comercio electrónico o corporativos y requieren la mejor protección y características de confianza como la barra de direcciones verdes que viene con cada certificado SSL. Es posible proteger hasta 250 dominios con el último algoritmo hash SHA-256. Reediciones gratuitas ilimitadas y licencias de servidor ilimitadas están disponibles durante todo el ciclo de vida de SSL emitido.
 
-GeoTrust SSL muy utilizado por Outlook, OWA y ActiveSync, ya que SSL creado por la empresa profesional con más de 120,000 clientes en todo el mundo, que confían en esa marca. El producto se adapta tanto a las pequeñas como a las grandes empresas, por lo que es flexible y tiene un precio razonable.
+GeoTrust SSL muy utilizado por Outlook, OWA y ActiveSync, ya que GeoTrust es una empresa profesional con más de 120,000 clientes en todo el mundo, que confían en la marca. El producto se adapta tanto a las pequeñas como a las grandes empresas, por lo que es flexible y tiene un precio razonable. Esto unido a la experiencia y servicio directo de 3Layers Host.
 
 **Multidominio (SAN)**
 
-El certificado SSL actual viene con 250 artículos SAN totales; cada SAN puede proteger el nombre de dominio O subdominio. En la mayoría de los casos, es más que suficiente para proteger todo lo que tiene. Todos los dominios / subdominios deben pertenecer a la misma empresa / organización para obtener la barra de direcciones verde. Ya no es necesario pasar múltiples validaciones EV para cada certificado SSL EV, ya que con la validación SSL multidominio se pasa una vez.
+El certificado SSL actual viene con 250 artículos SAN totales; cada SAN puede proteger el nombre de dominio o subdominio. En la mayoría de los casos, es más que suficiente para proteger todo. Todos los dominios / subdominios deben pertenecer a la misma empresa / organización para obtener la barra de direcciones verde. Ya no es necesario pasar múltiples validaciones EV para cada certificado SSL EV, ya que con la validación SSL multidominio se pasa una vez.
 
 **Validación Extendida**
 
-La validación extendida genera muchas preocupaciones para todos, ya que no está claro qué esperar del proceso de validación. Sin embargo, la marca GeoTrust, operada por DigiCert CA, es una compañía global multilingüe profesional con muchas oficinas y agencias que ayudan a pasar la validación rápidamente. Comprobarán la mayoría de las cosas con sus bases de datos y registros locales. Consulte nuestro proceso de guía EV unificada.
+La validación extendida genera muchas preocupaciones para todos, ya que no está claro qué esperar del proceso de validación. Sin embargo, la marca GeoTrust, operada por DigiCert CA, mientras que 3Layers Host es una compañía global multilingüe profesional con muchas oficinas y agencias que ayudan a pasar la validación rápidamente. Comprobarán la mayoría de las cosas con sus bases de datos y registros locales. Consulte a un agente de 3Layers Host para conocer el proceso de guía EV unificada.
 
 **Verificación del sello del sitio**
 
-Cada certificado SSL de GeoTrust proporciona un logotipo dinámico del sello del sitio con una verificación completa de la organización; eso significa que los visitantes de su sitio web verán información comercial verificada, como el nombre de la empresa, la dirección registrada, el teléfono y el monto de la garantía proporcionada. Compruebe cómo se ve el sello GeoTrust.
+Cada certificado SSL de GeoTrust proporciona un logotipo dinámico del sello del sitio con una verificación completa de la organización; eso significa que los visitantes de su sitio web verán información comercial verificada, como el nombre de la empresa, la dirección registrada, el teléfono y el monto de la garantía proporcionada. De esta forma se el sello GeoTrust.
+
+![Geotrust SSL Seal](/images/ext/geotrust-seal.png)
 
 **Google SEO Booster**
 
