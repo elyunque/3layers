@@ -31,4 +31,9 @@ Ahora cada sitio web con certificado SSL instalado gana una clasificación más 
 En 3Layers Host conocemos la importancia de la compatibilidad con la mayoría de los navegadores móviles y de PC. RapidSSL está invirtiendo fondos sustanciales para hacer que su SSL sea compatible con todos los dispositivos del planeta. Eche un vistazo a la lista completa de todos los [dispositivos compatibles](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
 
 **Potente compatibilidad**
+
 En 3Layers Host conocemos la importancia de la compatibilidad con la mayoría de los navegadores móviles y de PC. RapidSSL está invirtiendo fondos sustanciales para hacer que su SSL sea compatible con todos los dispositivos del planeta. Eche un vistazo a la lista completa de todos los [dispositivos compatibles](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+
+**Únicos con garantía real en Latinoamericano**
+
+3Layers Host es la única empresa con contacto directo con los Certificate Authorities en el mundo, por lo que garantizamos contacto directo y solución a sus situación por personal experto en la República Dominicana, Panamá, Costa Rica, México, Guatemala y en toda latinoamericano a través de nuestros [agentes de ventas de 3Layers Host](https://3layers.host/contact/).

@@ -8,21 +8,23 @@ thumbnail: "images/ext/symantec.jpg"
 author: "3layers"
 ---
 
-
 Symantec Secure Site Pro con la función SGC habilitada y el soporte de ECC es el SSL más famoso y respetado en grandes empresas, bancos, proyectos de comercio electrónico y entidades gubernamentales. Secure Site Pro de 256 bits permite emitir SSL con SHA256 y algoritmo hash ECC. Puede pedir hasta 250 artículos SAN para proteger cualquier cosa que tenga con el mismo certificado.
 
 DigiCert CA, que emite certificados SSL de Symantec, es el proveedor de SSL más respetuoso del planeta. DigiCert opera los certificados SSL RapidSSL, GeoTrust, Thawte y Symantec. Más de 210,000 sitios protegidos a nivel mundial y el número crece. Sin dudas es la mejor opción para su proyecto.
 
 **Se requiere validación comercial**
 
-El centro de certificación de Symantec tiene soporte en varios idiomas con muchos agentes en todo el mundo, lo que facilita la verificación de los clientes que no hablan inglés. Se recomienda encarecidamente a los clientes chinos, japoneses, rusos, españoles y otros. En la mayoría de los casos, la verificación demora entre 1 y 5 días hábiles, pero puede demorar más en caso de dificultades o situaciones complicadas. Lea nuestros manuales de validación para conocer el proceso de verificación.
+El centro de certificación de Symantec tiene soporte en varios idiomas con muchos agentes en todo el mundo. En la mayoría de los casos, la verificación demora entre 1 y 5 días hábiles, pero puede demorar más en caso de dificultades o situaciones complicadas. Tómese un minuto para contactar al [equipo de ventas de 3Layers Host](https://3layers.host/contact/) y juntos verificar los pasos requeridos.
 
 **Criptografía activada por servidor (SGC)**
 
-SGC SSL es el único producto que aumenta el nivel de encriptación del navegador de 40 bits hasta 256 bits. Es importante proporcionar un cifrado seguro a todos sus visitantes, incluso a aquellos que usan versiones antiguas de Internet Explorer de Windows. Principalmente sugerido para grandes extranets, bancos de Internet y empresas.
+SGC SSL es el único producto que aumenta el nivel de encriptación del navegador de 40 bits hasta 256 bits. Es importante proporcionar un cifrado seguro a todos sus visitantes, incluso a aquellos que usan versiones antiguas de Internet Explorer de Windows. Principalmente sugerido para grandes extranets, Internet banking y empresas.
 
 **Sello asegurado Norton ™**
+
 Los productos únicos requieren diferentes funciones, por eso el certificado Symantec Secure Site Pro viene con la mayoría de las tecnologías estándar Norton ™ Site Seal y Seal-in-Search. El sello Symantec recibe alrededor de 800 millones de impresiones por día de más de 170 países. Compruebe cómo se ve el sello Symantec.
+
+![Symantec SSL Seal](/images/ext/norton-seal.png)
 
 **Asegure múltiples sitios web**
 
@@ -34,4 +36,8 @@ Symantec Secure Site es el producto único, ya que cuenta con Seal-in-Search par
 
 **Compatibilidad del dispositivo**
 
-Symantec CA intenta hacer de sus certificados uno de los mejores del mundo, es por eso que Secure Site Pro SSL viene con casi un 100% de compatibilidad de navegador y dispositivo móvil. Ese es el resultado más alto que hemos visto. Al solicitar ese SSL, no debe tener dudas de que funcionará en casi todos los dispositivos de un planeta. Aquí está la lista de dispositivos compatibles conocidos.
+Symantec CA intenta hacer de sus certificados uno de los mejores del mundo, es por eso que Secure Site Pro SSL viene con casi un 100% de compatibilidad de navegador y dispositivo móvil. Ese es el resultado más alto que hemos visto. Al solicitar ese SSL, no debe tener dudas de que funcionará en casi todos los dispositivos de un planeta. Aquí está la lista de [dispositivos y navegadores son compatibles con Symantec](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+
+**Únicos con garantía real en Latinoamericano**
+
+3Layers Host es la única empresa con contacto directo con los Certificate Authorities en el mundo, por lo que garantizamos contacto directo y solución a sus situacion por personal experto en la República Dominicana, Panamá, Costa Rica, México, Guatemala y en toda latinoamericano a través de nuestros [agentes de ventas de 3Layers Host](https://3layers.host/contact/).

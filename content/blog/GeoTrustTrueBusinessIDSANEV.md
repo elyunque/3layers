@@ -28,8 +28,12 @@ Cada certificado SSL de GeoTrust proporciona un logotipo dinámico del sello del
 
 **Google SEO Booster**
 
-Grandes noticias para todos los webmasters, ya que ahora cada sitio web con certificado SSL instalado gana una clasificación más alta en Google. Creemos que los certificados SSL de Verificación Extendida y Comercial obtienen más clasificaciones en lugar de los certificados de verificación de Dominio, pero eso son cambios menores en el algoritmo de Google.
+Ahora cada sitio web con certificado SSL instalado gana una clasificación más alta en Google. En 3Layers Host creemos que los certificados SSL de Verificación Extendida y Comercial obtienen más clasificaciones en lugar de los certificados de verificación de Dominio, pero eso son cambios menores en el algoritmo de Google.
 
 **Soporte para dispositivos móviles**
 
-Los teléfonos móviles, las almohadillas táctiles, las PC y muchos otros dispositivos se utilizan hoy en día en todo el mundo; Por eso es tan importante mantener activos los protocolos de protección en todos los dispositivos. Los certificados de GeoTrust tienen una excelente compatibilidad de dispositivos con al menos el 99,6% de dispositivos conocidos. Walk-thru lista de dispositivos compatibles.
+Los teléfonos móviles, las almohadillas táctiles, las PC y muchos otros dispositivos se utilizan hoy en día en todo el mundo; Por eso es tan importante mantener activos los protocolos de protección en todos los dispositivos. Los certificados de GeoTrust tienen una excelente compatibilidad de dispositivos con al menos el 99,6% de [dispositivos compatibles](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+
+**Únicos con garantía real en Latinoamericano**
+
+3Layers Host es la única empresa con contacto directo con los Certificate Authorities en el mundo, por lo que garantizamos contacto directo y solución a sus situación por personal experto en la República Dominicana, Panamá, Costa Rica, México, Guatemala y en toda latinoamericano a través de nuestros [agentes de ventas de 3Layers Host](https://3layers.host/contact/).

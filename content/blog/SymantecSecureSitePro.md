@@ -14,7 +14,7 @@ DigiCert CA, que emite certificados SSL de Symantec, es el proveedor de SSL más
 
 **Se requiere validación comercial**
 
-El centro de certificación de Symantec tiene soporte en varios idiomas con muchos agentes en todo el mundo, lo que facilita la verificación de los clientes que no hablan inglés. Se recomienda encarecidamente a los clientes chinos, japoneses, rusos, españoles y otros. En la mayoría de los casos, la verificación demora entre 1 y 5 días hábiles, pero puede demorar más en caso de dificultades o situaciones complicadas. Lea nuestros manuales de validación para conocer el proceso de verificación.
+El centro de certificación de Symantec tiene soporte en varios idiomas con muchos agentes en todo el mundo, lo que facilita la verificación a través de 3Layers Host. En la mayoría de los casos, la verificación demora entre 1 y 5 días hábiles, pero puede demorar más en caso de dificultades o situaciones complicadas. Tómese un minuto para contactar al [equipo de ventas de 3Layers Host](https://3layers.host/contact/) y juntos verificar todos los demás certificados de Symantec, para ver cual se adapta mejor a su necesidad.
 
 **Criptografía activada por servidor (SGC)**
 
@@ -34,4 +34,8 @@ Symantec Secure Site es el producto único, ya que cuenta con Seal-in-Search par
 
 **Compatibilidad del dispositivo**
 
-Symantec CA intenta hacer de sus certificados uno de los mejores del mundo, es por eso que Secure Site Pro SSL viene con casi un 100% de compatibilidad de navegador y dispositivo móvil. Ese es el resultado más alto que hemos visto. Al solicitar ese SSL, no debe tener dudas de que funcionará en casi todos los dispositivos de un planeta. Aquí está la lista de dispositivos compatibles conocidos.
+Symantec CA intenta hacer de sus certificados uno de los mejores del mundo, es por eso que Secure Site Pro SSL viene con casi un 100% de compatibilidad de navegador y dispositivo móvil. Ese es el resultado más alto que hemos visto. Al solicitar ese SSL, no debe tener dudas de que funcionará en casi todos los dispositivos de un planeta. Aquí está la lista de [dispositivos y navegadores son compatibles con Symantec](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+
+**Únicos con garantía real en Latinoamericano**
+
+3Layers Host es la única empresa con contacto directo con los Certificate Authorities en el mundo, por lo que garantizamos contacto directo y solución a sus situacion por personal experto en la República Dominicana, Panamá, Costa Rica, México, Guatemala y en toda latinoamericano a través de nuestros [agentes de ventas de 3Layers Host](https://3layers.host/contact/).

@@ -38,6 +38,6 @@ Los productos GeoTrust con 3Layers Host vienen con una alta compatibilidad profe
 
 Certificado SSL con más del 99% de confianza en navegadores comunes, sistemas operativos, clientes de correo electrónico y dispositivos. Utilice solo certificados de confianza para establecer la confianza entre los clientes potenciales existentes y nuevos. Asegúrese de que SSL tenga una instalación adecuada. Obtenga más información sobre la compatibilidad del dispositivo SSL.
 
-**Único garantía real en Latinoamericano**
+**Únicos con garantía real en Latinoamericano**
 
-3Layers Host es la única empresa con contacto directo con los Certificate Authorities en el mundo, por lo que garantizamos contacto directo y solución a sus situacion por personal experto en la República Dominicana, Panamá, Costa Rica, México, Guatemala y en toda latinoamericano a través de nuestros [agentes de ventas de 3Layers Host](https://3layers.host/contact/).
+3Layers Host es la única empresa con contacto directo con los Certificate Authorities en el mundo, por lo que garantizamos contacto directo y solución a sus situación por personal experto en la República Dominicana, Panamá, Costa Rica, México, Guatemala y en toda latinoamericano a través de nuestros [agentes de ventas de 3Layers Host](https://3layers.host/contact/).

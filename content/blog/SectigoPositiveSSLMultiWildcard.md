@@ -18,20 +18,26 @@ Es posible asegurar subdominios ilimitados con muchos nombres de dominio diferen
 
 **Opción SAN habilitada**
 
-Los nombres alternativos de sujeto (SAN) o, como también se los denomina Certificados de comunicaciones unificadas (UCC), permiten proteger hasta 250 dominios con subdominios ilimitados como opción de comodín habilitada. Es compatible con la tecnología SNI para direcciones IP seguras y dedicadas. Instale SSL UCC / SAN Wildcard en todos los servidores que tenga de forma gratuita.
+Los nombres alternativos de sujeto (SAN) o, como también se les denomina Certificados de comunicaciones unificadas (UCC), permiten proteger hasta 250 dominios con subdominios ilimitados como opción de comodín habilitada. Es compatible con la tecnología SNI para direcciones IP seguras y dedicadas. Instale SSL UCC / SAN Wildcard en todos los servidores que tenga de forma gratuita.
 
 **Logo de confianza gratis**
 
 La mayoría de los certificados multidominio vienen sin ningún logotipo de sello; sin embargo, Sectigo proporciona el logotipo Static Site Seal de forma gratuita con cada pedido. Seal viene en formato de archivo PNG con una opción transparente. Aumente las conversiones e instale un sello en el carrito y pida las páginas. Mira cómo se ve el sello Sectigo.
 
+![Sectigo SSL Seal](/images/ext/sectigo_seal.png)
+
 **Validación de dominio SSL**
 
-Proceso de validación rápida y sin papeleo que hace que los certificados DV sean ideales para una protección rápida. Sectigo CA requiere aprobar la propiedad de validación de dominio por correo electrónico, DNS CNAME o con el archivo hash HTTP cargado en el servidor. Es posible obtener SSL de Validación de Dominio tanto para clientes comerciales como individuales. Se tarda unos cinco minutos en obtener el SSL emitido después de la aprobación exitosa de la validación.
+Proceso de validación rápida y sin papeleo que hace que los certificados DV sean ideales para una protección rápida. Sectigo CA requiere aprobar la propiedad de validación de dominio por correo electrónico, DNS CNAME o con el archivo hash HTTP cargado en el servidor. Es posible obtener SSL de Validación de Dominio tanto para clientes comerciales como individuales. Se tarda unos cinco minutos en obtener el SSL emitido después de la aprobación exitosa de la validación. Valide el proceso a través de nuestros [agentes de ventas de 3Layers Host](https://3layers.host/contact/).
 
 **Google SEO Booster**
 
-Grandes noticias para todos los webmasters, ya que ahora cada sitio web con certificado SSL instalado gana una clasificación más alta en Google. Creemos que los certificados SSL de Verificación Extendida y de Negocio obtienen más clasificaciones en lugar de los certificados de verificación de Dominio, pero eso son cambios menores en el algoritmo de Google. Resultados aún mayores.
+Ahora cada sitio web con certificado SSL instalado gana una clasificación más alta en Google. Creemos que los certificados SSL de Verificación Extendida y de Negocio obtienen más clasificaciones en lugar de los certificados de verificación de Dominio, pero eso son cambios menores en el algoritmo de Google. Resultados aún mayores.
 
 **Compatibilidad SSL**
 
-Día a día, muchos usuarios y administradores de servidores cambian de certificados SSL gratuitos y de baja calidad con poca compatibilidad del navegador a marcas profesionales de CA como Sectigo. Es fundamental utilizar SSL con la mayor compatibilidad de navegador y dispositivo móvil. Asegúrese de que el certificado funcione en todas partes. De lo contrario, los mensajes de advertencia del navegador aparecen a los clientes y los asustarán.
+Día a día, muchos usuarios y administradores de servidores cambian de certificados SSL gratuitos y de baja calidad con poca compatibilidad del navegador a marcas profesionales de CA como Sectigo. Es fundamental utilizar SSL con la mayor compatibilidad de [dispositivos y navegadores compatibles con Sectigo](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+
+**Únicos con garantía real en Latinoamericano**
+
+3Layers Host es la única empresa con contacto directo con los Certificate Authorities en el mundo, por lo que garantizamos contacto directo y solución a sus situacion por personal experto en la República Dominicana, Panamá, Costa Rica, México, Guatemala y en toda latinoamericano a través de nuestros [agentes de ventas de 3Layers Host](https://3layers.host/contact/).

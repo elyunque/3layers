@@ -16,7 +16,7 @@ No debería tomar más de cinco u ocho minutos recibir el certificado SSL emitid
 
 Tenga cuidado, eso no es un certificado SSL clásico multidominio (SAN), más bien lo llamaríamos algo así como "mini comodín", ya que tiene 4 elementos SAN incluidos y puede usarlos para subdominios que pertenecen solo al dominio base . No es posible proteger ningún otro dominio. SSL actual adecuado para proyectos de sitios web pequeños para proteger el servidor de correo, el sitio web principal y el área del cliente.
 
-**Compatibilidad con dispositivos móviles y navegadores**
+**Únicos con garantía real en Latinoamericano**
 
 No todos los certificados SSL ofrecen una alta compatibilidad con el navegador; Como resultado, los clientes finales recibirán mensajes de error peligrosos en sus navegadores y dispositivos móviles. Sugerimos pedir certificados SSL de CA reconocidas y confiables como GeoTrust para asegurarse de que SSL sea compatible con hasta un 99% de navegadores y otros dispositivos. Dispositivos compatibles dentro de GeoTrust CA
 
@@ -32,6 +32,6 @@ Ahora cada sitio web con certificado SSL instalado gana una clasificación más 
 
 Hoy es la era de los dispositivos móviles, y es por eso que es tan importante tener una compatibilidad completa con la mayoría de los navegadores móviles y de PC. GeoTrust está invirtiendo fondos sustanciales para hacer que su SSL sea compatible con todos los dispositivos del planeta. Eche un vistazo a la lista completa de todos los [dispositivos compatibles](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
 
-**Único garantía real en Latinoamericano**
+**Únicos con garantía real en Latinoamericano**
 
-3Layers Host es la única empresa con contacto directo con los Certificate Authorities en el mundo, por lo que garantizamos contacto directo y solución a sus situacion por personal experto en la República Dominicana, Panamá, Costa Rica, México, Guatemala y en toda latinoamericano a través de nuestros [agentes de ventas de 3Layers Host](https://3layers.host/contact/).
+3Layers Host es la única empresa con contacto directo con los Certificate Authorities en el mundo, por lo que garantizamos contacto directo y solución a sus situación por personal experto en la República Dominicana, Panamá, Costa Rica, México, Guatemala y en toda latinoamericano a través de nuestros [agentes de ventas de 3Layers Host](https://3layers.host/contact/).
