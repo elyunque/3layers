@@ -10,7 +10,7 @@ author: "3layers"
 
 El certificado SSL comodín multidominio Sectigo PositiveSSL es un producto muy exclusivo que permite proteger múltiples dominios con subdominios ilimitados. Multi-Domain Wildcard SSL de Sectigo (Comodo CA) fue el primer SSL con soporte completo para SAN y Wildcard. Ahora es posible asegurar subdominios ilimitados bajo diferentes nombres de dominio con el mismo SSL. Por defecto, SSL viene con un nombre común (CSR) y 2 elementos SAN.
 
-Sectigo PositiveSSL Multi-Domain con comodín habilitado asegura * .domain.tld, * .mydomain.tld, * .sub.domain.tld y muchas otras combinaciones de un total de 250 elementos SAN. Ahorre dinero, ahorre tiempo, guarde numerosas direcciones IP dedicadas para múltiples certificados individuales y comodines. Subdominio ilimitado, reemisiones gratuitas ilimitadas, licencias de servidor ilimitadas, todo eso habilitado en SAN Wildcard SSL. No hay otro mejor ahorro de costos como SAN Wildcard SSL. Se adapta a las necesidades de cualquier empresa, desde pequeñas empresas hasta grandes proyectos empresariales.
+Sectigo PositiveSSL Multi-Domain con comodín habilitado asegura * .domain.tld, * .mydomain.tld, * .sub.domain.tld y muchas otras combinaciones de un total de 250 elementos SAN. Ahorre dinero, ahorre tiempo, resguarde numerosas direcciones IP dedicadas para múltiples certificados individuales y comodines. Subdominio ilimitado, reemisiones gratuitas ilimitadas, licencias de servidor ilimitadas, todo eso habilitado en SAN Wildcard SSL. No hay otro mejor ahorro de costos como SAN Wildcard SSL. Se adapta a las necesidades de cualquier empresa, desde pequeñas empresas hasta grandes proyectos empresariales.
 
 **Apoyo Comodín**
 
@@ -22,7 +22,7 @@ Los nombres alternativos de sujeto (SAN) o, como también se les denomina Certif
 
 **Logo de confianza gratis**
 
-La mayoría de los certificados multidominio vienen sin ningún logotipo de sello; sin embargo, Sectigo proporciona el logotipo Static Site Seal de forma gratuita con cada pedido. Seal viene en formato de archivo PNG con una opción transparente. Aumente las conversiones e instale un sello en el carrito y pida las páginas. Mira cómo se ve el sello Sectigo.
+La mayoría de los certificados multidominio vienen sin ningún logotipo de sello; sin embargo, Sectigo proporciona el logotipo Static Site Seal de forma gratuita con cada pedido. Seal viene en formato de archivo PNG con una opción transparente. Aumente las conversiones e instale un sello en el carrito y todas las páginas de transacciones. Mira cómo se ve el sello Sectigo.
 
 ![Sectigo SSL Seal](/images/ext/sectigo_seal.png)
 
@@ -32,12 +32,12 @@ Proceso de validación rápida y sin papeleo que hace que los certificados DV se
 
 **Google SEO Booster**
 
-Ahora cada sitio web con certificado SSL instalado gana una clasificación más alta en Google. Creemos que los certificados SSL de Verificación Extendida y de Negocio obtienen más clasificaciones en lugar de los certificados de verificación de Dominio, pero eso son cambios menores en el algoritmo de Google. Resultados aún mayores.
+Ahora cada sitio web con certificado SSL instalado gana una clasificación más alta en Google. Creemos que los certificados SSL de Verificación Extendida y de Negocio obtienen más clasificaciones en lugar de los certificados de verificación de Dominio, pero eso son cambios menores en el algoritmo de Google.
 
 **Compatibilidad SSL**
 
-Día a día, muchos usuarios y administradores de servidores cambian de certificados SSL gratuitos y de baja calidad con poca compatibilidad del navegador a marcas profesionales de CA como Sectigo. Es fundamental utilizar SSL con la mayor compatibilidad de [dispositivos y navegadores compatibles con Sectigo](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+Día a día, muchos usuarios y administradores de servidores cambian a certificados SSL gratuitos y de baja calidad con poca compatibilidad del navegador a marcas profesionales de CA como Sectigo. Es fundamental utilizar SSL con la mayor compatibilidad de [dispositivos y navegadores compatibles con Sectigo](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
 
 **Únicos con garantía real en Latinoamericano**
 
-3Layers Host es la única empresa con contacto directo con los Certificate Authorities en el mundo, por lo que garantizamos contacto directo y solución a sus situacion por personal experto en la República Dominicana, Panamá, Costa Rica, México, Guatemala y en toda latinoamericano a través de nuestros [agentes de ventas de 3Layers Host](https://3layers.host/contact/).
+3Layers Host es la única empresa con contacto directo con los más relevantes Certificate Authorities en el mundo, por lo que garantizamos contacto directo y solución a sus situaciones por personal experto vía telefónica en la República Dominicana, Panamá, Costa Rica, México, Guatemala y en toda latinoamericana a través de nuestro [soporte técnico de 3Layers Host](https://3layers.host/contact/).

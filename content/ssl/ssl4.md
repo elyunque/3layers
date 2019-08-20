@@ -15,7 +15,7 @@ tableprice1="<small>desde</small> $169.<small><sup><u>63</sup></u> /año</small>
 tablebutton1="Contáctanos sobre GeoTrust" tablebutton2="Contáctanos sobre RapidSSL" tablebutton3="Contáctanos sobre Sectigo" 
 tablelink1="/contact/" tablelink2="/contact/" tablelink3="/contact/" 
 tablecontent1="<a href='/blog/geotrustquicksslpremiumwildcard/'>QuickSSL Premium Wildcard</a><br><a href='/blog/geotrusttruebusinessidwildcard/'>True BusinessID Wildcard</a><br><br><br>" 
-tablecontent2="<a href='/blog/rapidsslwildcardcertificate/'>Wildcard certificate</a><br><br><br><br>" 
+tablecontent2="<a href='/blog/rapidsslwildcard/'>Wildcard certificate</a><br><br><br><br>" 
 tablecontent3="<a href='/blog/sectigopositivesslmultiwildcard/'>PositiveSSL Multi Wildcard</a><br><a href='/blog/sectigopositivesslwildcard/'>PositiveSSL Wildcard</a><br><a href='/blog/sectigoinstantsslpremiumwildcard/'>InstantSSL Premium Wildcard</a><br><br>"
 
  >}}

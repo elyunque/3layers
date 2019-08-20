@@ -8,7 +8,7 @@ thumbnail: "images/ext/sectigo.png"
 author: "3layers"
 ---
 
-Uno de los certificados SSL más nuevos de Sectigo (anteriormente Comodo CA) es el certificado PositiveSSL EV Multi-Domain, llegó en abril de 2017. Ese es uno de los certificados SSL EV Multi-Domain más económicos que viene con la barra de direcciones verde disponible en el mercado. Solo lo encontrarar en 3Layers Host al mejor precio.
+Uno de los certificados SSL más nuevos de Sectigo (anteriormente Comodo CA) es el certificado PositiveSSL EV Multi-Domain, llegó en abril de 2017. Ese es uno de los certificados SSL EV Multi-Domain más económicos que viene con la barra de direcciones verde disponible en el mercado. Solo lo encontraras en 3Layers Host al mejor precio.
 
 Sectigo PositiveSSL EV MDC SSL viene con un nombre de dominio de CSR y dos (2) elementos SAN. La validación extendida significa que el sitio web estará altamente protegido y protegido contra hackers y atacantes de phisher. Los certificados EV SAN son muy recomendables para sitios web de comercio electrónico y proyectos empresariales con gran cantidad de usuarios o para aquellos que desean generar confianza y credibilidad en sus servicios y marca.
 
@@ -38,4 +38,4 @@ Una de las características más importantes de SSL, después de la fuerza de ci
 
 **Únicos con garantía real en Latinoamericano**
 
-3Layers Host es la única empresa con contacto directo con los Certificate Authorities en el mundo, por lo que garantizamos contacto directo y solución a sus situacion por personal experto en la República Dominicana, Panamá, Costa Rica, México, Guatemala y en toda latinoamericano a través de nuestros [agentes de ventas de 3Layers Host](https://3layers.host/contact/).
+3Layers Host es la única empresa con contacto directo con los más relevantes Certificate Authorities en el mundo, por lo que garantizamos contacto directo y solución a sus situaciones por personal experto vía telefónica en la República Dominicana, Panamá, Costa Rica, México, Guatemala y en toda latinoamericana a través de nuestro [soporte técnico de 3Layers Host](https://3layers.host/contact/).

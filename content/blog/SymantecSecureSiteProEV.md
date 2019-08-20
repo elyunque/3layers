@@ -8,7 +8,7 @@ thumbnail: "images/ext/symantec.jpg"
 author: "3layers"
 ---
 
-Symantec Secure Site Pro EV es el número uno en el mundo. Tiene muchas características que lo hacen tan especial. La función SGC aumenta el cifrado mínimo de 40 bits en los navegadores antiguos a 256 bits fuertes. La validación extendida brinda otra opción excepcional: la barra de direcciones verde, aumenta las ventas y aumenta el nivel de confianza de los visitantes. Los elementos SAN pueden proteger hasta 250 dominios o subdominios diferentes a la vez. Además, viene con un nivel de garantía de $1,750,000; es el más alto en la industria y sí, es compatible con el algoritmo hash ECC.
+Symantec Secure Site Pro EV es el número uno en el mundo. Tiene muchas características que lo hacen tan especial. La función SGC aumenta el cifrado mínimo de 40 bits en los navegadores antiguos a 256 bits. La validación extendida brinda otra opción excepcional: la barra de direcciones verde aumenta las ventas y aumenta el nivel de confianza de los visitantes. Los elementos SAN pueden proteger hasta 250 dominios o subdominios diferentes a la vez. Además, viene con un nivel de garantía de $1,750,000; es el más alto en la industria y sí, es compatible con el algoritmo hash ECC.
 
 Con Symantec Secure Site Pro EV SSL, todo el tráfico entre su servidor y el cliente se cifrará mediante algoritmos hash RSA o incluso ECC. Symantec (DigiCert CA) es la autoridad más confiable con clientes en más de 170 países. Con el sistema de gestión 3Layers Host, puede emitir / volver a emitir su certificado SSL de forma rápida y fácil.
 
@@ -18,7 +18,7 @@ Uno de los beneficios más importantes de trabajar con la autoridad de certifica
 
 **Criptografía activada por servidor (SGC)**
 
-Hoy aún existe una una pequeña parte de los clientes que usan navegadores antiguos como Microsoft Internet Explorer 5/6. Sin embargo, el problema es que los navegadores antiguos solo admiten 40 bits, y es por eso que los certificados SGC son tan importantes. Aumentan el cifrado estándar de 40 bits hasta 256 bits fuertes. los Internet banking, las grandes extranets y los sitios web de comercio electrónico aún deben usar certificados SGC para asegurarse de que tengan una buena protección.
+Hoy aún existe una pequeña parte de los clientes que usan navegadores antiguos como Microsoft Internet Explorer 5/6. Sin embargo, el problema es que los navegadores antiguos solo admiten 40 bits, y es por eso por lo que los certificados SGC son tan importantes. Aumentan el cifrado estándar de 40 bits hasta 256 bits fuertes. los Internet Banking, las grandes extranets y los sitios web de comercio electrónico aún deben usar certificados SGC para asegurarse que tengan una buena protección.
 
 **Sello asegurado Norton ™**
 
@@ -40,4 +40,4 @@ Symantec Secure Site Pro EV es un producto de referencia, ya que tiene casi el 1
 
 **Únicos con garantía real en Latinoamericano**
 
-3Layers Host es la única empresa con contacto directo con los Certificate Authorities en el mundo, por lo que garantizamos contacto directo y solución a sus situacion por personal experto en la República Dominicana, Panamá, Costa Rica, México, Guatemala y en toda latinoamericano a través de nuestros [agentes de ventas de 3Layers Host](https://3layers.host/contact/).
+3Layers Host es la única empresa con contacto directo con los más relevantes Certificate Authorities en el mundo, por lo que garantizamos contacto directo y solución a sus situaciones por personal experto vía telefónica en la República Dominicana, Panamá, Costa Rica, México, Guatemala y en toda latinoamericana a través de nuestro [soporte técnico de 3Layers Host](https://3layers.host/contact/).

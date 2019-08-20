@@ -22,7 +22,7 @@ Se requiere paciencia cuando se valida el certificado SSL de validación de la o
 
 **Equipado con refuerzo de confianza**
 
-Construir confianza en línea siempre es un gran trabajo, y nunca enfrenta tales problemas con el negocio de la vida real, ya que los clientes acuden a su oficina, ven a personas reales y obtienen confianza verificada. Es difícil confiar en un sitio web y compartir datos personales con él, y es por eso que Thawte ofrece un sello de sitio dinámico para mostrar a todos los visitantes el sitio web confiable y verificado por la compañía como si estuviera dentro de su oficina. El sello mostrará el nombre, la dirección, el número de teléfono y la garantía de $ 1.25 millones de la compañía. Comprueba cómo se ve el sello Thawte.
+Construir confianza en línea siempre es un gran trabajo, y nunca enfrenta tales problemas con el negocio de la vida real, ya que los clientes acuden a su oficina, ven a personas reales y obtienen confianza verificada. Es difícil confiar en un sitio web y compartir datos personales con él, y es por eso por lo que Thawte ofrece un sello de sitio dinámico para mostrar a todos los visitantes que el sitio web es confiable y verificado como si estuviera dentro de su oficina. El sello mostrará el nombre, la dirección, el número de teléfono y la garantía de $1.25 millones. Comprueba cómo se ve el sello Thawte.
 
 ![Thawte SSL Seal](/images/ext/thawte-seal.png)
 
@@ -36,8 +36,8 @@ Las modificaciones menores en el algoritmo de clasificación de Google ayudan a 
 
 **Compatibilidad con todo incluido**
 
-Certificado SSL de nivel de compatibilidad de cinco estrellas, en el que confían casi todos los dispositivos. Thawte garantiza una compatibilidad del navegador del 99%, total armonía con los dispositivos móviles y otros servidores web / de correo. Obtenga una potente protección de datos donde quiera que esté. Pase por la lista completa de [dispositivos y navegadores son compatibles con Symantec](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+Certificado SSL de nivel de compatibilidad de cinco estrellas, en el que confían casi todos los dispositivos. Thawte garantiza una compatibilidad del navegador del 99%, total armonía con los dispositivos móviles y otros servidores web / de correo. Obtenga una potente protección de datos donde quiera que esté. Pase por la lista completa de [dispositivos y navegadores son compatibles con Thawte](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
 
 **Únicos con garantía real en Latinoamericano**
 
-3Layers Host es la única empresa con contacto directo con los Certificate Authorities en el mundo, por lo que garantizamos contacto directo y solución a sus situacion por personal experto en la República Dominicana, Panamá, Costa Rica, México, Guatemala y en toda latinoamericano a través de nuestros [agentes de ventas de 3Layers Host](https://3layers.host/contact/).
+3Layers Host es la única empresa con contacto directo con los más relevantes Certificate Authorities en el mundo, por lo que garantizamos contacto directo y solución a sus situaciones por personal experto vía telefónica en la República Dominicana, Panamá, Costa Rica, México, Guatemala y en toda latinoamericana a través de nuestro [soporte técnico de 3Layers Host](https://3layers.host/contact/).

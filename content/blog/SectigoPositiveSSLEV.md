@@ -8,15 +8,15 @@ thumbnail: "images/ext/sectigo.png"
 author: "3layers"
 ---
 
-Uno de los certificados SSL más nuevos de Sectigo (anteriormente Comodo CA) es el certificado PositiveSSL EV, llegó en abril de 2017. Es uno de los certificados EV SSL más baratos que vienen con la barra de direcciones verde disponible en el mercado. Solo lo encontrarar en 3Layers Host al mejor precio.
+Uno de los certificados SSL más nuevos de Sectigo (anteriormente Comodo CA) es el certificado PositiveSSL EV, llegó en abril de 2017. Es uno de los certificados EV SSL más baratos disponibles en el mercado que vienen con la barra de direcciones verde. Solo lo encontraras en 3Layers Host al mejor precio.
 
-EV significa que la validación extendida se requiere. Hay tres pasos generales para aprobarlo; validación de dominio para verificar la propiedad del dominio, validación comercial para asegurarse de que la compañía existe y proceso de devolución de llamada para asegurarse de que el teléfono de la compañía esté disponible a través de sitios web de páginas amarillas de terceros.
+EV significa que la validación extendida se requiere. Hay tres pasos generales para aprobarlo; validación de dominio para verificar la propiedad del dominio, validación comercial para asegurarse de que la compañía existe y proceso de devolución de llamada para asegurarse que el teléfono de la compañía esté disponible a través de sitios web de páginas amarillas de terceros.
 
 La barra de direcciones verde genera confianza y ventas, y es un hecho innegable que los sitios web equipados con ella tienen un 18% más de ventas y transacciones exitosas. A la gente le gusta sentirse segura, especialmente cuando se trata de tarjetas de crédito. Cada Sectigo SSL tiene una excelente compatibilidad de navegador del 99.6% y compatibilidad con dispositivos móviles para el algoritmo hash SHA2 habilitado. Hay muchos otros certificados caros disponibles en el mercado, pero sin las características proporcionadas por Sectigo.
 
 **Logotipo de Sectigo Dynamic Site Seal**
 
-Obtenga logotipos de Site Seal de tecnología sorprendente de Sectigo para construir una exitosa presencia comercial en línea. Esa herramienta fue creada para ayudar a cada visitante a obtener la confirmación de la Autoridad de Certificación con respecto a la empresa y la verificación comercial. Sin confianza significa sin ventas; Es por eso que Sectigo PositiveSSL EV contribuye a ganar más confianza. Mira cómo se ve el sello Sectigo.
+Obtenga logotipos de Site Seal de tecnología sorprendente de Sectigo para construir una exitosa presencia comercial en línea. Esa herramienta fue creada para ayudar a cada visitante a obtener la confirmación de la Autoridad de Certificación con respecto a la empresa y la verificación comercial. Sin confianza no hay ventas; Por lo que Sectigo PositiveSSL EV contribuye a ganar más confianza. Mira cómo se ve el sello Sectigo.
 
 ![Sectigo SSL Seal](/images/ext/sectigo_seal.png)
 
@@ -34,4 +34,4 @@ Una de las características más importantes de SSL, después de la fuerza de ci
 
 **Únicos con garantía real en Latinoamericano**
 
-3Layers Host es la única empresa con contacto directo con los Certificate Authorities en el mundo, por lo que garantizamos contacto directo y solución a sus situacion por personal experto en la República Dominicana, Panamá, Costa Rica, México, Guatemala y en toda latinoamericano a través de nuestros [agentes de ventas de 3Layers Host](https://3layers.host/contact/).
+3Layers Host es la única empresa con contacto directo con los más relevantes Certificate Authorities en el mundo, por lo que garantizamos contacto directo y solución a sus situaciones por personal experto vía telefónica en la República Dominicana, Panamá, Costa Rica, México, Guatemala y en toda latinoamericana a través de nuestro [soporte técnico de 3Layers Host](https://3layers.host/contact/).
