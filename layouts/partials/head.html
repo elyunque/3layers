@@ -40,9 +40,20 @@
     <meta property="og:description" content="{{ .Plain | truncate 100 }}" />
     <meta property="og:image" content="{{ .Params.thumbnail | absURL }}" />
 
+    <meta name="twitter:card" content="summary_large_image">
     <meta property="twitter:title" content="{{ .Title }}" />
     <meta property="twitter:description" content="{{ .Plain | truncate 100 }}" />
     <meta property="twitter:image" content="{{ .Params.thumbnail | absURL }}" />
+
+    <!--  Non-Essential, But Recommended -->
+
+    <meta property="og:site_name" content="3Layers Host">
+    <meta name="twitter:image:alt" content="3Layers Host image">
+
+    <!--  Non-Essential, But Required for Analytics -->
+
+    <meta property="fb:app_id" content="112222980124952" />
+    <meta name="twitter:site" content="@website-username">
 
   </head>
 
