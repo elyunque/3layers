@@ -37,11 +37,11 @@
     <meta property="og:url" content="{{ .Permalink | absURL }}" />
     <meta property="og:type" content="article" />
     <meta property="og:title" content="{{ .Title }}" />
-    <meta property="og:description" content="{{ .Plain | truncate 30 }}" />
+    <meta property="og:description" content="{{ .Plain | truncate 100 }}" />
     <meta property="og:image" content="{{ .Params.thumbnail | absURL }}" />
 
     <meta property="twitter:title" content="{{ .Title }}" />
-    <meta property="twitter:description" content="{{ .Plain | truncate 30 }}" />
+    <meta property="twitter:description" content="{{ .Plain | truncate 100 }}" />
     <meta property="twitter:image" content="{{ .Params.thumbnail | absURL }}" />
 
   </head>
