@@ -74,7 +74,7 @@ weight = 10
   weight = 50
 [[menu.main]]
   identifier = "migration"
-  title = "Migraciónes"
+  title = "Migraciones"
   url = "/migration/"
   weight = 51
 [[menu.main]]
