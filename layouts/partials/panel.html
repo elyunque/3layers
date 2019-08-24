@@ -6,26 +6,30 @@
       </div>
     </div>
     <div class="row hosting">
+      {{ $typepanel := default .Params.panel }}
       {{ range sort (where .Site.Pages "Section" "panel") ".Params.fade" }}
         {{ if isset .Params "title" }}
-          <div class="col-md-6 col-lg-4 mb-5 mb-lg-4" data-aos="fade" data-aos-delay="{{ .Params.fade }}">
-
-            <div class="unit-3 h-100 bg-white">
+          {{ if eq .Params.panel $typepanel }}
               
-              <div class="d-flex align-items-center mb-3 unit-3-heading">
-                <div class="unit-3-icon-wrap mr-4">
-                  <svg class="unit-3-svg" xmlns="http://www.w3.org/2000/svg" width="59px" height="68px">
-                    <path fill-rule="evenodd" stroke-width="2px" stroke-linecap="butt" stroke-linejoin="miter" fill="none" d="M29.000,66.000 L1.012,49.750 L1.012,17.250 L29.000,1.000 L56.988,17.250 L56.988,49.750 L29.000,66.000 Z"></path>
-                  </svg><span class="unit-3-icon icon {{ .Params.icon }}"></span>
-                </div>
-                <h2 class="h5">{{ .Title }}</h2>
-              </div>
-              <div class="unit-3-body">
-                <p>{{ .Plain }}</p>
-              </div>
-            </div>
+            <div class="col-md-6 col-lg-4 mb-5 mb-lg-4" data-aos="fade" data-aos-delay="{{ .Params.fade }}">
 
-          </div>
+              <div class="unit-3 h-100 bg-white">
+                
+                <div class="d-flex align-items-center mb-3 unit-3-heading">
+                  <div class="unit-3-icon-wrap mr-4">
+                    <svg class="unit-3-svg" xmlns="http://www.w3.org/2000/svg" width="59px" height="68px">
+                      <path fill-rule="evenodd" stroke-width="2px" stroke-linecap="butt" stroke-linejoin="miter" fill="none" d="M29.000,66.000 L1.012,49.750 L1.012,17.250 L29.000,1.000 L56.988,17.250 L56.988,49.750 L29.000,66.000 Z"></path>
+                    </svg><span class="unit-3-icon icon {{ .Params.icon }}"></span>
+                  </div>
+                  <h2 class="h5">{{ .Title }}</h2>
+                </div>
+                <div class="unit-3-body">
+                  <p>{{ .Plain }}</p>
+                </div>
+              </div>
+
+            </div>
+          {{ end }}
         {{ end }}
       {{ end }}
 

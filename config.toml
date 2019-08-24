@@ -66,12 +66,17 @@ weight = 10
       title = "Wildcard SSL "
       url = "/ssl/ssl4/"
       parent = "ssl"
-      weight = 44
+      weight = 44      
 [[menu.main]]
   identifier = "blog"
   title = "Blog"
   url = "/blog/"
   weight = 50
+[[menu.main]]
+  identifier = "migration"
+  title = "Migraciónes"
+  url = "/migration/"
+  weight = 51
 [[menu.main]]
   identifier = "contact"
   title = "Contacto"

@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="es">
-    
-  {{ partial "head" . }}
 
-  <body>
+{{ partial "head" . }}
 
+<body>
+  
   <div class="site-wrap">
 
     <div class="site-mobile-menu">
@@ -16,23 +16,28 @@
       <div class="site-mobile-menu-body"></div>
     </div> <!-- .site-mobile-menu -->
     
+    
     {{ partial "header" . }}
+    
+    {{ partial "minihero" . }}
 
-    {{ partial "hero" . }}
+    <div class="site-section">
+      <div class="container">
 
-    {{ partial "hosting" . }}
+          {{ .Content  }}
 
-    {{ partial "promotion" . }}
+          {{ partial "panel" . }}
 
-    {{ partial "panel" . }}
-
-    {{ partial "testimonial" . }}
-
-    {{ partial "footer" . }}    
+          {{ partial "faq" . }}
+          
+      </div>
+    </div>
+    
+    {{ partial "footer" . }}
     
   </div>
 
-  {{ partial "foot" . }}
-  
+  {{ partial "foot" . }}    
+
   </body>
 </html>

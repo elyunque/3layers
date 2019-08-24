@@ -1,5 +1,5 @@
 ---
-faq: "domain"
+faq: "Preguntas Frecuentes De Dominios"
 title: "¿Los dominios solo pueden ser adquiridos en modalidad anual?"
 date: 2019-07-21T13:15:27-04:00
 draft: false
