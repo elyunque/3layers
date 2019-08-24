@@ -2,7 +2,7 @@
 title: "Seguridad"
 date: 2019-07-21T22:54:26-04:00
 draft: false
-icon: "fl-bigmug-line-cube29"
+icon: "fl-bigmug-line-lock64"
 fade: 10
 panel: "¿Por Qué Migrar Con Nosotros?"
 ---

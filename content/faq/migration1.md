@@ -1,6 +1,6 @@
 ---
 faq: "Preguntas Frecuentes de Migración"
-title: "¿Desde qué tipo de ambiente puede realizar la migración?"
+title: "¿Desde qué tipo de ambiente se puede realizar la migración?"
 date: 2019-07-21T13:31:39-04:00
 draft: false
 sitemap: false

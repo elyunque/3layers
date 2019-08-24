@@ -6,5 +6,5 @@ draft: false
 sitemap: false
 ---
 
-Luego de solicitada la migración, nuestro personal técnico requerida informaciones referente a su servicio actual y su servicio antiguo, con el fin de poder establecer comunicación con las cuentas de correo electrónica a migrar.
+Luego de solicitada la migración, nuestro personal técnico requerirá informaciones referente a su servicio actual y su servicio antiguo, con el fin de poder establecer comunicación con las cuentas de correo electrónica a migrar.
 
