@@ -1,0 +1,10 @@
+.crop {
+    width: 500px;
+    height: 114px;
+    overflow: hidden;
+}
+
+.crop img {
+    width: 100%;
+    margin: -30% 100% 100% -30%;
+}

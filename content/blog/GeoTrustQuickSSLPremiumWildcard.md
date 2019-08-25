@@ -4,7 +4,7 @@ title: "GeoTrust QuickSSL Premium Wildcard"
 date: 2019-07-29T19:51:55-04:00
 draft: false
 sitemap: true
-thumbnail: "images/ext/geotrust.png"
+thumbnail: "images/blog/geotrust.jpg"
 author: "3layers"
 ---
 
@@ -24,7 +24,7 @@ GeoTrust requiere pasar la validación de dominio a través de uno de los métod
 
 QuickSSL Premium Wildcard SSL se suministra con el logotipo estándar dinámico, un sello del sitio web para aumentar la confianza dentro de su sitio. El sello dinámico muestra información verificada si alguien hace clic en este. Recomendamos encarecidamente instalar el logotipo del sello en las páginas más comunes. El sello GeoTrust estará disponible de la siguiente forma en su portal.
 
-![Geotrust SSL Seal](/images/ext/geotrust-seal.png)
+![Geotrust SSL Seal](/images/blog/geotrust-seal.png)
 
 **Mejora tu ranking de Google**
 

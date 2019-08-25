@@ -4,7 +4,7 @@ subtitle: "Symantec Secure Site EV"
 date: 2019-07-30T22:26:54-04:00
 draft: false
 sitemap: true
-thumbnail: "images/ext/symantec.jpg"
+thumbnail: "images/blog/symantec.jpg"
 author: "3layers"
 ---
 
@@ -20,7 +20,7 @@ Symantec Secure Site EV requiere validación de la organización, confirmación 
 
 Certificados SSL de Symantec equipados con el famoso Norton™ Secured Site Seal que recibe alrededor de 850 millones de impresiones al día en más de 160 países. Ese es el marcador de confianza número uno en el mundo SSL reconocido por casi todos los usuarios. Reciba la tecnología exclusiva Seal-in-Search con cada compra de 3Layers Host. Compruebe a continuación cómo se ve el sello Symantec.
 
-![Symantec SSL Seal](/images/ext/norton-seal.png)
+![Symantec SSL Seal](/images/blog/norton-seal.png)
 
 **Soporte SAN habilitado**
 

@@ -4,7 +4,7 @@ subtitle: "Sectigo Positive SSL EV"
 date: 2019-07-30T22:33:19-04:00
 draft: false
 sitemap: true
-thumbnail: "images/ext/sectigo.png"
+thumbnail: images/blog/sectigo.jpg
 author: "3layers"
 ---
 
@@ -18,7 +18,7 @@ La barra de direcciones verde genera confianza y ventas, y es un hecho innegable
 
 Obtenga logotipos de Site Seal de tecnología sorprendente de Sectigo para construir una exitosa presencia comercial en línea. Esa herramienta fue creada para ayudar a cada visitante a obtener la confirmación de la Autoridad de Certificación con respecto a la empresa y la verificación comercial. Sin confianza no hay ventas; Por lo que Sectigo PositiveSSL EV contribuye a ganar más confianza. Mira cómo se ve el sello Sectigo.
 
-![Sectigo SSL Seal](/images/ext/sectigo_seal.png)
+![Sectigo SSL Seal](/images/blog/sectigo_seal.png)
 
 **SSL de validación extendida**
 

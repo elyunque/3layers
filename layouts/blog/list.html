@@ -30,14 +30,14 @@
             {{ if isset .Params "author" }}    
               <div class="col-md-6 col-lg-4 mb-4">
                 <div class="post-entry bg-white">
-                  <div class="image">
-                    <img src="{{ .Params.thumbnail | absURL }}" alt="Image" class="img-fluid">
-                  </div>
-                  <div class="text p-4">
-                    <h2 class="h5 text-black"><a href="{{ .Permalink | absURL }}">{{ .Title }}</a></h2>
-                    <span class="text-uppercase date d-block mb-3"><small>By {{ .Params.author }} &bullet; Sep 25, 2018</small></span>
-                    <p class="mb-0">{{ .Plain | truncate 100 }}</p>
-                  </div>
+                  <a href="{{ .Permalink | absURL }}">
+                    <div class="overlay unit-5" style="background-image: url('{{ .Params.thumbnail | absURL }}');">
+                    </div>
+                    <div class="text p-4">
+                      <h2 class="h5 text-black"><a href="{{ .Permalink | absURL }}">{{ .Title }}</h2></a>
+                      <span class="text-uppercase date d-block mb-3"><small>By {{ .Params.author }} &bullet; Sep 25, 2018</small></span>
+                      <p class="mb-0">{{ .Plain | truncate 100 }}</p>
+                    </div>
                 </div>
               </div>
             {{ end }}

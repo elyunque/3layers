@@ -22,6 +22,8 @@
 
     <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
 
+    <link rel="stylesheet" href="{{ "css/custom.css" | absURL }}">
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-3702215-3"></script>
     <script>
@@ -38,16 +40,12 @@
     <meta property="og:type" content="article" />
     <meta property="og:title" content="{{ .Title }}" />
     <meta property="og:description" content="{{ .Plain | truncate 100 }}" />
-
+    <meta property="og:image" content="{{ .Params.thumbnail | absURL }}" />
 
     <meta name="twitter:card" content="summary_large_image">
     <meta property="twitter:title" content="{{ .Title }}" />
     <meta property="twitter:description" content="{{ .Plain | truncate 100 }}" />
-    {{ if isset .Params "socialimage" }}
-      <meta property="twitter:image" content="{{ .Params.socialimage | absURL }}" />
-    {{ else }}
-      <meta property="twitter:image" content="{{ .Params.thumbnail | absURL }}" />
-    {{ end }}
+    <meta property="twitter:image" content="{{ .Params.thumbnail | absURL }}" />
 
     <!--  Non-Essential, But Recommended -->
 

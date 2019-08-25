@@ -52,13 +52,19 @@ Disallow:
 
 User-agent: *
 
+Disallow: /migration/
+
+Disallow: /blog/compatibilidad-de-dispositivos-con-ssl/
+
+Disallow: /blog/que-es-un-certificado-ssl-y-para-que-sirve/
+
+Disallow: /blog/por-que-una-empresa-necesita-seguridad-informatica/
+
 Disallow: /blog/robo-de-identidad/
 
 Disallow: /blog/sectigoinstantsslpremiumwildcard/
 
 Disallow: /blog/sectigopositivesslwildcard/
-
-Disallow: /blog/rapidsslwildcardcertificate/
 
 Disallow: /blog/sectigopositivesslevmdc/
 
@@ -128,9 +134,25 @@ Disallow: /ssl/ssl2/
 
 Disallow: /ssl/ssl1/
 
+Disallow: /panel/migracion1/
+
+Disallow: /panel/
+
+Disallow: /panel/migracion2/
+
 Disallow: /blog/
 
+Disallow: /faq/migracion3/
+
+Disallow: /faq/migration1/
+
+Disallow: /faq/migracion4/
+
 Disallow: /faq/domain-1/
+
+Disallow: /faq/migracion5/
+
+Disallow: /faq/migracion2/
 
 Disallow: /faq/domain2/
 
@@ -152,19 +174,19 @@ Disallow: /testimonial/testimonial2/
 
 Disallow: /testimonial/testimonial1/
 
-Disallow: /panel/
+Disallow: /panel/porqueelegirnos6/
 
-Disallow: /panel/panel6/
+Disallow: /panel/porqueelegirnos5/
 
-Disallow: /panel/panel5/
+Disallow: /panel/porqueelegirnos4/
 
-Disallow: /panel/panel4/
+Disallow: /panel/porqueelegirnos3/
 
-Disallow: /panel/panel3/
+Disallow: /panel/migracion3/
 
-Disallow: /panel/panel1/
+Disallow: /panel/porqueelegirnos1/
 
-Disallow: /panel/panel2/
+Disallow: /panel/porqueelegirnos2/
 
 Disallow: /promotion/
 

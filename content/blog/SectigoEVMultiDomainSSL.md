@@ -4,7 +4,7 @@ subtitle: "Sectigo EV Multi-Domain SSL"
 date: 2019-07-30T22:33:53-04:00
 draft: false
 sitemap: true
-thumbnail: "images/ext/sectigo.png"
+thumbnail: images/blog/sectigo.jpg
 author: "3layers"
 ---
 
@@ -22,7 +22,7 @@ El precio predeterminado permite proteger un dominio o subdominio con el CSR y 2
 
 Los logotipos de Site Seal fueron diseñados para mostrar instantáneamente a las personas que el sitio web está seguro y bien protegido. Los certificados SSL multidominio vienen con el logotipo estándar Static Seal, y es uno de los puntos menores para comprarlo, ya que todos los certificados SSL EV de dominio vienen con el logotipo dinámico y la tecnología animada Corner of Trust. A continuación, mire como se ve el Site Seal.
 
-![Sectigo SSL Seal](/images/ext/sectigo_seal.png)
+![Sectigo SSL Seal](/images/blog/sectigo_seal.png)
 
 **Multi-dominio con validación EV**
 

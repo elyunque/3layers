@@ -4,7 +4,7 @@ subtitle: "Sectigo PositiveSSL"
 date: 2019-07-29T20:24:53-04:00
 draft: false
 sitemap: true
-thumbnail: "images/ext/sectigo.png"
+thumbnail: images/blog/sectigo.jpg
 author: "3layers"
 ---
 
@@ -18,7 +18,7 @@ Sectigo CA cubre hasta el 99.6% de todos los navegadores y dispositivos móviles
 
 Cada PositiveSSL viene con un logotipo de sello de sitio para mostrar a los visitantes que el sitio web tiene una alta protección contra piratas informáticos y ataques de phishing. El sello del sitio viene en formato de imagen PNG con modo transparente. Obtenga más ventas, como resultado, más confianza en los servicios y la marca. Mira cómo se ve el sello Sectigo.
 
-![Sectigo SSL Seal](/images/ext/sectigo_seal.png)
+![Sectigo SSL Seal](/images/blog/sectigo_seal.png)
 
 **Validación de dominio SSL**
 

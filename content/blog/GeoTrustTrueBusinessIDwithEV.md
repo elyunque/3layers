@@ -4,7 +4,7 @@ subtitle: "GeoTrust True BusinessID con EV"
 date: 2019-07-30T22:12:15-04:00
 draft: false
 sitemap: true
-thumbnail: "images/ext/geotrust.png"
+thumbnail: "images/blog/geotrust.jpg"
 author: "3layers"
 ---
 
@@ -20,7 +20,7 @@ Muchas personas enfrentan algunas dificultades para pasar la verificación EV, y
 
 La barra de direcciones verde es una herramienta excelente para construir confianza, pero no es lo único que ofrece GeoTrust. Estamos hablando del logotipo de Free Dynamic Site Seal que viene con cada EV SSL. Solo asegúrese de publicar el sello en las páginas principales de su sitio web o aplicación en línea. El sello GeoTrust se ve de la siguiente forma.
 
-![Geotrust SSL Seal](/images/ext/geotrust-seal.png)
+![Geotrust SSL Seal](/images/blog/geotrust-seal.png)
 
 **Google SEO Booster**
 

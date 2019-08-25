@@ -4,7 +4,7 @@ subtitle: "GeoTrust QuickSSL Premium SAN"
 date: 2019-07-29T20:12:26-04:00
 draft: false
 sitemap: true
-thumbnail: "images/ext/geotrust.png"
+thumbnail: "images/blog/geotrust.jpg"
 author: "3layers"
 ---
 

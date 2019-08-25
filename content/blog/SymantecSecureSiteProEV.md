@@ -4,7 +4,7 @@ subtitle: "Symantec Secure Site Pro EV"
 date: 2019-07-30T22:27:00-04:00
 draft: false
 sitemap: true
-thumbnail: "images/ext/symantec.jpg"
+thumbnail: "images/blog/symantec.jpg"
 author: "3layers"
 ---
 
@@ -24,7 +24,7 @@ Hoy aún existe una pequeña parte de los clientes que usan navegadores antiguos
 
 Cada SSL de Symantec viene con Norton ™ Site Seal para ayudar a los usuarios finales a verificar rápidamente el propietario de un sitio web. Puede verificar el nombre de la organización / empresa, la dirección, el estado del análisis de malware y algunos detalles más. Recomendamos encarecidamente poner ese logotipo de Seal en las páginas más populares de su sitio web. Compruebe cómo se ve el sello Symantec.
 
-![Symantec SSL Seal](/images/ext/norton-seal.png)
+![Symantec SSL Seal](/images/blog/norton-seal.png)
 
 **Soporte SAN**
 

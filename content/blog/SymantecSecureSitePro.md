@@ -4,7 +4,7 @@ subtitle: "Symantec Secure Site Pro"
 date: 2019-07-30T21:52:49-04:00
 draft: false
 sitemap: true
-thumbnail: "images/ext/symantec.jpg"
+thumbnail: "images/blog/symantec.jpg"
 author: "3layers"
 ---
 
@@ -24,7 +24,7 @@ SGC SSL es el único producto que aumenta el nivel de encriptación del navegado
 
 El certificado Symantec Secure Site Pro viene con la mayoría de las tecnologías estándar Norton ™ Site Seal y Seal-in-Search. El sello Symantec recibe alrededor de 800 millones de impresiones por día de más de 170 países. Compruebe cómo se ve el sello Symantec.
 
-![Symantec SSL Seal](/images/ext/norton-seal.png)
+![Symantec SSL Seal](/images/blog/norton-seal.png)
 
 **Asegure múltiples sitios web**
 

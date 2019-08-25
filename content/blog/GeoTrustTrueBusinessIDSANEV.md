@@ -4,7 +4,7 @@ subtitle: "GeoTrust True BusinessID SAN EV"
 date: 2019-07-30T22:12:20-04:00
 draft: false
 sitemap: true
-thumbnail: "images/ext/geotrust.png"
+thumbnail: "images/blog/geotrust.jpg"
 author: "3layers"
 ---
 
@@ -24,7 +24,7 @@ La validación extendida genera muchas preocupaciones para todos, ya que no est�
 
 Cada certificado SSL de GeoTrust proporciona un logotipo dinámico del sello del sitio con una verificación completa de la organización; eso significa que los visitantes de su sitio web verán información comercial verificada, como el nombre de la empresa, la dirección registrada, el teléfono y el monto de la garantía proporcionada. De esta forma se el sello GeoTrust.
 
-![Geotrust SSL Seal](/images/ext/geotrust-seal.png)
+![Geotrust SSL Seal](/images/blog/geotrust-seal.png)
 
 **Google SEO Booster**
 

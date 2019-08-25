@@ -4,7 +4,7 @@ subtitle: "Sectigo PositiveSSL Wildcard"
 date: 2019-07-30T22:53:19-04:00
 draft: false
 sitemap: true
-thumbnail: "images/ext/sectigo.png"
+thumbnail: images/blog/sectigo.jpg
 author: "3layers"
 ---
 
@@ -26,7 +26,7 @@ La verificación de la documentación y la organización lleva días, a veces se
 
 La imagen transparente PNG estática crea una imagen de un sello que generalmente existe en los documentos oficiales, y demuestra el nivel de seguridad y la protección de datos instalados en un servidor web. Mira cómo se ve el sello Sectigo.
 
-![Sectigo SSL Seal](/images/ext/sectigo_seal.png)
+![Sectigo SSL Seal](/images/blog/sectigo_seal.png)
 
 **Impulsar el ranking SEO**
 

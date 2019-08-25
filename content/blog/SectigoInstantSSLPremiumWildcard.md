@@ -4,7 +4,7 @@ subtitle: "Sectigo InstantSSL Premium Wildcard"
 date: 2019-07-30T22:53:58-04:00
 draft: false
 sitemap: true
-thumbnail: "images/ext/sectigo.png"
+thumbnail: images/blog/sectigo.jpg
 author: "3layers"
 ---
 
@@ -26,7 +26,7 @@ Cada organización o cliente comercial debe procesar la validación comercial pa
 
 Sectigo Premium Wildcard SSL es de tipo validación comercial, y viene con el logotipo Dynamic Site Seal para atraer visitantes y aumentar la confianza en los servicios prestados en el sitio web. No es solo como una imagen PNG estática, ya que proporciona autenticación de organización / negocio. Los clientes y visitantes verán de manera valida la empresa. La confianza significa ventas, más confianza más ventas. A continuación, mire como se ve el Site Seal.
 
-![Sectigo SSL Seal](/images/ext/sectigo_seal.png)
+![Sectigo SSL Seal](/images/blog/sectigo_seal.png)
 
 **Mejora tu ranking de Google**
 

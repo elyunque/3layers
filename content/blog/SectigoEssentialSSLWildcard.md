@@ -4,7 +4,7 @@ subtitle: "Sectigo EssentialSSL Wildcard"
 date: 2019-07-30T20:42:06-04:00
 draft: false
 sitemap: true
-thumbnail: "images/ext/sectigo.png"
+thumbnail: images/blog/sectigo.jpg
 author: "3layers"
 ---
 
@@ -26,7 +26,7 @@ Los certificados SSL de validación de dominio están disponibles para todas las
 
 SSL esencial, como la mayoría de los certificados SSL de Validación de Dominio, viene con el logotipo Static Site Seal. Esa es una imagen PNG estática con Sectigo Seal. Obténgalo gratis y muéstrelo en el sitio web para demostrar a los clientes potenciales que su información confidencial tiene una protección de cifrado de 256 bits. Más confianza significa más ventas y clientes responsables. El sello del sitio es la forma más fácil de aumentar la confianza. El Sello de Sectigo se verá así.
 
-![Sectigo SSL Seal](/images/ext/sectigo_seal.png)
+![Sectigo SSL Seal](/images/blog/sectigo_seal.png)
 
 **Google SEO Booster**
 

@@ -4,7 +4,7 @@ subtitle: "Robo De Identidad"
 date: 2019-08-09T12:59:08-04:00
 draft: false
 sitemap: true
-thumbnail: "images/ext/identity.png"
+thumbnail: images/blog/eye.jpg
 author: "3layers"
 ---
 
@@ -12,7 +12,7 @@ El robo de identidad o usurpación de identidad consiste en usar la información
 
 Hay que destacar también que el robo de identidad se suscribe en los delitos de robo de documentos de identificación, licencias de conducir, tarjetas de créditos ya sea en su modalidad digital o física, con la finalidad explicita de obtener información privilegiada de la victima y de esta forma obtener acceso a cuentas bancarias, información financiera o datos privados que puedan ser usado para la difamación. A su vez, se incluye la indagación de información que lleve a descubrir contraseñas de los usuarios o sus preguntas/respuestas de seguridad para cambiar sus accesos en un sistema o correo electrónico, lo que se conoce como [Ingeniería Social.](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_social_(seguridad_inform%C3%A1tica))
 
-![Robo de Identidad](/images/ext/roboidentidad.jpg)
+![Robo de Identidad](/images/blog/roboidentidad.jpg)
 
 El robo de identidad un delito en auge, anteriormente cuando un ladrón robaba una cartera o billetera de nuestros bolsillos su objetivo principal era el dinero y posteriormente las tarjetas de débito/crédito que contenían, hoy en día cuando perdemos nuestra billetera no debemos poner en duda que un delito de robo de identidad podría estar siendo llevado a cabo, en especial si tenemos un cargo alto en alguna empresa. Por lo tanto, debemos tomar acciones inmediatas.
 
@@ -52,7 +52,7 @@ Claramente hay muchos niveles de ingeniería social, ya que el robo de identidad
 
 Para todos aquellos que solo están sentados en su computador y de buenas a primera reciben un correo como este:
 
-![Email de Robo de identidad](/images/ext/emailrobodeidentidad.jpg)
+![Email de Robo de identidad](/images/blog/emailrobodeidentidad.jpg)
 
 Cualquiera pensaría que un correo electrónico como ese no podría dañar a nadie, quien caería en algo como eso, pero hace un poco mas de 10 años atrás, miles de personas cayeron en este truco, transfiriéndole al timador de este correo electrónico una suma de dinero para iniciar la gestión de trasferencia del donativo prometido (donativo que nunca llego). Y posiblemente, usted lo vea en nuestros tiempos como algo ridículo, pero en ese momento parecía una gran oportunidad para los atacados.
 

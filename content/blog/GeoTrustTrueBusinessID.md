@@ -4,7 +4,7 @@ subtitle: 'Certificado SSL de GeoTrust True BusinessID '
 date: 2019-07-29T23:27:05.000Z
 draft: false
 sitemap: true
-thumbnail: images/ext/geotrust.png
+thumbnail: "images/blog/geotrust.jpg"
 author: 3layers
 ---
 
@@ -20,7 +20,7 @@ Debe pasar el proceso de validación comercial para obtener el certificado SSL d
 
 Los certificados SSL profesionales siempre están equipados con logotipos dinámicos de sellos de sitio que aumentan la confianza y las conversiones. La información verificada aparece una vez que hace clic para sellar el logotipo; El nombre de la organización, la dirección y la garantía de $1,250,000 aparecerán dentro del cheque del sello. Obtenga más confianza en su marca y servicios. El sello GeoTrust se ve de la siguiente forma en su Portal Web.
 
-![Geotrust Seal SSL](/images/ext/geotrust-seal.png)
+![Geotrust Seal SSL](/images/blog/geotrust-seal.png)
 
 **Impulsar el ranking SEO**
 

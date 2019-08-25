@@ -4,7 +4,7 @@ subtitle: "Sectigo PositiveSSL Multi-Domain"
 date: 2019-07-30T20:35:38-04:00
 draft: false
 sitemap: true
-thumbnail: "images/ext/sectigo.png"
+thumbnail: images/blog/sectigo.jpg
 author: "3layers"
 ---
 
@@ -18,7 +18,7 @@ Los certificados SSL de Sectigo funcionan con más del 99,6% de los navegadores 
 
 Positivo SSL SSL UCC / SAN, como muchos otros certificados de validación de dominio, equipado con el logotipo Static Site Seal. Es posible usar una imagen estática PNG para colocar en el sitio web. Aumentará la confianza y ayudará a los visitantes y clientes potenciales a saber que su sitio Web es seguro. Cuando los visitantes tienen confianza, no buscan otros proveedores. Mira cómo se ve el sello Sectigo.
 
-![Sectigo SSL Seal](/images/ext/sectigo_seal.png)
+![Sectigo SSL Seal](/images/blog/sectigo_seal.png)
 
 **El SSL de Validación de Dominio más barato del mercado**
 

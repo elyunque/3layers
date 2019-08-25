@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <title>¿Qué es un certificado SSL y para qué sirve? - 3 Layers</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400,700,900|Roboto+Mono:300,400,500"> 
+    <link rel="stylesheet" href="https://3layers.host/fonts/icomoon/style.css">
+
+    <link rel="stylesheet" href="https://3layers.host/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://3layers.host/css/magnific-popup.css">
+    <link rel="stylesheet" href="https://3layers.host/css/jquery-ui.css">
+    <link rel="stylesheet" href="https://3layers.host/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://3layers.host/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="https://3layers.host/css/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="https://3layers.host/css/animate.css">
+    
+    
+    <link rel="stylesheet" href="https://3layers.host/fonts/flaticon/font/flaticon.css">
+    <link rel="stylesheet" href="https://3layers.host/css/fl-bigmug-line.css">
+  
+    <link rel="stylesheet" href="https://3layers.host/css/aos.css">
+
+    <link rel="stylesheet" href="https://3layers.host/css/style.css">
+
+    <link rel="stylesheet" href="https://3layers.host/css/custom.css">
+
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-3702215-3"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-3702215-3');
+    </script>
+
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+    <meta property="og:url" content="https://3layers.host/blog/que-es-un-certificado-ssl-y-para-que-sirve/" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="¿Qué es un certificado SSL y para qué sirve?" />
+    <meta property="og:description" content="Hoy en día es más común oír hablar a los usuarios de Internet sobre lo que pueden o no hacer en sus …" />
+    <meta property="og:image" content="https://3layers.host/images/blog/locker.jpg" />
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:title" content="¿Qué es un certificado SSL y para qué sirve?" />
+    <meta property="twitter:description" content="Hoy en día es más común oír hablar a los usuarios de Internet sobre lo que pueden o no hacer en sus …" />
+    <meta property="twitter:image" content="https://3layers.host/images/blog/locker.jpg" />
+
+    
+
+    <meta property="og:site_name" content="3Layers Host">
+    <meta name="twitter:image:alt" content="3Layers Host image">
+
+    
+
+    <meta property="fb:app_id" content="112222980124952" />
+    <meta name="twitter:site" content="@website-username">
+
+  </head>
+
+  
+
+<body>
+  
+  <div class="site-wrap">
+
+    <div class="site-mobile-menu">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div> 
+    
+    
+    <div class="site-navbar-wrap bg-white">
+    <div class="site-navbar-top">
+      <div class="container py-2">
+        <div class="row align-items-center">
+          
+          <div class="col-6 col-md-6 col-lg-2">
+            <a href="https://3layers.host/" class="d-flex align-items-center site-logo">
+              <p><img align="middle" src="https://3layers.host/images/logo.jpg" alt="">&nbsp;	<h3>3 Layers</h3></p>
+            </a>
+          </div>
+
+          
+            
+              <div class="col-6 col-md-6 col-lg-10">
+                <ul class="unit-4 ml-auto text-right">
+
+                  <li class="text-left">
+                    <a href="#">
+                      <div class="d-flex align-items-center block-unit">
+                        <div class="icon mr-0 mr-md-4">
+                          <span class="fl-bigmug-line-headphones32 h3"></span>
+                        </div>
+                        <div class="d-none d-lg-block">
+                          <span class="d-block text-gray-500 text-uppercase">Télefono</span>
+                          <span class="h6">&#43;1 829 787 0797</span>
+                        </div>
+                      </div>
+                    </a>
+                  </li>
+
+
+                  <li class="text-left">
+                    <a href="#">
+                      <div class="d-flex align-items-center block-unit">
+                        <div class="icon mr-0 mr-md-4">
+                          <span class="fl-bigmug-line-email64 h5"></span>
+                        </div>
+                        <div class="d-none d-lg-block">
+                          <span class="d-block text-gray-500 text-uppercase">Correo Eléctronico</span>
+                          <span class="h6">3layers.host@gmail.com</span>
+                        </div>
+                      </div>
+                    </a>
+                  </li>
+
+                  <li class="text-left">
+                    <a target="_blank" href="https://wa.me/18297870797?text=Estoy%20visitando%203layers.host%20y%20tengo%20preguntas">
+                      <div class="d-flex align-items-center block-unit">
+                        <div class="icon mr-0 mr-md-4">
+                          <span class="fl-bigmug-line-chat55 h2"></span>
+                        </div>
+                        <div class="d-none d-lg-block">
+                          <span class="d-block text-gray-500 text-uppercase">WhatsApp</span>
+                          <span class="h6">Conversa con nosotros</span>
+                        </div>
+                      </div>
+                    </a>
+                  </li>
+
+
+                </ul>
+              </div>
+            
+          
+
+
+        </div>
+        
+      </div>
+    </div>
+    <div class="site-navbar bg-dark">
+      <div class="container py-1">
+        <div class="row align-items-center">
+
+          <div class="col-4 col-md-4 col-lg-8">
+            <nav class="site-navigation text-left" role="navigation">
+              <div class="d-inline-block d-lg-none ml-md-0 mr-auto py-3"><a href="/" class="site-menu-toggle js-menu-toggle text-white"><span class="icon-menu h3"></span></a></div>
+
+            <ul class="site-menu js-clone-nav d-none d-lg-block">
+    
+    
+        
+            <li class="">
+                <a href="/domain/">Dominio</a>
+            </li>
+        
+    
+        
+            <li class="has-children" class="">
+                <a href="#">Alojamiento</a>
+                <ul class="dropdown arrow-top">
+                    
+                        <li>
+                            <a href="/hosting/hosting1/">Alojamiento Compartido</a>
+                        </li>
+                    
+                        <li>
+                            <a href="/hosting/hosting2/">Alojamiento VPS</a>
+                        </li>
+                    
+                        <li>
+                            <a href="/hosting/hosting3/">Alojamiento Dedicado</a>
+                        </li>
+                    
+                </ul>
+            </li>          
+        
+    
+        
+            <li class="has-children" class="">
+                <a href="#">SSL</a>
+                <ul class="dropdown arrow-top">
+                    
+                        <li>
+                            <a href="/ssl/ssl1/">SSL Dominio (DV)</a>
+                        </li>
+                    
+                        <li>
+                            <a href="/ssl/ssl2/">Validación Negocio (OV)</a>
+                        </li>
+                    
+                        <li>
+                            <a href="/ssl/ssl3/">Validación Extendida (EV)</a>
+                        </li>
+                    
+                        <li>
+                            <a href="/ssl/ssl4/">Wildcard SSL </a>
+                        </li>
+                    
+                </ul>
+            </li>          
+        
+    
+        
+            <li class="">
+                <a href="/blog/">Blog</a>
+            </li>
+        
+    
+        
+            <li class="">
+                <a href="/migration/">Migraciones</a>
+            </li>
+        
+    
+        
+            <li class="">
+                <a href="/contact/">Contacto</a>
+            </li>
+        
+    
+</ul>
+
+            </nav>
+          </div>
+          <div class="col-8 col-md-8 col-lg-4 text-right">
+            
+            
+            
+          </div>
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+    
+    <div class="unit-5 overlay" style="background-image: url('https://3layers.host/images/blog/locker.jpg');">
+    <div class="container text-center">
+        
+            <h2 class="mb-0">¿Qué es un certificado SSL y para qué sirve?</h2>
+        
+        <p class="mb-0 unit-6">
+            <a href="https://3layers.host/">
+                <span>Inicio</span>
+            </a>&nbsp;
+            <span class="sep">
+                >
+            </span>&nbsp;
+            
+                <a href="https://3layers.host/blog/">
+                    Blog
+                </a>
+                <span class="sep">
+                    >
+                </span>&nbsp;
+            
+            <span>¿Qué es un certificado SSL y para qué sirve?</span>        
+        </p>
+    </div>
+</div>
+
+
+    <div class="site-section">
+      <div class="container">
+
+          
+    <div class="pricing-table__item-control">
+        <span class="unit-3-icon icon fl-bigmug-line-two319 btn btn-secondary rounded-0 py-2 px-4" onclick="history.back();">
+        </span>
+    </div>
+
+
+          <br>
+
+          <p>Hoy en día es más común oír hablar a los usuarios de Internet sobre lo que pueden o no hacer en sus equipos móviles, PC, o portátiles. En general, tenemos una generación de usuarios más consciente de la seguridad, y aunque muchas acciones son mitos (obtenidos en su mayoría por rumores en redes sociales o WhatsApp), muchas otras son realidades, y nos ayudaran a estar más seguro en un mundo lleno de <a href="https://es.wikipedia.org/wiki/Ciberataque">Ciberataques</a> y <a href="https://www.kaspersky.com/about/policy-blog/general-cybersecurity/how-to-deal-with-militarizing-cyberspace">Guerras digitales entre grandes potencias</a>.</p>
+
+<p>Para el usuario moderno ya no es desconocido que los portales puedes ser seguros o inseguros, esta tendencia traída a nosotros a través de promociones de Google en la que informaba que estará bloqueando los portales que no cuenten con certificados de seguridad y no solo eso, que estará afectando el <a href="https://rubycom.com/seo-search-engine-optimization">SEO</a> y reputación de estos portales no seguro. Pero en general, la comunidad completa de grandes proveedores y los <a href="https://es.wikipedia.org/wiki/Autoridad_de_certificaci%C3%B3n">Certificate authority</a> han estado en estos últimos dos años forzando el uso de SSL.</p>
+
+<p>Pero esto no surge solo por el mero hecho de contar con un SSL en tu Portal Web o en su Correo Electrónico, esto se debe a que la seguridad hoy no es una opción, es una obligación, porque las empresas que se vuelven inseguras no solo afectan las actividades propias de su empresa, si no, que ponen en riesgo a sus clientes.</p>
+
+<p><strong>¿De qué forma no tener un certificado puede podernos en riesgo a nosotros como empresa y a nuestros clientes?</strong></p>
+
+<p>La respuesta es más sencilla de lo que creemos, la información a la que accedemos en el Internet se tramita por canales públicos, estos canales son la red Wifi de nuestra casa, oficina o centro comercial donde estamos sentados a realizar alguna tarea, luego pasa por nuestro ISP (Internet Service Provider, como Claro, Altice, Wind), para luego filtrarse por toda una tela de araña de enrutadores hasta llegar a su destino.</p>
+
+<p>Sucede que, realmente, si existe una forma de interceptar ese mensaje o credenciales tramitadas por la Internet, existen programas conocidos como <a href="https://es.wikipedia.org/wiki/Analizador_de_paquetes">Sniffer</a>, que se colocan en un lugar donde pasa los datos que usted está compartiendo entre un Portal Web y su computadora. De esta forma el programa se encarga de mostrar en pantalla todos los datos que interactúan entre su dispositivo y el servidor. Permitiendo de esta forma descifrar credenciales, cuentas bancarias, entre otros datos sensibles.</p>
+
+<p><strong>Certificado de seguridad SSL</strong></p>
+
+<p>Es de vital importante que un Portal Web y su correo electrónico cuenten con un certificado de seguridad, ya que forzar los datos que se tramitan entre el cliente y el servidor a encriptarse. Dicha encriptación consiste en aplicar un <a href="https://es.wikipedia.org/wiki/Cifrado_(criptograf%C3%ADa)">algoritmo cifrado</a>, en la cual los datos que usted tramita en Internet pasan a ser texto sin sentido para la persona que está tratando de intercéptalo, y solo podría descifrarlo teniendo la llave principal la cual solo esta oculta detrás del servidor al que usted se está conectando. Por lo que resulta imposible (por lo menos hasta el momento) descifrar lo que usted está tramitando.</p>
+
+<p><strong>¿Cómo identifico que un portal es seguro?</strong></p>
+
+<p>El navegador web que usted utilice le dirá que está visitando un portal web seguro. Al visualizar un icono con un candado en la barra de navegación:</p>
+
+<table>
+<thead>
+<tr>
+<th>Barra de Estatus</th>
+<th>Navegador</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><img src="/images/blog/chromessl.jpg" alt="Chrome SSL Status" /></td>
+<td>Google Chrome</td>
+</tr>
+
+<tr>
+<td><img src="/images/blog/safarissl.jpg" alt="Apple Safari SSL Status" /></td>
+<td>Apple Safari</td>
+</tr>
+
+<tr>
+<td><img src="/images/blog/firefoxssl.jpg" alt="Mozilla Firefox SSL Status" /></td>
+<td>Mozilla Firefox</td>
+</tr>
+
+<tr>
+<td><img src="/images/blog/operassl.jpg" alt="Opera SSL Status" /></td>
+<td>Opera</td>
+</tr>
+</tbody>
+</table>
+
+<p>Para sus correos electrónicos los puertos seguros siempre serán 993, 995, y 465, esto quiere decir que si no está usando uno de estos puertos en la configuración de su correo electrónico, usted está sobre una conexión no encriptada. Es importante destacar que, aunque este sobre estos puertos contacte a su proveedor de correo electrónico para asegurarse que el certificado está activo y que estos puertos están abriendo una conexión segura.</p>
+
+<p><strong>Conclusión</strong></p>
+
+<p>Si usted es una empresa que tiene un Portal Web debe adquirir un certificado SSL con el fin de asegurar su presencia en el Internet y proteger de esta forma la información que se tramita entre sus clientes y usted. Al mismo tiempo que promueve un mejor <a href="https://es.wikipedia.org/wiki/Posicionamiento_en_buscadores">SEO</a>.</p>
+
+<p>Si es un usuario de Internet, siempre asegúrese de visitar portales seguros, y nunca ofrezca contraseñas, cuentas bancarias o información sensible en Portales Web que no cuenten con un certificado SSL activo y valido.</p>
+
+
+          <br>
+
+          
+    <div class="pricing-table__item-control">
+        <span class="unit-3-icon icon fl-bigmug-line-two319 btn btn-secondary rounded-0 py-2 px-4" onclick="history.back();">
+        </span>
+    </div>
+
+
+          <br>
+           
+            <div id="disqus_thread"></div>            
+          
+
+      </div>
+    </div>
+    
+    <footer class="site-footer">
+    <div class="container">
+        
+
+        <div class="row">
+        <div class="col-lg-7">
+            <div class="row">
+                    <div class="col-6 col-md-6 col-lg-6 mb-6 mb-lg-0">
+                            <h3 class="footer-heading mb-4">Alojamientos</h3>
+                            <ul class="list-unstyled">
+                                    
+                                        
+                                    
+                                        
+                                            <li><a href="/hosting/hosting1/">Alojamiento Compartido</a></li>
+                                        
+                                    
+                                        
+                                            <li><a href="/hosting/hosting2/">Alojamiento VPS</a></li>
+                                        
+                                    
+                                        
+                                            <li><a href="/hosting/hosting3/">Alojamiento Dedicado</a></li>
+                                        
+                                    
+                            </ul>
+                            <h3 class="footer-heading mb-4">SSL</h3>
+                            <ul class="list-unstyled">
+                                    
+                                        
+                                            <li><a href="">SSL Wildcard</a></li>
+                                        
+                                    
+                                        
+                                    
+                                        
+                                            <li><a href="">Validación Extendida</a></li>
+                                        
+                                    
+                                        
+                                            <li><a href="">Validación de Negocio</a></li>
+                                        
+                                    
+                                        
+                                            <li><a href="">SSL de Dominio</a></li>
+                                        
+                                    
+                            </ul>
+                        </div>            
+            <div class="col-6 col-md-6 col-lg-6 mb-6 mb-lg-0">
+                <h3 class="footer-heading mb-4">Menu Rápido</h3>
+                <ul class="list-unstyled">
+                <li><a href="/">Inicio</a></li>
+                <li><a href="/domain/">Dominios</a></li>
+                <li><a href="/ssl/ssl1">SSL</a></li>
+                <li><a href="/hosting/hosting1">Alojamiento</a></li>
+                <li><a href="/blog/">Blog</a></li>                
+                </ul>
+            </div>
+            </div>
+        </div>
+        <div class="col-lg-5">
+            <div class="row mb-5">
+            
+                       
+                    <div class="col-md-12"><h3 class="footer-heading mb-4">República Dominicana</h3></div>
+                    <div class="col-md-6">
+                        <p>Santo Domingo, República Dominicana.</p>    
+                    </div>
+                    <div class="col-md-6">
+                        T: &#43;1 829 787 0797 <br>
+                        M: 3layers.host@gmail.com
+                    </div>                    
+                
+            
+            </div>
+            <div class="row mb-5">
+                        <div class="col-md-12">
+                            <h3 class="footer-heading mb-4">
+                            Redes Sociales
+                            </h3>
+                        </div>
+                        <div class="col-md-1">
+                            <a href="https://www.facebook.com/3Layers-Host-112222980124952">
+                                <img src="/images/facebook.png" alt="Facebook Icon" width="25px">
+                            </a>
+                        </div>
+                        <div class="col-md-1">
+                            <a href="https://www.instagram.com/3layers.host/">
+                                <img src="/images/instagram.png" alt="Instagram Icon" width="25px">
+                            </a>
+                        </div>
+                        <div class="col-md-1">
+                            <a href="https://www.linkedin.com/company/40848949">
+                                <img src="/images/linkedin.png" alt="linkedin Icon" width="25px">
+                            </a>
+                        </div>                    
+            </div>
+        
+        </div>
+        </div>
+        <div class="row pt-5 mt-5 text-center">
+        <div class="col-md-12">
+            <p>
+            
+            Copyright &copy; <script>document.write(new Date().getFullYear());</script> All Rights Reserved 3layers.host | This template is made with <i class="icon-heart text-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
+            
+            </p>
+        </div>
+        
+        </div>
+    </div>
+</footer>
+
+    
+  </div>
+
+  <script src="https://3layers.host/js/jquery-3.3.1.min.js"></script>
+<script src="https://3layers.host/js/jquery-migrate-3.0.1.min.js"></script>
+<script src="https://3layers.host/js/jquery-ui.js"></script>
+<script src="https://3layers.host/js/popper.min.js"></script>
+<script src="https://3layers.host/js/bootstrap.min.js"></script>
+<script src="https://3layers.host/js/owl.carousel.min.js"></script>
+<script src="https://3layers.host/js/jquery.stellar.min.js"></script>
+<script src="https://3layers.host/js/jquery.countdown.min.js"></script>
+<script src="https://3layers.host/js/jquery.magnific-popup.min.js"></script>
+<script src="https://3layers.host/js/bootstrap-datepicker.min.js"></script>
+<script src="https://3layers.host/js/aos.js"></script>
+
+<script src="https://3layers.host/js/main.js"></script>
+
+<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="cc766193-05d5-4ee9-9b4a-44c68f651832";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+
+ 
+
+    <script>
+
+        (function() { 
+        var d = document, s = d.createElement('script');
+        s.src = 'https://3layers.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+        })();
+    </script>
+
+    <noscript>
+        Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+    </noscript>
+    
+    
+
+  </body>
+</html>

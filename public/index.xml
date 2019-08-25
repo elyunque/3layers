@@ -1,14 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Index on 3 Layers</title>
+    <title>Inicio on 3 Layers</title>
     <link>https://3layers.host/</link>
-    <description>Recent content in Index on 3 Layers</description>
+    <description>Recent content in Inicio on 3 Layers</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 20 Jul 2019 22:09:36 -0400</lastBuildDate>
     
 	<atom:link href="https://3layers.host/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Compatibilidad De Dispositivos Con SSL</title>
+      <link>https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/</link>
+      <pubDate>Sat, 17 Aug 2019 15:22:01 -0400</pubDate>
+      
+      <guid>https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/</guid>
+      <description>La compatibilidad del dispositivo es una de las características más importantes de cualquier certificado SSL. Cuando el dispositivo no admite el certificado SSL, los clientes finales recibirán un error y la protección de datos no será posible, es por eso que vendemos certificados SSL de las principales Autoridades de Certificación (CA) para tener la mejor calidad. Aquí hay una lista de los dispositivos más comunes compatibles.
+Navegadores Web
+ AOL 5+ Apple Safari 1+ Camino 1.</description>
+    </item>
+    
+    <item>
+      <title>¿Qué es un certificado SSL y para qué sirve?</title>
+      <link>https://3layers.host/blog/que-es-un-certificado-ssl-y-para-que-sirve/</link>
+      <pubDate>Thu, 15 Aug 2019 14:42:10 +0000</pubDate>
+      
+      <guid>https://3layers.host/blog/que-es-un-certificado-ssl-y-para-que-sirve/</guid>
+      <description>Hoy en día es más común oír hablar a los usuarios de Internet sobre lo que pueden o no hacer en sus equipos móviles, PC, o portátiles. En general, tenemos una generación de usuarios más consciente de la seguridad, y aunque muchas acciones son mitos (obtenidos en su mayoría por rumores en redes sociales o WhatsApp), muchas otras son realidades, y nos ayudaran a estar más seguro en un mundo lleno de Ciberataques y Guerras digitales entre grandes potencias.</description>
+    </item>
+    
+    <item>
+      <title>¿Por Qué Una Empresa Necesita Seguridad Informática?</title>
+      <link>https://3layers.host/blog/por-que-una-empresa-necesita-seguridad-informatica/</link>
+      <pubDate>Thu, 15 Aug 2019 10:33:31 -0400</pubDate>
+      
+      <guid>https://3layers.host/blog/por-que-una-empresa-necesita-seguridad-informatica/</guid>
+      <description>Si una empresa se hacen esta pregunta es altamente posible que ya esta siendo atacada, la seguridad en las empresas a nivel de los activos informáticos y tecnológicos no es un juego que debemos dejar al tiempo. Si consideramos cual es el activo mas valioso de cualquier empresa podremos decir que es si dudar:
+“La información que maneja…”
+Entonces surgen varias preguntas para hacernos:
+ ¿Estamos completamente seguro de quien accede a cuál información dentro de mi empresa y puedo dar testimonios a mis clientes que sus informaciones no son vista por personas o empleados que no deberían tener acceso a ellas?</description>
+    </item>
     
     <item>
       <title>Robo De Identidad</title>
@@ -26,8 +58,8 @@ Hay que destacar también que el robo de identidad se suscribe en los delitos de
       <pubDate>Tue, 30 Jul 2019 22:53:58 -0400</pubDate>
       
       <guid>https://3layers.host/blog/sectigoinstantsslpremiumwildcard/</guid>
-      <description>Sectigo InstantSSL Premium Wildcard SSL proporciona seguridad tanto para subdominios ilimitados como para el dominio primario con licencias de servidor ilimitadas. Instale el certificado SSL en todos los servidores o dispositivos que necesite de forma totalmente gratuita, sin cargos por dispositivo / servidor adicional. Olvídate de administrar pocos certificados SSL, ahora todo se hace con solo uno.
-La garantía de $ 250,000 viene con cada SSL Wildcard Premium de Sectigo CA.</description>
+      <description>Sectigo InstantSSL Premium Wildcard SSL proporciona seguridad tanto para subdominios ilimitados como para el dominio primario con licencias de servidor ilimitadas. Instale el certificado SSL en todos los servidores o dispositivos que necesite de forma totalmente incluida, sin cargos por dispositivo / servidor adicional. Olvídate de administrar múltiples certificados SSL, ahora todo se hace con solo uno.
+La garantía de $250,000 viene con cada SSL Wildcard Premium de Sectigo CA. SSL equipado con el logotipo Dynamic Site Seal que debe instalarse en el sitio web para aumentar significativamente la confianza de cada visitante.</description>
     </item>
     
     <item>
@@ -36,18 +68,8 @@ La garantía de $ 250,000 viene con cada SSL Wildcard Premium de Sectigo CA.</de
       <pubDate>Tue, 30 Jul 2019 22:53:19 -0400</pubDate>
       
       <guid>https://3layers.host/blog/sectigopositivesslwildcard/</guid>
-      <description>Comodo PositiveSSL Wildcard SSL es un producto muy accesible a un precio económico. La alta protección de 256 bits con el algoritmo hash SHA2 lo hace competitivo con los principales actores del mercado. Tiene una excelente compatibilidad de navegador del 99.6% con excelente soporte para dispositivos móviles. Elija ese SSL cuando necesite protección inmediata aquí y ahora.
+      <description>Comodo PositiveSSL Wildcard SSL es un producto muy accesible a un precio económico. La alta protección de 256 bits con el algoritmo hash SHA2 lo hace competitivo con los principales actores del mercado. Tiene una compatibilidad de navegador del 99.6% con excelente soporte para dispositivos móviles. Elija ese SSL cuando necesite protección inmediata aquí y ahora, esto sumado a la alta experiencia de 3Layers Host.
 Viene con reemisiones gratuitas ilimitadas, soporte de subdominio ilimitado y licencias de servidor gratuitas ilimitadas, lo que significa que es posible proteger todo bajo el mismo dominio utilizando muchos servidores.</description>
-    </item>
-    
-    <item>
-      <title>RapidSSL Wildcard Certificate</title>
-      <link>https://3layers.host/blog/rapidsslwildcardcertificate/</link>
-      <pubDate>Tue, 30 Jul 2019 22:48:47 -0400</pubDate>
-      
-      <guid>https://3layers.host/blog/rapidsslwildcardcertificate/</guid>
-      <description>El proceso de validación automática permite a los clientes obtener un certificado SSL de 256 bits en cuestión de minutos, ya que solo se requiere la confirmación de los derechos para usar el nombre de dominio. Es posible confirmar la propiedad / control por correo electrónico. La autoridad de RapidSSL envía correos electrónicos de verificación al contacto de Whois o cualquier otro correo electrónico estándar como admin@domain.com o hostmaster@domain.com
-RapidSSL permite el bloqueo verde en todos los navegadores para demostrar que las transacciones son seguras y el sitio web está protegido contra delincuentes o intentos de secuestro de datos.</description>
     </item>
     
     <item>
@@ -56,8 +78,8 @@ RapidSSL permite el bloqueo verde en todos los navegadores para demostrar que la
       <pubDate>Tue, 30 Jul 2019 22:34:20 -0400</pubDate>
       
       <guid>https://3layers.host/blog/sectigopositivesslevmdc/</guid>
-      <description>Uno de los certificados SSL más nuevos de Sectigo (anteriormente Comodo CA) es el certificado PositiveSSL EV Multi-Domain, llegó en abril de 2017. Ese es uno de los certificados SSL EV Multi-Domain más baratos que viene con la barra de direcciones verde disponible en el mercado.
-Sectigo PositiveSSL EV MDC SSL viene con un nombre de dominio de la CSR y dos (2) elementos SAN. La validación extendida significa que el sitio web estará altamente protegido y protegido contra hackers y atacantes de phisher.</description>
+      <description>Uno de los certificados SSL más nuevos de Sectigo (anteriormente Comodo CA) es el certificado PositiveSSL EV Multi-Domain, llegó en abril de 2017. Ese es uno de los certificados SSL EV Multi-Domain más económicos que viene con la barra de direcciones verde disponible en el mercado. Solo lo encontraras en 3Layers Host al mejor precio.
+Sectigo PositiveSSL EV MDC SSL viene con un nombre de dominio de CSR y dos (2) elementos SAN.</description>
     </item>
     
     <item>
@@ -67,7 +89,7 @@ Sectigo PositiveSSL EV MDC SSL viene con un nombre de dominio de la CSR y dos (2
       
       <guid>https://3layers.host/blog/sectigoevmultidomainssl/</guid>
       <description>Utilice el certificado SSL multidominio Sectigo con soporte EV para asegurar entre 1 y 250 nombres de dominio y sus subdominios con la barra de direcciones verde habilitada. Ya no es necesario administrar múltiples certificados SSL, códigos CSR y claves privadas, ya que ahora es posible hacer todo con un solo certificado. Multi-Domain SSL funciona con dominios y subdominios.
-Sectigo EV Multi-Domain SSL viene con un nombre de dominio y dos elementos SAN por defecto.</description>
+Sectigo EV Multi-Domain SSL viene con validación de un nombre de dominio y dos elementos SAN por defecto.</description>
     </item>
     
     <item>
@@ -76,8 +98,8 @@ Sectigo EV Multi-Domain SSL viene con un nombre de dominio y dos elementos SAN p
       <pubDate>Tue, 30 Jul 2019 22:33:19 -0400</pubDate>
       
       <guid>https://3layers.host/blog/sectigopositivesslev/</guid>
-      <description>Uno de los certificados SSL más nuevos de Sectigo (anteriormente Comodo CA) es el certificado PositiveSSL EV, llegó en abril de 2017. Es uno de los certificados EV SSL más baratos que vienen con la barra de direcciones verde disponible en el mercado.
-EV significa que la validación extendida requiere obtener SSL emitido. Hay tres pasos generales para aprobarlo; validación de dominio para verificar la propiedad del dominio, validación comercial para asegurarse de que la compañía existe y proceso de devolución de llamada para asegurarse de que el teléfono de la compañía esté disponible a través de sitios web de páginas amarillas de terceros.</description>
+      <description>Uno de los certificados SSL más nuevos de Sectigo (anteriormente Comodo CA) es el certificado PositiveSSL EV, llegó en abril de 2017. Es uno de los certificados EV SSL más baratos disponibles en el mercado que vienen con la barra de direcciones verde. Solo lo encontraras en 3Layers Host al mejor precio.
+EV significa que la validación extendida se requiere. Hay tres pasos generales para aprobarlo; validación de dominio para verificar la propiedad del dominio, validación comercial para asegurarse de que la compañía existe y proceso de devolución de llamada para asegurarse que el teléfono de la compañía esté disponible a través de sitios web de páginas amarillas de terceros.</description>
     </item>
     
     <item>
@@ -86,7 +108,8 @@ EV significa que la validación extendida requiere obtener SSL emitido. Hay tres
       <pubDate>Tue, 30 Jul 2019 22:32:41 -0400</pubDate>
       
       <guid>https://3layers.host/blog/sectigoevsslcertificate/</guid>
-      <description>El certificado SSL de validación extendida Sectigo obtiene la mayor confianza de los clientes finales al igual que la barra de direcciones verde que muestra a los visitantes que el sitio web es seguro de usar con el nombre verificado de la compañía. Sectigo EV SSL ofrece, de todos modos, características que otros competidores, pero a un mejor precio. Navegue a través del sitio web para obtener más certificados SSL EV (validación extendida) ofrecidos.</description>
+      <description>El certificado SSL de validación extendida Sectigo obtiene la mayor confianza de los clientes finales al igual que la barra de direcciones verde que muestra a los visitantes sobre que el sitio web es seguro (con el nombre verificado de la compañía). Sectigo EV SSL ofrece, de todos modos, características con las que cuentan otros competidores, pero a un mejor precio.
+El certificado SSL de validación extendida requiere validar la empresa / organización, así que prepárese para proporcionar documentos comerciales al centro de verificación de Sectigo, esto se requiere debido al mayor nivel de seguridad y protección de este certificado, el cual impresionará a los clientes potenciales y los ayudará a confiar más en el sitio web y servicios prestados.</description>
     </item>
     
     <item>
@@ -95,7 +118,7 @@ EV significa que la validación extendida requiere obtener SSL emitido. Hay tres
       <pubDate>Tue, 30 Jul 2019 22:27:00 -0400</pubDate>
       
       <guid>https://3layers.host/blog/symantecsecuresiteproev/</guid>
-      <description>Symantec Secure Site Pro EV es el número uno en el mundo. Tiene muchas características que lo hacen tan especial. La función SGC aumenta el cifrado mínimo de 40 bits en los navegadores antiguos a 256 bits fuertes. La validación extendida brinda otra opción excepcional: la barra de direcciones verde, aumenta las ventas y aumenta el nivel de confianza de los visitantes. Los elementos SAN pueden proteger hasta 250 dominios o subdominios diferentes a la vez.</description>
+      <description>Symantec Secure Site Pro EV es el número uno en el mundo. Tiene muchas características que lo hacen tan especial. La función SGC aumenta el cifrado mínimo de 40 bits en los navegadores antiguos a 256 bits. La validación extendida brinda otra opción excepcional: la barra de direcciones verde aumenta las ventas y aumenta el nivel de confianza de los visitantes. Los elementos SAN pueden proteger hasta 250 dominios o subdominios diferentes a la vez.</description>
     </item>
     
     <item>
@@ -104,8 +127,8 @@ EV significa que la validación extendida requiere obtener SSL emitido. Hay tres
       <pubDate>Tue, 30 Jul 2019 22:26:54 -0400</pubDate>
       
       <guid>https://3layers.host/blog/symantecsecuresiteev/</guid>
-      <description>Sin dudas, es el mejor certificado EV SSL de la industria emitido por DigiCert CA. Symantec Secure Site EV SSL es un líder de confianza absoluta con una larga historia. SSL viene con cifrado de 256 bits y admite el algoritmo hash SHA2. Puede agregar hasta 250 elementos SAN para proteger todos sus sitios web a la vez
-Symantec Secure Site EV requiere una verificación ampliada para recibir la barra de direcciones verde para aumentar la tasa de conversión hasta un 17,3%.</description>
+      <description>Sin dudas, es el mejor certificado EV SSL de la industria emitido por DigiCert CA. Symantec Secure Site EV SSL es un líder de confianza absoluta con una larga historia. Esté SSL viene con cifrado de 256 bits y admite el algoritmo hash SHA2. Puede agregar hasta 250 elementos SAN para proteger todos sus sitios web a la vez.
+Symantec Secure Site EV requiere una verificación ampliada para recibir la barra de direcciones verde.</description>
     </item>
     
     <item>
@@ -114,8 +137,8 @@ Symantec Secure Site EV requiere una verificación ampliada para recibir la barr
       <pubDate>Tue, 30 Jul 2019 22:12:20 -0400</pubDate>
       
       <guid>https://3layers.host/blog/geotrusttruebusinessidsanev/</guid>
-      <description>La solución perfecta para aquellos que tienen múltiples sitios web de comercio electrónico o corporativos que requieren la mejor protección y características de confianza como la barra de direcciones verdes que viene con cada certificado SSL. Es posible proteger hasta 250 dominios con el último algoritmo hash SHA-256. Reediciones gratuitas ilimitadas y licencias de servidor ilimitadas están disponibles durante todo el ciclo de vida de SSL emitido.
-GeoTrust SSL muy utilizado por Outlook, OWA y ActiveSync, ya que SSL creado por la empresa profesional con más de 120,000 clientes en todo el mundo, que confían en esa marca.</description>
+      <description>La solución perfecta para aquellos que tienen múltiples sitios web de comercio electrónico o corporativos y requieren la mejor protección y características de confianza como la barra de direcciones verdes que viene con cada certificado SSL. Es posible proteger hasta 250 dominios con el último algoritmo hash SHA-256. Reediciones gratuitas ilimitadas y licencias de servidor ilimitadas están disponibles durante todo el ciclo de vida de SSL emitido.
+GeoTrust SSL muy utilizado por Outlook, OWA y ActiveSync, GeoTrust es una empresa profesional con más de 120,000 clientes en todo el mundo, que confían en la marca.</description>
     </item>
     
     <item>
@@ -124,8 +147,8 @@ GeoTrust SSL muy utilizado por Outlook, OWA y ActiveSync, ya que SSL creado por 
       <pubDate>Tue, 30 Jul 2019 22:12:15 -0400</pubDate>
       
       <guid>https://3layers.host/blog/geotrusttruebusinessidwithev/</guid>
-      <description>GeoTrust tiene una amplia gama de productos tradicionales como Wildcard SSL, SSL multidominio y certificados de dominio único, pero uno de los más buscados es el certificado SSL SSL GeoTrust. Viene con protección de 256 bits y licencias de servidor ilimitadas que permiten instalar SSL en tantos servidores como desee sin costo adicional.
-EV SSL significa validación extendida involucrada en el proceso de verificación, es posible que deba proporcionar algunos documentos de la empresa, como el Artículo de incorporación (solicitud de registro) o un enlace a la base de datos GOV en línea para verificar la existencia legal de su negocio.</description>
+      <description>GeoTrust tiene una amplia gama de productos tradicionales como Wildcard SSL, SSL multidominio y certificados de dominio único, uno de los más buscados es el certificado SSL GeoTrust. Viene con protección de 256 bits y licencias de servidor ilimitadas que permiten instalar SSL en tantos servidores como desee sin costo adicional.
+EV SSL significa validación extendida involucrada en el proceso de verificación, es posible que deba proporcionar algunos documentos de la empresa, como el Artículo de incorporación (solicitud de registro o un enlace a la base de datos GOV en línea para verificar la existencia legal de su negocio (DGII).</description>
     </item>
     
     <item>
@@ -144,7 +167,8 @@ Cada certificado SSL de Thawte requiere tecnología IP o SNI dedicada para insta
       <pubDate>Tue, 30 Jul 2019 22:02:22 -0400</pubDate>
       
       <guid>https://3layers.host/blog/thawtewebservercertificate/</guid>
-      <description>El certificado SSL del servidor web Thawte destruye las preocupaciones y los problemas, ya que dormirá tranquilo sin preocuparse por los datos intercambiados en línea a través de un servidor web, ya que siempre está bien protegido y seguro. El certificado del servidor web confirmará la identidad única de los socios comerciales, empleados o cualquier otro cliente final. Los datos confidenciales estarán protegidos con un cifrado de 256 bits durante la transmisión a través de aplicaciones web, servidores de correo o Intranets.</description>
+      <description>El certificado SSL del servidor web Thawte destruye las preocupaciones y los problemas, El certificado para servidores Web confirmará la identidad única de los socios comerciales, empleados o cualquier otro cliente final. Los datos confidenciales estarán protegidos con un cifrado de 256 bits durante la transmisión a través de aplicaciones web, servidores de correo o Intranets.
+Thawte le pedirá a su empresa que apruebe la validación de la organización con el proceso de devolución de llamada.</description>
     </item>
     
     <item>
@@ -154,7 +178,7 @@ Cada certificado SSL de Thawte requiere tecnología IP o SNI dedicada para insta
       
       <guid>https://3layers.host/blog/symantecsecuresiteprowildcard/</guid>
       <description>El SSL más potente y costoso del planeta, Symantec Secure Site Pro Wildcard con cifrado de 256 bits. Es compatible con los algoritmos de cifrado RSA y ECC (criptografía de curva elíptica) más potentes. Proteja su dominio, así como un número ilimitado de subdominios con un comodín SSL. Esa es la mejor potencia SSL de la marca Norton.
-SSL viene con verificación de prioridad, garantía de $ 1,500,000 y, por supuesto, reemisiones gratuitas ilimitadas.</description>
+SSL viene con verificación de prioridad, garantía de $1,500,000 y, por supuesto, reemisiones gratuitas ilimitadas.</description>
     </item>
     
     <item>
@@ -163,7 +187,7 @@ SSL viene con verificación de prioridad, garantía de $ 1,500,000 y, por supues
       <pubDate>Tue, 30 Jul 2019 21:56:27 -0400</pubDate>
       
       <guid>https://3layers.host/blog/symantecsecuresitewildcard/</guid>
-      <description>Symantec Secure Site Pro con la función SGC habilitada y el soporte de ECC es el SSL más famoso y respetado en grandes empresas, bancos, proyectos de comercio electrónico y entidades gubernamentales. Secure Site Pro de 256 bits permite emitir SSL con SHA256 y algoritmo hash ECC. Puede pedir hasta 250 artículos SAN para proteger cualquier cosa que tenga con el mismo certificado.
+      <description>Symantec Secure Site Pro con la función SGC habilitada y el soporte de ECC es el SSL más famoso y respetado en grandes empresas, bancos, proyectos de comercio electrónico y entidades gubernamentales. Secure Site Pro de 256 bits permite emitir SSL con SHA256 y algoritmo hash ECC. Puede pedir hasta 250 SAN para proteger cualquier servicio que tenga con el mismo certificado.
 DigiCert CA, que emite certificados SSL de Symantec, es el proveedor de SSL más respetuoso del planeta.</description>
     </item>
     
@@ -173,7 +197,7 @@ DigiCert CA, que emite certificados SSL de Symantec, es el proveedor de SSL más
       <pubDate>Tue, 30 Jul 2019 21:52:49 -0400</pubDate>
       
       <guid>https://3layers.host/blog/symantecsecuresitepro/</guid>
-      <description>Symantec Secure Site Pro con la función SGC habilitada y el soporte de ECC es el SSL más famoso y respetado en grandes empresas, bancos, proyectos de comercio electrónico y entidades gubernamentales. Secure Site Pro de 256 bits permite emitir SSL con SHA256 y algoritmo hash ECC. Puede pedir hasta 250 artículos SAN para proteger cualquier cosa que tenga con el mismo certificado.
+      <description>Symantec Secure Site Pro con la función SGC habilitada y el soporte de ECC es el SSL más famoso y respetado en grandes empresas, bancos, proyectos de comercio electrónico y entidades gubernamentales. Secure Site Pro de 256 bits permite emitir SSL con SHA256 y algoritmo hash ECC. Puede pedir hasta 250 SAN para proteger cualquier portal que tenga con el mismo certificado.
 DigiCert CA, que emite certificados SSL de Symantec, es el proveedor de SSL más respetuoso del planeta.</description>
     </item>
     
@@ -183,8 +207,8 @@ DigiCert CA, que emite certificados SSL de Symantec, es el proveedor de SSL más
       <pubDate>Tue, 30 Jul 2019 21:38:01 -0400</pubDate>
       
       <guid>https://3layers.host/blog/symantecsecuresite/</guid>
-      <description>Symantec Secure Site SSL emitido por DigiCert CA, es uno de los mejores certificados del mundo, ya que se lanzó la CA más antigua y confiable a nivel mundial, conocida en el pasado como VeriSign CA. Los certificados de Symantec de 256 bits vienen con el algoritmo hash SHA-256 y son perfectos para la protección de intranet / extranet y sitios web.
-Secure Site SSL viene con uno de los mejores equipos de soporte y ventas, que están listos para ayudarlo las 24 horas del día.</description>
+      <description>Symantec Secure Site SSL emitido por DigiCert CA, es uno de los mejores certificados del mundo, ya estamos hablando de la CA más antigua y confiable a nivel mundial, conocida en el pasado como VeriSign CA. Los certificados de Symantec de 256 bits vienen con el algoritmo hash SHA-256 y son perfectos para la protección de intranet / extranet y sitios web.
+Secure Site SSL viene con uno de los mejores equipos de soporte y ventas que interactua con 3Layers Host a nivel local para ayudarlo las 24 horas del día.</description>
     </item>
     
     <item>
@@ -193,7 +217,7 @@ Secure Site SSL viene con uno de los mejores equipos de soporte y ventas, que es
       <pubDate>Tue, 30 Jul 2019 21:35:26 -0400</pubDate>
       
       <guid>https://3layers.host/blog/geotrusttruebusinessidsan/</guid>
-      <description>Hoy, es el mundo de los negocios en línea versátiles, cuando incluso las pequeñas y medianas empresas usan múltiples nombres de dominio para proporcionar sus servicios o para cubrir los mercados locales, y es por eso que necesitan una solución fácil para proteger todos los dominios o subdominios. Los certificados SAN de GeoTrust True BusinessID incluyen hasta 250 elementos SAN dentro de un solo certificado SSL. Eso significa que debe pasar la verificación comercial solo una vez, en lugar de 250 (!</description>
+      <description>Hoy, es el tiempo de los negocios en línea versátiles, cuando incluso las pequeñas y medianas empresas usan múltiples nombres de dominio para proporcionar sus servicios o para cubrir los mercados locales y de otros estratos geográficos, y es por eso que necesitan una solución fácil para proteger todos los dominios o subdominios. Los certificados SAN de GeoTrust True BusinessID incluyen hasta 250 elementos SAN dentro de un solo certificado SSL.</description>
     </item>
     
     <item>
@@ -202,7 +226,7 @@ Secure Site SSL viene con uno de los mejores equipos de soporte y ventas, que es
       <pubDate>Tue, 30 Jul 2019 20:42:06 -0400</pubDate>
       
       <guid>https://3layers.host/blog/sectigoessentialsslwildcard/</guid>
-      <description>EssentialSSL Wildcard SSL es un certificado SSL comodín muy barato de Sectigo (anteriormente Comodo CA). Tiene muchas características excelentes, como licencias de servidor ilimitadas, reemisiones gratuitas ilimitadas y compatibilidad total con más de 99.6 navegadores y dispositivos móviles. Solo se necesitan tres minutos para emitir SSL actual una vez que el proceso de validación del dominio haya pasado con éxito. La tienda GoGetSSL ofrece más de diez certificados SSL Wildcard diferentes de diferentes marcas de CA a precios excelentes.</description>
+      <description>EssentialSSL Wildcard SSL es un certificado SSL comodín muy barato de Sectigo (anteriormente Comodo CA). con excelentes características, como licencias de servidor ilimitadas, reemisiones gratuitas ilimitadas y compatibilidad total con más de 99.6 navegadores y dispositivos móviles. Solo se necesitan tres minutos para la emitición SSL después que el proceso de validación del dominio haya pasado con éxito. 3Layers Host ofrece más de diez certificados SSL Wildcard de diferentes marcas a los mejores precios contáctanos para más información o una guía personalizada.</description>
     </item>
     
     <item>
@@ -230,7 +254,7 @@ Sectigo PositiveSSL Multi-Domain con comodín habilitado asegura * .</descriptio
       <pubDate>Mon, 29 Jul 2019 20:24:53 -0400</pubDate>
       
       <guid>https://3layers.host/blog/sectigopositivessl/</guid>
-      <description>Sectigo (anteriormente Comodo CA) PositiveSSL es uno de los certificados SSL de validación de dominio más populares del mundo. Es un producto estándar de la industria de 2048 bits con soporte de algoritmos hash RSA y ECC por un precio muy bajo. PositiveSSL viene con un candado verde en la línea de dirección que ayuda a los clientes a comprender que sus datos están encriptados y se mantienen privados con un certificado SSL confiable.</description>
+      <description>Sectigo (anteriormente Comodo CA) PositiveSSL es uno de los certificados SSL de validación de dominio más populares del mundo. Es un producto estándar de la industria de 2048 bits con soporte de algoritmos hash RSA y ECC por un precio muy bajo. PositiveSSL viene con un candado verde en la línea de dirección que ayuda a los clientes a comprender que sus datos están encriptados. No hay otro SSL tan bueno para sitios web pequeños, nuevas empresas y starters.</description>
     </item>
     
     <item>
@@ -239,8 +263,7 @@ Sectigo PositiveSSL Multi-Domain con comodín habilitado asegura * .</descriptio
       <pubDate>Mon, 29 Jul 2019 20:21:24 -0400</pubDate>
       
       <guid>https://3layers.host/blog/rapidsslwildcard/</guid>
-      <description>El proceso de validación automática permite a los clientes obtener un certificado SSL de 256 bits en cuestión de minutos, ya que solo se requiere la confirmación de los derechos para usar el nombre de dominio. Es posible confirmar la propiedad / control por correo electrónico. La autoridad de RapidSSL envía correos electrónicos de verificación al contacto de Whois o cualquier otro correo electrónico estándar como admin@domain.com o hostmaster@domain.com
-RapidSSL permite el bloqueo verde en todos los navegadores para demostrar que las transacciones son seguras y el sitio web está protegido contra delincuentes o intentos de secuestro de datos.</description>
+      <description>El proceso de validación automática permite a los clientes obtener un certificado SSL de 256 bits en cuestión de minutos, ya que solo se requiere la confirmación de los derechos del dominio para obtenerlo. También, es posible confirmar la propiedad / control por correo electrónico. La autoridad de RapidSSL envía correos electrónicos de verificación al contacto de Whois o cualquier otro correo electrónico estándar como admin @, administrador @, hostmaster @, postmaster @, webmaster @.</description>
     </item>
     
     <item>
@@ -249,7 +272,7 @@ RapidSSL permite el bloqueo verde en todos los navegadores para demostrar que la
       <pubDate>Mon, 29 Jul 2019 20:12:26 -0400</pubDate>
       
       <guid>https://3layers.host/blog/geotrustquicksslpremiumsan/</guid>
-      <description>El certificado GeoTrust QuickSSL Premium SAN es lo que necesita si necesita una solución fácil y profesional para asegurar el dominio principal y los 4 subdominios a la vez. Tiene cuatro elementos SAN disponibles, y puede usarlos solo para subdominios. El cifrado de 256 bits viene con cada SSL para establecer una compatibilidad perfecta con la mayoría de los navegadores o dispositivos móviles.
+      <description>El certificado GeoTrust QuickSSL Premium SAN es lo que necesita si buscas una solución fácil y profesional para asegurar el dominio principal y 4 subdominios a la vez (SAN). Tiene cuatro elementos SAN disponibles (puede usarlos solo para subdominios). El cifrado de 256 bits viene con cada SSL para establecer una compatibilidad perfecta con la mayoría de los navegadores o dispositivos móviles.
 No debería tomar más de cinco u ocho minutos recibir el certificado SSL emitido por GeoTrust después de pasar con éxito el procedimiento de validación del dominio.</description>
     </item>
     
@@ -259,27 +282,27 @@ No debería tomar más de cinco u ocho minutos recibir el certificado SSL emitid
       <pubDate>Mon, 29 Jul 2019 19:51:55 -0400</pubDate>
       
       <guid>https://3layers.host/blog/geotrustquicksslpremiumwildcard/</guid>
-      <description>GeoTrust QuickSSL Premium Wildcard SSL es otro DV Wildcard de DigiCert CA y es una alternativa de RapidSSL Wildcard SSL, fue lanzado a principios de 2016. El nuevo producto viene con el algoritmo hash SHA-256 y garantía de devolución de dinero de 30 días por cualquier motivo.
+      <description>GeoTrust QuickSSL Premium Wildcard SSL es otro DV Wildcard de DigiCert CA y es una alternativa de RapidSSL Wildcard SSL, fue lanzado a principios de 2016. El nuevo producto viene con el algoritmo hash SHA-256.
 Puede asegurar un nombre de dominio primario y subdominios ilimitados, también tiene reemisiones gratuitas ilimitadas. Sin embargo, puede volver a emitir SSL solo a los mismos nombres de dominio; no se permiten cambios, pero los productos Sectigo / GoGetSSL permiten cambiar el nombre común durante la reemisión.</description>
     </item>
     
     <item>
       <title>Certificado SSL de GeoTrust True BusinessID Wildcard</title>
       <link>https://3layers.host/blog/geotrusttruebusinessidwildcard/</link>
-      <pubDate>Mon, 29 Jul 2019 19:41:15 -0400</pubDate>
+      <pubDate>Mon, 29 Jul 2019 23:41:15 +0000</pubDate>
       
       <guid>https://3layers.host/blog/geotrusttruebusinessidwildcard/</guid>
-      <description>El certificado SSL de GeoTrust True BusinessID Wildcard no es barato, pero usted paga por la excelente calidad y el certificado DigiCert CA de confianza. Los certificados vienen con subdominios ilimitados bajo el mismo nombre de dominio, así como licencias de servidor ilimitadas, lo que significa que puede instalar SSL en cualquier cantidad de servidores o IP. Todos los certificados vienen con encriptación de 256 bits.
-Tomará algunos días hábiles para validar su negocio antes de que se emita SSL.</description>
+      <description>El certificado SSL de GeoTrust True BusinessID Wildcard no es barato, pero usted paga por la excelente calidad y el certificado DigiCert CA, unido al sopote de 3Layers Host. Los certificados vienen con subdominios ilimitados bajo el mismo nombre de dominio, así como licencias de servidor ilimitadas, lo que significa que puede instalar SSL en cualquier cantidad de servidores o IP. Todos los certificados vienen con encriptación de 256 bits.</description>
     </item>
     
     <item>
-      <title>Certificado SSL de True BusinessID </title>
+      <title>Certificado SSL de GeoTrust True BusinessID </title>
       <link>https://3layers.host/blog/geotrusttruebusinessid/</link>
-      <pubDate>Mon, 29 Jul 2019 19:27:05 -0400</pubDate>
+      <pubDate>Mon, 29 Jul 2019 23:27:05 +0000</pubDate>
       
       <guid>https://3layers.host/blog/geotrusttruebusinessid/</guid>
-      <description>El Certificado SSL de True BusinessID es la decisión correcta en caso de que necesite una solución profesional para su organización; GeoTrust está dirigido principalmente a clientes comerciales y entidades gubernamentales. Los visitantes del sitio web sabrán que el sitio web está bien protegido con un certificado de una marca conocida emitida por DigiCert CA. Los certificados SSL GeoTrust vienen con encriptación de 256 bits y protección raíz de 2048 bits.</description>
+      <description>El Certificado SSL de True BusinessID es la decisión correcta en caso de que necesite una solución profesional para su organización; GeoTrust está dirigido principalmente a clientes comerciales y entidades gubernamentales. Los visitantes a su sitio Web sabrán que está bien protegido con un certificado de una marca conocida emitida por DigiCert CA. Los certificados SSL GeoTrust vienen con encriptación de 256 bits y protección raíz de 2048 bits.
+La emisión de un certificado SSL demora entre 1 y 3 días hábiles, y es posible solicitar SSL por hasta dos años con un alto monto de garantía de $1,250,000.</description>
     </item>
     
     <item>
@@ -303,20 +326,20 @@ Tomará algunos días hábiles para validar su negocio antes de que se emita SSL
     <item>
       <title>GeoTrust QuickSSL Premium</title>
       <link>https://3layers.host/blog/geotrustquicksslpremium/</link>
-      <pubDate>Thu, 25 Jul 2019 23:13:36 -0400</pubDate>
+      <pubDate>Fri, 26 Jul 2019 03:13:36 +0000</pubDate>
       
       <guid>https://3layers.host/blog/geotrustquicksslpremium/</guid>
-      <description>¿Busca un certificado SSL muy tradicional? Seleccione el certificado GeoTrust QuickSSL Premium de DigiCert CA. QuickSSL permite un cifrado fuerte de 256 bits en todos los equipos de escritorio, móviles y navegadores para proteger el sitio web. Los clientes no recibirán mensajes de advertencia de los navegadores con respecto a la conexión desprotegida. A partir de 2018, todos los SSL de confianza aumentan el rango en Google y eso es increíble.</description>
+      <description>¿Esta buscando un certificado SSL tradicional? Seleccione el certificado GeoTrust QuickSSL Premium de DigiCert CA de 3Layers Host. QuickSSL permite un cifrado fuerte de 256 bits en todos los equipos de escritorio, móviles y navegadores para proteger el sitio web. Sus clientes no recibirán mensajes de advertencia de los navegadores con respecto a la conexión desprotegida. Además, a partir del 2018, todos los SSL de confianza aumentan el rango en Google y eso es increíblemente beneficioso para su Portal Web.</description>
     </item>
     
     <item>
       <title>RapidSSL de GeoTrust</title>
       <link>https://3layers.host/blog/rapidsslstandard/</link>
-      <pubDate>Thu, 25 Jul 2019 22:16:42 -0400</pubDate>
+      <pubDate>Fri, 26 Jul 2019 02:16:42 +0000</pubDate>
       
       <guid>https://3layers.host/blog/rapidsslstandard/</guid>
-      <description>El certificado RapidSSL pertenece a la marca GeoTrust CA. Es una autoridad de certificación bastante antigua y conocida con miles de ventas. Al igual que cualquier otra validación de dominio, el proceso de emisión de certificados SSL toma alrededor de cinco minutos. RapidSSL admite el cifrado de 128&amp;frasl;256 bits, por lo que los algoritmos hash SHA2 están disponibles.
-La validación tiene un proceso automático, y es por eso que es posible obtener SSL en cualquier momento, de día o de noche.</description>
+      <description>El certificado RapidSSL de 3Layers Host pertenece a la marca GeoTrust CA. La cual es una autoridad de certificación bastante antigua y conocida con millones de ventas. Al igual que cualquier otra validación de dominio, el proceso de emisión de certificados SSL toma alrededor de cinco minutos. RapidSSL admite el cifrado de 128&amp;frasl;256 bits, por lo que dispone de algoritmos hash SHA2.
+La validación tiene un proceso automático, y es por eso por lo que es posible obtener SSL en cualquier momento, de día o de noche solo contactando a nuestro amable equipo de ventas de 3Layers Host.</description>
     </item>
     
     <item>
@@ -358,12 +381,75 @@ Mayores certificados DV de SSL provistos con el logotipo de Static Site Seal, re
     </item>
     
     <item>
+      <title>Expertos del Sector</title>
+      <link>https://3layers.host/panel/migracion1/</link>
+      <pubDate>Mon, 22 Jul 2019 21:54:26 -0400</pubDate>
+      
+      <guid>https://3layers.host/panel/migracion1/</guid>
+      <description>Nuestro equipo posee habilidades de expertos en migración, adquirida a través de más de 10 años de experiencia en el sector de migración de datos y alojamiento de servidores.</description>
+    </item>
+    
+    <item>
+      <title>Seguridad</title>
+      <link>https://3layers.host/panel/migracion2/</link>
+      <pubDate>Sun, 21 Jul 2019 22:54:26 -0400</pubDate>
+      
+      <guid>https://3layers.host/panel/migracion2/</guid>
+      <description>Nos hacemos responsable en todo el proceso de migración de sus datos a través de nuestro soporte presencial y remoto. Incluyendo el levantamiento, como la implementación de los procesos.</description>
+    </item>
+    
+    <item>
+      <title>¿Cuánto puede demorar la migración de mis cuentas de correo electrónicas?</title>
+      <link>https://3layers.host/faq/migracion3/</link>
+      <pubDate>Sun, 21 Jul 2019 13:31:39 -0400</pubDate>
+      
+      <guid>https://3layers.host/faq/migracion3/</guid>
+      <description>Las migraciónes puede tomar distintos tiempos (de horas a semanas), dependiendo de varios factores el proceso de migración es una colaboración entre usted y el equipo de migración de 3Layers Host. Tenga en cuenta su disponibilidad y recursos al momento de planificar su migración, ya que serán de utilidad para la fase de prueba de la migración e impactarán en el programa completo.</description>
+    </item>
+    
+    <item>
+      <title>¿Desde qué tipo de ambiente se puede realizar la migración?</title>
+      <link>https://3layers.host/faq/migration1/</link>
+      <pubDate>Sun, 21 Jul 2019 13:31:39 -0400</pubDate>
+      
+      <guid>https://3layers.host/faq/migration1/</guid>
+      <description>Asistimos las migraciones de Exchange Server 2003, 2007, 2010 y 2013 (on-premise y alojados), Microsoft Office 365, G-Suite/Gmail, GroupWise 7 y versiones posteriores, Zimbra; Lotus Notes, POP, e IMAP.</description>
+    </item>
+    
+    <item>
+      <title>¿La migración es automática o manual?</title>
+      <link>https://3layers.host/faq/migracion4/</link>
+      <pubDate>Sun, 21 Jul 2019 13:31:39 -0400</pubDate>
+      
+      <guid>https://3layers.host/faq/migracion4/</guid>
+      <description>En general las migraciones son efectuadas de manera automática, pero en muchos casos requieren interacción por parte de nuestro personal tecnico, en especial en configuración y validacion de los datos. Pero siempre usted tendra visividad de el proceso y en que fase se encuentra.</description>
+    </item>
+    
+    <item>
       <title>¿Por qué los precios varían entre “.com” y “.com.do”?</title>
       <link>https://3layers.host/faq/domain-1/</link>
       <pubDate>Sun, 21 Jul 2019 13:31:39 -0400</pubDate>
       
       <guid>https://3layers.host/faq/domain-1/</guid>
-      <description>¿Por qué los precios varían entre .com y .com.do? Los precios de los dominios están regulados por su registrar, en los casos de los dominios como Dominio de nivel superior (TLD por su siglas en inglés) están no están regulados por una autoridad individual de ningún país, en los casos de los Dominio de nivel superior geográfico (ccTLD por sus siglas en inglés) están regulados por una entidad local en cada país al que pertenezca dicho dominio, en los casos de los dominios terminados en “.</description>
+      <description>Los precios de los dominios están regulados por su registrar, en los casos de los dominios como Dominio de nivel superior (TLD por su siglas en inglés) están no están regulados por una autoridad individual de ningún país, en los casos de los Dominio de nivel superior geográfico (ccTLD por sus siglas en inglés) están regulados por una entidad local en cada país al que pertenezca dicho dominio, en los casos de los dominios terminados en “.</description>
+    </item>
+    
+    <item>
+      <title>¿Qué información se necesita para iniciar una migración?</title>
+      <link>https://3layers.host/faq/migracion5/</link>
+      <pubDate>Sun, 21 Jul 2019 13:31:39 -0400</pubDate>
+      
+      <guid>https://3layers.host/faq/migracion5/</guid>
+      <description>Luego de solicitada la migración, nuestro personal técnico requerirá informaciones referente a su servicio actual y su servicio antiguo, con el fin de poder establecer comunicación con las cuentas de correo electrónica a migrar.</description>
+    </item>
+    
+    <item>
+      <title>¿Qué pasa si mis servidores son lentos? ¿Funcionara la migración?</title>
+      <link>https://3layers.host/faq/migracion2/</link>
+      <pubDate>Sun, 21 Jul 2019 13:31:39 -0400</pubDate>
+      
+      <guid>https://3layers.host/faq/migracion2/</guid>
+      <description>Sí. Nuestros personal experimentado han trabajado con clientes desde diferentes ambientes. Si la velocidad de migración no cumple con sus expectativas, también podemos hacerlo a través otros metodos como por ejemplo archivos .pst usando el FTP para buzones Exchange.</description>
     </item>
     
     <item>
@@ -442,55 +528,64 @@ Mayores certificados DV de SSL provistos con el logotipo de Static Site Seal, re
     
     <item>
       <title>Testimonios de Clientes</title>
-      <link>https://3layers.host/panel/panel6/</link>
+      <link>https://3layers.host/panel/porqueelegirnos6/</link>
       <pubDate>Sat, 20 Jul 2019 22:57:30 -0400</pubDate>
       
-      <guid>https://3layers.host/panel/panel6/</guid>
+      <guid>https://3layers.host/panel/porqueelegirnos6/</guid>
       <description>Nuestros clientes son nuestra voz, ellos hablan de nuestro servicio, calidad y soporte técnico siempre disponible para atender sus solicitudes.</description>
     </item>
     
     <item>
       <title>Mejor Soporte</title>
-      <link>https://3layers.host/panel/panel5/</link>
+      <link>https://3layers.host/panel/porqueelegirnos5/</link>
       <pubDate>Sat, 20 Jul 2019 22:56:48 -0400</pubDate>
       
-      <guid>https://3layers.host/panel/panel5/</guid>
+      <guid>https://3layers.host/panel/porqueelegirnos5/</guid>
       <description>Soporte técnico humano vía telefónica, chat o correo electrónico 24x7, 365 días al año, le permite sentirse seguro de que su infraestructura tecnológica esta cuidada por nosotros.</description>
     </item>
     
     <item>
       <title>Estabilidad Increíble</title>
-      <link>https://3layers.host/panel/panel4/</link>
+      <link>https://3layers.host/panel/porqueelegirnos4/</link>
       <pubDate>Sat, 20 Jul 2019 22:56:12 -0400</pubDate>
       
-      <guid>https://3layers.host/panel/panel4/</guid>
+      <guid>https://3layers.host/panel/porqueelegirnos4/</guid>
       <description>Ofrecemos un SLA de 99.99% de disponibilidad, un numero imbatible en el mercado, soportado por nuestra plataforma de monitoreo y nuestro personal de soporte técnico 24x7.</description>
     </item>
     
     <item>
       <title>Velocidad Excepcional</title>
-      <link>https://3layers.host/panel/panel3/</link>
+      <link>https://3layers.host/panel/porqueelegirnos3/</link>
       <pubDate>Sat, 20 Jul 2019 22:55:11 -0400</pubDate>
       
-      <guid>https://3layers.host/panel/panel3/</guid>
+      <guid>https://3layers.host/panel/porqueelegirnos3/</guid>
       <description>Mejor hardware, mejores periféricos, experiencia de servicio, personal capacitado y años de experiencia hacen que nuestra plataforma sea la más rápida del mercado, garantizado.</description>
     </item>
     
     <item>
-      <title>Mejores Centros De Datos</title>
-      <link>https://3layers.host/panel/panel1/</link>
+      <title>Mejor Soporte</title>
+      <link>https://3layers.host/panel/migracion3/</link>
       <pubDate>Sat, 20 Jul 2019 22:54:26 -0400</pubDate>
       
-      <guid>https://3layers.host/panel/panel1/</guid>
+      <guid>https://3layers.host/panel/migracion3/</guid>
+      <description>Soporte técnico humano vía telefónica, chat o correo electrónico 24x7, 365 días al año, le permite sentirse seguro de que su infraestructura tecnológica esta cuidada por nosotros.</description>
+    </item>
+    
+    <item>
+      <title>Mejores Centros De Datos</title>
+      <link>https://3layers.host/panel/porqueelegirnos1/</link>
+      <pubDate>Sat, 20 Jul 2019 22:54:26 -0400</pubDate>
+      
+      <guid>https://3layers.host/panel/porqueelegirnos1/</guid>
       <description>Somos compañeros de los centros de datos más grandes a nivel mundial, logrando de esta forma conseguir el mejor acuerdo para nuestros clientes.</description>
     </item>
     
     <item>
       <title>Hardware de Alta Calidad</title>
-      <link>https://3layers.host/panel/panel2/</link>
+      <link>https://3layers.host/panel/porqueelegirnos2/</link>
       <pubDate>Sat, 20 Jul 2019 22:50:17 -0400</pubDate>
       
-      <guid>https://3layers.host/panel/panel2/</guid>
+      <guid>https://3layers.host/panel/porqueelegirnos2/</guid>
       <description>No escatimamos esfuerzos al negociar el hardware y periféricos de última generación, para ofrecer dispositivos competitivos a nuestros clientes.</description>
     </item>
     

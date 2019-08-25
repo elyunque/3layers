@@ -4,7 +4,7 @@ subtitle: "Sectigo EV SSL Certificate"
 date: 2019-07-30T22:32:41-04:00
 draft: false
 sitemap: true
-thumbnail: "images/ext/sectigo.png"
+thumbnail: images/blog/sectigo.jpg
 author: "3layers"
 ---
 
@@ -16,7 +16,7 @@ El certificado SSL de validación extendida requiere validar la empresa / organi
 
 La tecnología exclusiva de Sectigo, ofrece el logotipo dinámico de Site Seal, así como el logotipo Animated Dynamic Corner of Trust. Use ambos sellos para maximizar la confianza en los servicios y el sitio web. Validar las empresas y negocios a nivel de SSL ofrece más de la mitad del crecimiento exitoso de las ventas y la confianza. Sin confianza no hay ventas, este es el hecho más común del comercio electrónico. Mira cómo se ve el sello Sectigo.
 
-![Sectigo SSL Seal](/images/ext/sectigo_seal.png)
+![Sectigo SSL Seal](/images/blog/sectigo_seal.png)
 
 **Validación Extendida**
 

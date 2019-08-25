@@ -4,7 +4,7 @@ subtitle: "¿Por Qué Una Empresa Necesita Seguridad Informática?"
 date: 2019-08-15T10:33:31-04:00
 draft: false
 sitemap: true
-thumbnail: "images/ext/security.png"
+thumbnail: images/blog/lockeriron.jpg
 author: "3layers"
 ---
 

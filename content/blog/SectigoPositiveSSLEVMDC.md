@@ -4,7 +4,7 @@ subtitle: "Sectigo Positive SSL EV MDC"
 date: 2019-07-30T22:34:20-04:00
 draft: false
 sitemap: true
-thumbnail: "images/ext/sectigo.png"
+thumbnail: images/blog/sectigo.jpg
 author: "3layers"
 ---
 
@@ -18,7 +18,7 @@ Tener un certificado que cubra múltiples dominios también ahorrará dinero y s
 
 Los logotipos de SiteSeal fueron diseñados para mostrar instantáneamente a las personas que el sitio web está seguro y bien protegido. Los certificados SSL multidominio vienen con el logotipo estándar Static Seal, y ese es el único punto menor de comprarlos, ya que todos los certificados SSL EV de dominio único vienen con el logotipo dinámico y la tecnología animada Corner of Trust. Mira cómo se ve el sello Sectigo.
 
-![Sectigo SSL Seal](/images/ext/sectigo_seal.png)
+![Sectigo SSL Seal](/images/blog/sectigo_seal.png)
 
 **Soporte SAN habilitado**
 

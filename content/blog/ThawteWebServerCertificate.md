@@ -4,7 +4,7 @@ subtitle: "Thawte Web Server Certificate"
 date: 2019-07-30T22:02:22-04:00
 draft: false
 sitemap: true
-thumbnail: "images/ext/thawte.png"
+thumbnail: "images/blog/thawte.jpg"
 author: "3layers"
 ---
 
@@ -20,7 +20,7 @@ Es crucial pasar el proceso de validación de negocios en caso de que necesite o
 
 Thawte sugiere cargar el logotipo del sello del sitio generado dinámicamente en los lugares más visibles y significativos del sitio web. Ese sello confirmara el nivel de protección de la página web, tiene una garantía de $1,250,000, aumentará significativamente las ventas y la confianza. Comprueba cómo se ve el sello Thawte.
 
-![Thawte SSL Seal](/images/ext/thawte-seal.png)
+![Thawte SSL Seal](/images/blog/thawte-seal.png)
 
 **Hasta 250 artículos SAN**
 
