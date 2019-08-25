@@ -38,12 +38,20 @@
     <meta property="og:type" content="article" />
     <meta property="og:title" content="{{ .Title }}" />
     <meta property="og:description" content="{{ .Plain | truncate 100 }}" />
-    <meta property="og:image" content="{{ .Params.thumbnail | absURL }}" />
+    {{ if isset .Params "socialimage" }}
+      <meta property="og:image" content="{{ .Params.socialimage | absURL }}" />
+    {{ else }}
+      <meta property="og:image" content="{{ .Params.thumbnail | absURL }}" />
+    {{ end }}
 
     <meta name="twitter:card" content="summary_large_image">
     <meta property="twitter:title" content="{{ .Title }}" />
     <meta property="twitter:description" content="{{ .Plain | truncate 100 }}" />
-    <meta property="twitter:image" content="{{ .Params.thumbnail | absURL }}" />
+    {{ if isset .Params "socialimage" }}
+      <meta property="twitter:image" content="{{ .Params.socialimage | absURL }}" />
+    {{ else }}
+      <meta property="twitter:image" content="{{ .Params.thumbnail | absURL }}" />
+    {{ end }}
 
     <!--  Non-Essential, But Recommended -->
 

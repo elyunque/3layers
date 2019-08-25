@@ -5,6 +5,7 @@ date: 2019-08-15T14:42:10.000Z
 draft: false
 sitemap: true
 thumbnail: images/ext/ssl.png
+socialimage: https://images.pexels.com/photos/544487/pexels-photo-544487.jpeg
 author: 3layers
 ---
 Hoy en día es más común oír hablar a los usuarios de Internet sobre lo que pueden o no hacer en sus equipos móviles, PC, o portátiles. En general, tenemos una generación de usuarios más consciente de la seguridad, y aunque muchas acciones son mitos (obtenidos en su mayoría por rumores en redes sociales o WhatsApp), muchas otras son realidades, y nos ayudaran a estar más seguro en un mundo lleno de [Ciberataques](https://es.wikipedia.org/wiki/Ciberataque) y [Guerras digitales entre grandes potencias](https://www.kaspersky.com/about/policy-blog/general-cybersecurity/how-to-deal-with-militarizing-cyberspace).
