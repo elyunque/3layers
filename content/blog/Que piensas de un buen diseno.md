@@ -29,7 +29,7 @@ Lo importante aquí es que una marca puede tener múltiples dominios, aunque uno
 
 **Vamos a usar plantillas para el diseño web**
 
-Las plantillas prediseñadas son una excelente forma de comenzar una gran idea de diseño, en especial si no contamos con un diseñador experto que nos pueda apoyar, en 3Layer Host poseemos acuerdos con grandes empresas de plantillas que pueden ser usadas de manera inmediata por nuestros clientes para más información póngase en contacto con [equipo de ventas de 3Layers Host]( https://3layers.host/contact/).
+Las plantillas prediseñadas son una excelente forma de comenzar una gran idea de diseño, en especial si no contamos con un diseñador experto que nos pueda apoyar, en 3Layer Host poseemos acuerdos con grandes empresas de plantillas que pueden ser usadas de manera inmediata por nuestros clientes para más información póngase en contacto con [equipo de ventas de 3Layers Host](https://3layers.host/contact/).
 
 Pero nuestra recomendación siempre es contratar un servicio profesional de diseño (póngase en contacto con él [equipo de ventas de 3Layers Host]( https://3layers.host/contact/) para obtener ayuda y sugerencias directas), que no solo incluya un diseño, si no, un levantamiento profesional desde el inicio de cómo debe lucir y disfrutarse la marca, ya que como hemos comenzado a ver el diseño de su marca digital no es solo un portal web, es todo un grupo de elementos atrayentes de consumidores.
 
