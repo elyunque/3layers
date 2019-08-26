@@ -38,6 +38,12 @@ weight = 10
       url = "/hosting/hosting3/"
       parent = "hosting"
       weight = 33
+  [[menu.main]]
+      identifier = "hosting4"
+      title = "Correo Electrónico"
+      url = "/hosting/hosting4/"
+      parent = "hosting"
+      weight = 34
 [[menu.main]]
   identifier = "ssl"
   title = "SSL"
@@ -68,15 +74,15 @@ weight = 10
       parent = "ssl"
       weight = 44      
 [[menu.main]]
-  identifier = "blog"
-  title = "Blog"
-  url = "/blog/"
-  weight = 50
-[[menu.main]]
   identifier = "migration"
   title = "Migraciones"
   url = "/migration/"
-  weight = 51
+  weight = 50
+[[menu.main]]
+  identifier = "blog"
+  title = "Blog"
+  url = "/blog/"
+  weight = 52
 [[menu.main]]
   identifier = "contact"
   title = "Contacto"
