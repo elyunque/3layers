@@ -17,7 +17,7 @@ placeholdersubject: "Introduzca su Asunto"
 placeholdermessage: "Díganos Hola"
 address: "Santo Domingo, República Dominicana."
 phone: "+1 829 787 0797"
-email: "3layers.host@gmail.com"
+email: "info@3layers.host"
 form: "https://formspree.io/3layers.host@gmail.com"
 sitemap: true
 ---
