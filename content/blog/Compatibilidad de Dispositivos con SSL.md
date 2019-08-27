@@ -1,11 +1,11 @@
 ---
-title: "Compatibilidad De Dispositivos Con SSL"
-subtitle: "Dispositivos compatibles con SSL"
-date: 2019-08-17T15:22:01-04:00
+title: Compatibilidad De Dispositivos Con SSL
+subtitle: Dispositivos compatibles con SSL
+date: 2019-08-17T19:22:01.000Z
 draft: false
 sitemap: true
 thumbnail: images/blog/internetbrowser.png
-author: "3layers"
+author: 3layers
 ---
 
 La compatibilidad del dispositivo es una de las características más importantes de cualquier certificado SSL. Cuando el dispositivo no admite el certificado SSL, los clientes finales recibirán un error y la protección de datos no será posible, es por eso que vendemos certificados SSL de las principales Autoridades de Certificación (CA) para tener la mejor calidad. Aquí hay una lista de los dispositivos más comunes compatibles.
@@ -35,7 +35,7 @@ La compatibilidad del dispositivo es una de las características más importante
  - Opera 5+
  - Red Hat Linux Konqueror
  - Safari (Mac OS) 10+ and higher
- - Sony Playstation
+ - Sony Playstation 
 
 **Micro Browsers/PDAs**
 
