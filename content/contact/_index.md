@@ -21,4 +21,4 @@ email: "info@3layers.host"
 form: "https://formspree.io/3layers.host@gmail.com"
 sitemap: true
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ad iure porro mollitia architecto hic consequuntur. Distinctio nisi perferendis dolore, ipsa consectetur
+Estamos disponibles por: WhatsApp, correo electrónico, chat en línea ubicado en la parte inferior derecha de este navegador de Internet, nuestras redes sociales en el pie de página, y nuestro número directo, no dude en contactarnos estamos para servirle las 24 horas del día.
