@@ -7,7 +7,7 @@ Disallow:
 {{ end}}
 User-agent: *
 {{range .Pages}}
-Disallow: {{.RelPermalink}}
+    Disallow: {{.RelPermalink}}
 {{end}}
 Disallow: /
 Disallow: /cgi-bin/

@@ -52,163 +52,175 @@ Disallow:
 
 User-agent: *
 
-Disallow: /migration/
+    Disallow: /suites/microsoft-office-365/
 
-Disallow: /blog/compatibilidad-de-dispositivos-con-ssl/
+    Disallow: /suites/
 
-Disallow: /blog/que-es-un-certificado-ssl-y-para-que-sirve/
+    Disallow: /suites/google-g-suite/
 
-Disallow: /blog/por-que-una-empresa-necesita-seguridad-informatica/
+    Disallow: /blog/uso-de-equipos-personales-en-el-trabajo/
 
-Disallow: /blog/robo-de-identidad/
+    Disallow: /blog/que-piensas-de-un-buen-diseno/
 
-Disallow: /blog/sectigoinstantsslpremiumwildcard/
+    Disallow: /migration/
 
-Disallow: /blog/sectigopositivesslwildcard/
+    Disallow: /blog/compatibilidad-de-dispositivos-con-ssl/
 
-Disallow: /blog/sectigopositivesslevmdc/
+    Disallow: /blog/que-es-un-certificado-ssl-y-para-que-sirve/
 
-Disallow: /blog/sectigoevmultidomainssl/
+    Disallow: /blog/por-que-una-empresa-necesita-seguridad-informatica/
 
-Disallow: /blog/sectigopositivesslev/
+    Disallow: /blog/robo-de-identidad/
 
-Disallow: /blog/sectigoevsslcertificate/
+    Disallow: /blog/sectigoinstantsslpremiumwildcard/
 
-Disallow: /blog/symantecsecuresiteproev/
+    Disallow: /blog/sectigopositivesslwildcard/
 
-Disallow: /blog/symantecsecuresiteev/
+    Disallow: /blog/sectigopositivesslevmdc/
 
-Disallow: /blog/geotrusttruebusinessidsanev/
+    Disallow: /blog/sectigoevmultidomainssl/
 
-Disallow: /blog/geotrusttruebusinessidwithev/
+    Disallow: /blog/sectigopositivesslev/
 
-Disallow: /blog/thawtewildcardsslcertificate/
+    Disallow: /blog/sectigoevsslcertificate/
 
-Disallow: /blog/thawtewebservercertificate/
+    Disallow: /blog/symantecsecuresiteproev/
 
-Disallow: /blog/symantecsecuresiteprowildcard/
+    Disallow: /blog/symantecsecuresiteev/
 
-Disallow: /blog/symantecsecuresitewildcard/
+    Disallow: /blog/geotrusttruebusinessidsanev/
 
-Disallow: /blog/symantecsecuresitepro/
+    Disallow: /blog/geotrusttruebusinessidwithev/
 
-Disallow: /blog/symantecsecuresite/
+    Disallow: /blog/thawtewildcardsslcertificate/
 
-Disallow: /blog/geotrusttruebusinessidsan/
+    Disallow: /blog/thawtewebservercertificate/
 
-Disallow: /blog/sectigoessentialsslwildcard/
+    Disallow: /blog/symantecsecuresiteprowildcard/
 
-Disallow: /blog/sectigopositivesslmultidomain/
+    Disallow: /blog/symantecsecuresitewildcard/
 
-Disallow: /blog/sectigopositivesslmultiwildcard/
+    Disallow: /blog/symantecsecuresitepro/
 
-Disallow: /blog/sectigopositivessl/
+    Disallow: /blog/symantecsecuresite/
 
-Disallow: /blog/rapidsslwildcard/
+    Disallow: /blog/geotrusttruebusinessidsan/
 
-Disallow: /blog/geotrustquicksslpremiumsan/
+    Disallow: /blog/sectigoessentialsslwildcard/
 
-Disallow: /blog/geotrustquicksslpremiumwildcard/
+    Disallow: /blog/sectigopositivesslmultidomain/
 
-Disallow: /blog/geotrusttruebusinessidwildcard/
+    Disallow: /blog/sectigopositivesslmultiwildcard/
 
-Disallow: /blog/geotrusttruebusinessid/
+    Disallow: /blog/sectigopositivessl/
 
-Disallow: /faq/
+    Disallow: /blog/rapidsslwildcard/
 
-Disallow: /faq/hosting2/
+    Disallow: /blog/geotrustquicksslpremiumsan/
 
-Disallow: /faq/hosting1/
+    Disallow: /blog/geotrustquicksslpremiumwildcard/
 
-Disallow: /blog/geotrustquicksslpremium/
+    Disallow: /blog/geotrusttruebusinessidwildcard/
 
-Disallow: /blog/rapidsslstandard/
+    Disallow: /blog/geotrusttruebusinessid/
 
-Disallow: /ssl/ssl4/
+    Disallow: /faq/
 
-Disallow: /ssl/
+    Disallow: /faq/hosting2/
 
-Disallow: /ssl/ssl3/
+    Disallow: /faq/hosting1/
 
-Disallow: /ssl/ssl2/
+    Disallow: /blog/geotrustquicksslpremium/
 
-Disallow: /ssl/ssl1/
+    Disallow: /blog/rapidsslstandard/
 
-Disallow: /panel/migracion1/
+    Disallow: /ssl/ssl4/
 
-Disallow: /panel/
+    Disallow: /ssl/
 
-Disallow: /panel/migracion2/
+    Disallow: /ssl/ssl3/
 
-Disallow: /blog/
+    Disallow: /ssl/ssl2/
 
-Disallow: /faq/migracion3/
+    Disallow: /ssl/ssl1/
 
-Disallow: /faq/migration1/
+    Disallow: /panel/migracion1/
 
-Disallow: /faq/migracion4/
+    Disallow: /panel/
 
-Disallow: /faq/domain-1/
+    Disallow: /panel/migracion2/
 
-Disallow: /faq/migracion5/
+    Disallow: /blog/
 
-Disallow: /faq/migracion2/
+    Disallow: /faq/migracion3/
 
-Disallow: /faq/domain2/
+    Disallow: /faq/migration1/
 
-Disallow: /faq/domain3/
+    Disallow: /faq/migracion4/
 
-Disallow: /hero/hero2/
+    Disallow: /faq/domain-1/
 
-Disallow: /hero/
+    Disallow: /faq/migracion5/
 
-Disallow: /hero/hero1/
+    Disallow: /faq/migracion2/
 
-Disallow: /testimonial/testimonial4/
+    Disallow: /faq/domain2/
 
-Disallow: /testimonial/
+    Disallow: /faq/domain3/
 
-Disallow: /testimonial/testimonial3/
+    Disallow: /hero/hero2/
 
-Disallow: /testimonial/testimonial2/
+    Disallow: /hero/
 
-Disallow: /testimonial/testimonial1/
+    Disallow: /hero/hero1/
 
-Disallow: /panel/porqueelegirnos6/
+    Disallow: /testimonial/testimonial4/
 
-Disallow: /panel/porqueelegirnos5/
+    Disallow: /testimonial/
 
-Disallow: /panel/porqueelegirnos4/
+    Disallow: /testimonial/testimonial3/
 
-Disallow: /panel/porqueelegirnos3/
+    Disallow: /testimonial/testimonial2/
 
-Disallow: /panel/migracion3/
+    Disallow: /testimonial/testimonial1/
 
-Disallow: /panel/porqueelegirnos1/
+    Disallow: /panel/porqueelegirnos6/
 
-Disallow: /panel/porqueelegirnos2/
+    Disallow: /panel/porqueelegirnos5/
 
-Disallow: /promotion/
+    Disallow: /panel/porqueelegirnos4/
 
-Disallow: /
+    Disallow: /panel/porqueelegirnos3/
 
-Disallow: /hosting/hosting3/
+    Disallow: /panel/migracion3/
 
-Disallow: /hosting/
+    Disallow: /panel/porqueelegirnos1/
 
-Disallow: /hosting/hosting2/
+    Disallow: /panel/porqueelegirnos2/
 
-Disallow: /hosting/hosting1/
+    Disallow: /promotion/
 
-Disallow: /domain/
+    Disallow: /
 
-Disallow: /contact/
+    Disallow: /hosting/hosting3/
 
-Disallow: /thanksyou/
+    Disallow: /hosting/hosting4/
 
-Disallow: /categories/
+    Disallow: /hosting/
 
-Disallow: /tags/
+    Disallow: /hosting/hosting2/
+
+    Disallow: /hosting/hosting1/
+
+    Disallow: /domain/
+
+    Disallow: /contact/
+
+    Disallow: /thanksyou/
+
+    Disallow: /categories/
+
+    Disallow: /tags/
 
 Disallow: /
 Disallow: /cgi-bin/
