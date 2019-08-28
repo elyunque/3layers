@@ -74,11 +74,6 @@ weight = 100
       parent = "ssl"
       weight = 440     
 [[menu.main]]
-  identifier = "migration"
-  title = "Migraciones"
-  url = "/migration/"
-  weight = 500
-[[menu.main]]
   identifier = "suites"
   title = "Suites"
   url = "/suites/"
@@ -96,12 +91,29 @@ weight = 100
       parent = "suites"
       weight = 512
 [[menu.main]]
+  identifier = "services"
+  title = "Servicios"
+  url = "/migration/"
+  weight = 600
+  [[menu.main]]
+    identifier = "migration"
+    title = "Migraciones"
+    url = "/services/migraciones"
+    parent = "services"
+    weight = 601
+  [[menu.main]]
+    identifier = "support"
+    title = "Soporte Técnico"
+    url = "/services/soporte-tecnico/"
+    parent = "services"
+    weight = 602
+[[menu.main]]
   identifier = "blog"
   title = "Blog"
   url = "/blog/"
-  weight = 520
+  weight = 700
 [[menu.main]]
   identifier = "contact"
   title = "Contacto"
   url = "/contact/"
-  weight = 600
+  weight = 800
