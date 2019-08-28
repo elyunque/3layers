@@ -11,109 +11,110 @@ blogurl = "/blog/"
 weight = 100
 
 [[menu.main]]
-  identifier = "domain"
-  title = "Dominio"
-  url = "/domain/"
-  weight = 200
-[[menu.main]]
   identifier = "hosting"
   title = "Alojamiento"
   url = "/hosting/"
-  weight = 300
+  weight = 200
   [[menu.main]]
       identifier = "hosting1"
       title = "Alojamiento Compartido"
       url = "/hosting/hosting1/"
       parent = "hosting"
-      weight = 310
+      weight = 210
   [[menu.main]]
       identifier = "hosting2"
       title = "Alojamiento VPS"
       url = "/hosting/hosting2/"
       parent = "hosting"
-      weight = 320
+      weight = 220
   [[menu.main]]
       identifier = "hosting3"
       title = "Alojamiento Dedicado"
       url = "/hosting/hosting3/"
       parent = "hosting"
-      weight = 330
+      weight = 230
   [[menu.main]]
       identifier = "hosting4"
       title = "Correo Electrónico"
       url = "/hosting/hosting4/"
       parent = "hosting"
-      weight = 340
+      weight = 240
 [[menu.main]]
   identifier = "ssl"
   title = "SSL"
   url = "/ssl/"
-  weight = 400
+  weight = 300
   [[menu.main]]
       identifier = "ssl1"
       title = "SSL Dominio (DV)"
       url = "/ssl/ssl1/"
       parent = "ssl"
-      weight = 410
+      weight = 310
   [[menu.main]]
       identifier = "ssl2"
       title = "Validación Negocio (OV)"
       url = "/ssl/ssl2/"
       parent = "ssl"
-      weight = 420
+      weight = 320
   [[menu.main]]
       identifier = "ssl3"
       title = "Validación Extendida (EV)"
       url = "/ssl/ssl3/"
       parent = "ssl"
-      weight = 430
+      weight = 330
   [[menu.main]]
       identifier = "ssl4"
       title = "Wildcard SSL "
       url = "/ssl/ssl4/"
       parent = "ssl"
-      weight = 440     
+      weight = 340     
 [[menu.main]]
   identifier = "suites"
   title = "Suites"
   url = "/suites/"
-  weight = 510
+  weight = 400
   [[menu.main]]
       identifier = "office"
       title = "Microsoft Office 365"
       url = "/suites/microsoft-office-365/"
       parent = "suites"
-      weight = 511
+      weight = 410
   [[menu.main]]
       identifier = "gsuite"
       title = "Google G-Suite"
       url = "/suites/google-g-suite/"
       parent = "suites"
-      weight = 512
+      weight = 420
 [[menu.main]]
   identifier = "services"
   title = "Servicios"
   url = "/migration/"
-  weight = 600
+  weight = 500
+  [[menu.main]]
+    identifier = "domain"
+    title = "Dominios de Internet"
+    url = "/domain/"
+    parent = "services"
+    weight = 510
   [[menu.main]]
     identifier = "migration"
     title = "Migraciones"
     url = "/services/migraciones"
     parent = "services"
-    weight = 601
+    weight = 520
   [[menu.main]]
     identifier = "support"
     title = "Soporte Técnico"
     url = "/services/soporte-tecnico/"
     parent = "services"
-    weight = 602
+    weight = 530
 [[menu.main]]
   identifier = "blog"
   title = "Blog"
   url = "/blog/"
-  weight = 700
+  weight = 600
 [[menu.main]]
   identifier = "contact"
   title = "Contacto"
   url = "/contact/"
-  weight = 800
+  weight = 700
