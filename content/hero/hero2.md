@@ -3,7 +3,7 @@ title: "Ateción al Usuario"
 date: 2019-07-21T00:10:12-04:00
 draft: false
 thumbnail: "images/hero_bg_2.jpg"
-pageurl: "/contact/"
-button: "Mantente En Contacto"
+pageurl: "/services/soporte-tecnico/"
+button: "Conozca Más"
 ---
 Soporte 24 horas x 7 días a la semana x 365 días al año
