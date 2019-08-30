@@ -11,3 +11,5 @@ User-agent: *
 {{end}}
 Disallow: /
 Disallow: /cgi-bin/
+
+Sitemap: https://3layers.host/sitemap.xml
