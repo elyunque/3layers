@@ -25,4 +25,4 @@ tablecontent3="Dominio gratis de por vida<br>Soporte humano 24/7<br>Instalación
 
 
  >}}
- {{< faq textfaq="¿Alojamiento Compartido? Preguntas Frecuentes" typefaq="hosting" >}}
+ {{< faq textfaq="Preguntas Frecuentes Alojamiento Compartido" typefaq="hosting" >}}

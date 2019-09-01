@@ -6,4 +6,4 @@ draft: false
 sitemap: false
 ---
 
-Todas las nuevas adquisiciones de alojamientos Web y correo electrónicos incluyen una migración incluida. Solo debe solicitarla al correo electrónico de soporte técnico. Recuerde que para completar este proceso debe tener a mano un respaldo anterior de su portal o las credenciales de su alojamiento anterior para poder realizar la migración.
+Todas las nuevas adquisiciones de alojamientos Web y correo electrónicos incluyen una migración. Solo debe solicitarla al correo electrónico de soporte técnico. Recuerde que para completar este proceso debe tener a mano un respaldo anterior de su portal o las credenciales de su alojamiento anterior para poder realizar la migración.
