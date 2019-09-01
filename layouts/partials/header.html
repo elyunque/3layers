@@ -24,7 +24,13 @@
                     <a href="tel:{{ .Params.phone }}">
                       <div class="d-flex align-items-center block-unit">
                         <div class="icon mr-0 mr-md-4">
-                          <span class="fl-bigmug-line-headphones32 h3"></span>
+                          <span class="h3">
+                              <picture>
+                                  <source srcset="{{ substr .Params.phoneicon 0 -4 | absURL }}.webp" type="image/webp">
+                                  <source srcset="{{ .Params.phoneicon | absURL }}" type="image/jpeg"> 
+                                  <img src="{{ .Params.phoneicon | absURL }}" alt="Phone Icon" width="35px">
+                              </picture>                              
+                          </span>
                         </div>
                         <div class="d-none d-lg-block">
                           <span class="d-block text-gray-500 text-uppercase">{{ .Params.textphone }}</span>
@@ -39,7 +45,13 @@
                     <a href="mailto:{{ .Params.email }}">
                       <div class="d-flex align-items-center block-unit">
                         <div class="icon mr-0 mr-md-4">
-                          <span class="fl-bigmug-line-email64 h5"></span>
+                          <span class="h5">
+                              <picture>
+                                  <source srcset="{{ substr .Params.emailicon 0 -4 | absURL }}.webp" type="image/webp">
+                                  <source srcset="{{ .Params.emailicon | absURL }}" type="image/jpeg"> 
+                                  <img src="{{ .Params.emailicon | absURL }}" alt="Email Icon" width="35px">
+                              </picture>                              
+                          </span>
                         </div>
                         <div class="d-none d-lg-block">
                           <span class="d-block text-gray-500 text-uppercase">{{ .Params.textemail }}</span>
@@ -53,7 +65,13 @@
                     <a target="_blank" href="https://wa.me/18297870797?text=Estoy%20visitando%203layers.host%20y%20tengo%20preguntas">
                       <div class="d-flex align-items-center block-unit">
                         <div class="icon mr-0 mr-md-4">
-                          <span class="fl-bigmug-line-chat55 h2"></span>
+                          <span class="h2">
+                              <picture>
+                                  <source srcset="{{ substr .Params.chaticon 0 -4 | absURL }}.webp" type="image/webp">
+                                  <source srcset="{{ .Params.chaticon | absURL }}" type="image/jpeg"> 
+                                  <img src="{{ .Params.chaticon | absURL }}" alt="Chat Icon" width="35px">
+                              </picture>                              
+                          </span>
                         </div>
                         <div class="d-none d-lg-block">
                           <span class="d-block text-gray-500 text-uppercase">WhatsApp</span>
