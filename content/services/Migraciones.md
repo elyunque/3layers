@@ -22,3 +22,5 @@ Usted puede estar cambiando de proveedor de correo electrónico por muchas razon
 Por esta razón, 3Layers Host ofrece el servicio de migración de los datos desde su proveedor anterior al nuevo, de una forma que sea efectiva para su empresa y usuarios. Nadie desea procesos largos y que afecten la productividad mientras se migran los datos y mucho menos perder alguna información de sus correos electrónicos, contactos o calendario.
 
 Póngase en contacto ahora mismo con el [equipo de ventas de 3Layers Host](https://3layers.host/contact/) para obtener ayuda y sugerencias directas a las mejores consultorías de migración personalizadas dependiendo de su necesidad y presupuesto.
+
+ {{< panel typepanel="¿Por Qué Migrar Con Nosotros?" >}}

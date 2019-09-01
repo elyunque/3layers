@@ -2,7 +2,7 @@
 title: "Mejor Soporte"
 date: 2019-07-20T22:54:26-04:00
 draft: false
-icon: "fl-bigmug-line-headphones32"
+icon: "images/panel/headphone.png"
 fade: 10
 panel: "¿Por Qué Migrar Con Nosotros?"
 ---

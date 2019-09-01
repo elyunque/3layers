@@ -4,7 +4,7 @@ subtitle: "Alojamiento VPS"
 date: 2019-07-20T21:35:18-04:00
 draft: false
 thumbnail: "images/hero_bg_1.jpg"
-icon: "fl-bigmug-line-airplane86"
+icon: "/images/vps.png"
 description: "Planes desde $6.99/mes"
 button: "Ver Detalles"
 pageurl: "/hosting/hosting2/"

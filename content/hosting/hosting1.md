@@ -4,7 +4,7 @@ subtitle: "Alojamiento Compartido"
 date: 2019-07-20T21:27:57-04:00
 draft: false
 thumbnail: "images/hero_bg_1.jpg"
-icon: "fl-bigmug-line-paper122"
+icon: "/images/shared.png"
 description: "Planes desde $3.99/mes"
 button: "Ver Detalles"
 pageurl: "/hosting/hosting1/"
@@ -25,4 +25,4 @@ tablecontent3="Dominio gratis de por vida<br>Soporte humano 24/7<br>Instalación
 
 
  >}}
- {{< faq textfaq="Preguntas Frecuentes Alojamiento Compartido" typefaq="hosting" >}}
+ {{< faq typefaq="Preguntas Frecuentes Alojamiento Compartido" >}}

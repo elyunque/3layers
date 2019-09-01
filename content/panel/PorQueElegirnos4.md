@@ -2,7 +2,7 @@
 title: "Estabilidad Increíble"
 date: 2019-07-20T22:56:12-04:00
 draft: false
-icon: "fl-bigmug-line-hot67"
+icon: "images/panel/hot.png"
 fade: 40
 panel: "¿Por Qué Elegirnos?"
 ---

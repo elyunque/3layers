@@ -1,5 +1,5 @@
 ---
-faq: "hosting"
+faq: "Preguntas Frecuentes Alojamiento Compartido"
 title: "¿Alguien puede ver mi información en la modalidad compartida?"
 date: 2019-07-26T21:12:56-04:00
 draft: false

@@ -2,7 +2,7 @@
 title: "Mejores Centros De Datos"
 date: 2019-07-20T22:54:26-04:00
 draft: false
-icon: "fl-bigmug-line-cube29"
+icon: "images/panel/cube.png"
 fade: 10
 panel: "¿Por Qué Elegirnos?"
 ---

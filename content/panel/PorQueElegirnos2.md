@@ -2,7 +2,7 @@
 title: "Hardware de Alta Calidad"
 date: 2019-07-20T22:50:17-04:00
 draft: false
-icon: "fl-bigmug-line-equalization3"
+icon: "images/panel/equalization.png"
 fade: 20
 panel: "¿Por Qué Elegirnos?"
 ---

@@ -1,13 +1,13 @@
-<div class="site-section">  
+<div class="site-section">
   <div class="container">
     <div class="row justify-content-center text-center mb-5">
       <div class="col-md-6" data-aos="fade" >
-        <h2>{{ .Params.panel }}</h2>
+        {{ $typepanel := default "faq" (.Get "typepanel") }}
+        <h2>{{ .Params.typepanel }}</h2>
       </div>
     </div>
     <div class="row hosting">
-      {{ $typepanel := default .Params.panel }}
-      {{ range sort (where .Site.Pages "Section" "panel") ".Params.fade" }}
+        {{ range sort (where .Site.Pages "Section" "panel") ".Params.fade" }}
         {{ if isset .Params "title" }}
           {{ if eq .Params.panel $typepanel }}
               
@@ -24,7 +24,7 @@
                           <source srcset="{{ substr .Params.icon 0 -4 | absURL }}.webp" type="image/webp">
                           <source srcset="{{ .Params.icon | absURL }}" type="image/jpeg"> 
                           <img src="{{ .Params.icon | absURL }}" alt="{{ .Params.name }}" width="35px">
-                        </picture>                         
+                        </picture>                           
                     </span>
                   </div>
                   <h2 class="h5">{{ .Title }}</h2>

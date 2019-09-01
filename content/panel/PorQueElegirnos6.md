@@ -2,7 +2,7 @@
 title: "Testimonios de Clientes"
 date: 2019-07-20T22:57:30-04:00
 draft: false
-icon: "fl-bigmug-line-user143"
+icon: "images/panel/user.png"
 fade: 60
 panel: "¿Por Qué Elegirnos?"
 ---

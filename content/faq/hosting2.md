@@ -1,5 +1,5 @@
 ---
-faq: "hosting"
+faq: "Preguntas Frecuentes Alojamiento Compartido"
 title: "¿Ustedes migran mi alojamiento anterior a su plataforma?"
 date: 2019-07-27T00:18:59-04:00
 draft: false

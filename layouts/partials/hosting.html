@@ -12,7 +12,13 @@
                     
                     <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="{{ .Params.fade }}">
                         <div class="unit-2 text-center border py-5 h-100 bg-white">
-                        <span class="icon fl-bigmug-line-paper122 text-primary"></span>
+                        <span class="icon text-primary">
+                            <picture>
+                                <source srcset="{{ substr .Params.icon 0 -4 | absURL }}.webp" type="image/webp">
+                                <source srcset="{{ .Params.icon | absURL }}" type="image/jpeg"> 
+                                <img src="{{ .Params.icon | absURL }}" alt="Alojamiento Icon" width="65px">
+                            </picture>                            
+                        </span>
                         <h3 class="h4 text-black">{{ .Title }}</h3>
                         <p class="mb-4 text-gray-500">{{ .Params.description }}</p>
                         <p><a href="{{ .Params.pageurl }}" class="btn btn-primary py-2 px-4 rounded-0">{{ .Params.button }}</a></p>
