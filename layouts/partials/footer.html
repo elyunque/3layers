@@ -19,7 +19,7 @@
                         <ul class="list-unstyled">
                                 {{ range sort (where .Site.Pages "Section" "hosting") ".Params.fade" }}
                                     {{ if isset .Params "title" }}
-                                        <li><a href="{{ .Params.pageurl }}">{{ .Title }}</a></li>
+                                        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
                                     {{ end }}
                                 {{ end }}
                         </ul>
@@ -55,7 +55,7 @@
                         <ul class="list-unstyled">
                                 {{ range where .Site.Pages "Section" "ssl" }}
                                     {{ if isset .Params "title" }}
-                                        <li><a href="{{ .Params.pageurl }}">{{ .Title }}</a></li>
+                                        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
                                     {{ end }}
                                 {{ end }}
                         </ul>
@@ -63,7 +63,7 @@
                         <ul class="list-unstyled">
                                 {{ range sort (where .Site.Pages "Section" "suites") ".Params.fade" }}
                                     {{ if isset .Params "title" }}
-                                        <li><a href="{{ .Params.pageurl }}">{{ .Title }}</a></li>
+                                        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
                                     {{ end }}
                                 {{ end }}
                         </ul>
@@ -71,7 +71,7 @@
                         <ul class="list-unstyled">
                                 {{ range where .Site.Pages "Section" "services" }}
                                     {{ if isset .Params "title" }}
-                                        <li><a href="{{ .Params.pageurl }}">{{ .Title }}</a></li>
+                                        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
                                     {{ end }}
                                 {{ end }}
                         </ul>
