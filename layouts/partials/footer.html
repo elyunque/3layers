@@ -3,82 +3,96 @@
         
 
         <div class="row">
-        <div class="col-lg-7">
-            <div class="row">
+            <div class="col-lg-6">
+                <div class="row">
                     <div class="col-6 col-md-6 col-lg-6 mb-6 mb-lg-0">
-                            <h3 class="footer-heading mb-4">Alojamientos</h3>
-                            <ul class="list-unstyled">
-                                    {{ range sort (where .Site.Pages "Section" "hosting") ".Params.fade" }}
-                                        {{ if isset .Params "title" }}
-                                            <li><a href="{{ .Params.pageurl }}">{{ .Title }}</a></li>
-                                        {{ end }}
+                        <h3 class="footer-heading mb-4">Menu Rápido</h3>
+                        <ul class="list-unstyled">
+                            <li><a href="/">Inicio</a></li>
+                            <li><a href="/domain/">Dominios</a></li>
+                            <li><a href="/ssl/ssl1">SSL</a></li>
+                            <li><a href="/hosting/hosting1">Alojamiento</a></li>
+                            <li><a href="/blog/">Blog</a></li>
+                            <li><a href="/contact/">Contacto</a></li>
+                        </ul>
+                        <h3 class="footer-heading mb-4">Alojamientos</h3>
+                        <ul class="list-unstyled">
+                                {{ range sort (where .Site.Pages "Section" "hosting") ".Params.fade" }}
+                                    {{ if isset .Params "title" }}
+                                        <li><a href="{{ .Params.pageurl }}">{{ .Title }}</a></li>
                                     {{ end }}
-                            </ul>
-                            <h3 class="footer-heading mb-4">SSL</h3>
-                            <ul class="list-unstyled">
-                                    {{ range where .Site.Pages "Section" "ssl" }}
-                                        {{ if isset .Params "title" }}
-                                            <li><a href="{{ .Params.pageurl }}">{{ .Title }}</a></li>
-                                        {{ end }}
-                                    {{ end }}
-                            </ul>
-                        </div>            
-            <div class="col-6 col-md-6 col-lg-6 mb-6 mb-lg-0">
-                <h3 class="footer-heading mb-4">Menu Rápido</h3>
-                <ul class="list-unstyled">
-                <li><a href="/">Inicio</a></li>
-                <li><a href="/domain/">Dominios</a></li>
-                <li><a href="/ssl/ssl1">SSL</a></li>
-                <li><a href="/hosting/hosting1">Alojamiento</a></li>
-                <li><a href="/blog/">Blog</a></li>                
-                </ul>
-            </div>
-            </div>
-        </div>
-        <div class="col-lg-5">
-            <div class="row mb-5">
-            {{ range first 1 (where .Site.Pages "Section" "contact") }}
-                {{ if isset .Params "title" }}       
-                    <div class="col-md-12"><h3 class="footer-heading mb-4">República Dominicana</h3></div>
-                    <div class="col-md-6">
-                        <p>{{ .Params.address }}</p>    
-                    </div>
-                    <div class="col-md-6">
-                        T: {{ .Params.phone }} <br>
-                        M: {{ .Params.email }}
-                    </div>                    
-                {{ end }}
-            {{ end }}
-            </div>
-            <div class="row mb-5">
-                        <div class="col-md-12">
-                            <h3 class="footer-heading mb-4">
-                            Redes Sociales
-                            </h3>
-                        </div>
-                        <div class="col-md-1">
-                            <a href="https://www.facebook.com/3Layers-Host-112222980124952">
-                                <img src="/images/facebook.png" target="_blank" alt="Facebook Icon" width="25px">
-                            </a>
-                        </div>
-                        <div class="col-md-1">
+                                {{ end }}
+                        </ul>
+                        <h3 class="footer-heading mb-4">
+                        Redes Sociales
+                        </h3>
+                        <div class="row">                           
+                            <div class="col-2">
+                                <a href="https://www.facebook.com/3Layers-Host-112222980124952">
+                                    <img src="/images/facebook.png" target="_blank" alt="Facebook Icon" width="25px">
+                                </a>
+                            </div>
+                            <div class="col-2">
                             <a href="https://www.instagram.com/3layers.host/">
                                 <img src="/images/instagram.png" target="_blank" alt="Instagram Icon" width="25px">
                             </a>
-                        </div>
-                        <div class="col-md-1">
+                            </div>
+                            <div class="col-2">
                             <a href="https://www.linkedin.com/company/40848949">
                                 <img src="/images/linkedin.png" target="_blank" alt="Linkedin Icon" width="25px">
                             </a>
-                        </div>     
-                        <div class="col-md-1">
+                            </div>
+                            <div class="col-2">
                             <a href="https://twitter.com/3layershost">
                                 <img src="/images/twitter.png" target="_blank" alt="Twitter Icon" width="25px">
                             </a>
-                        </div>                    
+                            </div>
+                        </div>
+                        <br />
+                    </div>
+                    <div class="col-6 col-md-6 col-lg-6 mb-6 mb-lg-0">
+                        <h3 class="footer-heading mb-4">SSL</h3>
+                        <ul class="list-unstyled">
+                                {{ range where .Site.Pages "Section" "ssl" }}
+                                    {{ if isset .Params "title" }}
+                                        <li><a href="{{ .Params.pageurl }}">{{ .Title }}</a></li>
+                                    {{ end }}
+                                {{ end }}
+                        </ul>
+                        <h3 class="footer-heading mb-4">Suites</h3>
+                        <ul class="list-unstyled">
+                                {{ range sort (where .Site.Pages "Section" "suites") ".Params.fade" }}
+                                    {{ if isset .Params "title" }}
+                                        <li><a href="{{ .Params.pageurl }}">{{ .Title }}</a></li>
+                                    {{ end }}
+                                {{ end }}
+                        </ul>
+                        <h3 class="footer-heading mb-4">SSL</h3>
+                        <ul class="list-unstyled">
+                                {{ range where .Site.Pages "Section" "services" }}
+                                    {{ if isset .Params "title" }}
+                                        <li><a href="{{ .Params.pageurl }}">{{ .Title }}</a></li>
+                                    {{ end }}
+                                {{ end }}
+                        </ul>
+                    </div>
+                </div>
             </div>
+            
+            <div class="col-lg-5">
+                <h3 class="footer-heading mb-4">República Dominicana</h3>
+                {{ range first 1 (where .Site.Pages "Section" "contact") }}
+                {{ if isset .Params "title" }}       
+                    <p>{{ .Params.address }}</p>
+                    <div class="mapouter"><div class="gmap_canvas"><iframe width="425" height="262" id="gmap_canvas" src="https://maps.google.com/maps?q=3Layers%20Host%2C%20Calle%20Olof%20Palme%2018%2C%20Santo%20Domingo%2010133&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.embedgooglemap.org">embed google map in html without api key</a></div><style>.mapouter{position:relative;text-align:right;height:262px;width:425px;}.gmap_canvas {overflow:hidden;background:none!important;height:262px;width:425px;}</style></div>
+                    <br />   
+                    <strong>Teléfono:</strong> {{ .Params.phone }} 
+                    <br />
+                    <strong>Correo Electrónico:</strong> {{ .Params.email }}
+                {{ end }}
+                {{ end }}            
+            </div>       
         
-        </div>
         </div>
         <div class="row pt-5 mt-5 text-center">
         <div class="col-md-12">

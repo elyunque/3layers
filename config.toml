@@ -97,17 +97,29 @@ weight = 100
     parent = "services"
     weight = 510
   [[menu.main]]
+    identifier = "marketing"
+    title = "Mercadeo Digital"
+    url = "/services/marketing"
+    parent = "services"
+    weight = 520
+  [[menu.main]]
+    identifier = "newsletter"
+    title = "Boletín informativo"
+    url = "/services/newsletter"
+    parent = "services"
+    weight = 530
+  [[menu.main]]
     identifier = "migration"
     title = "Migraciones"
     url = "/services/migraciones"
     parent = "services"
-    weight = 520
+    weight = 540
   [[menu.main]]
     identifier = "support"
     title = "Soporte Técnico"
     url = "/services/soporte-tecnico/"
     parent = "services"
-    weight = 530
+    weight = 550
 [[menu.main]]
   identifier = "blog"
   title = "Blog"
