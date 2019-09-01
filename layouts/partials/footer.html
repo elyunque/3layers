@@ -28,23 +28,39 @@
                         </h3>
                         <div class="row">                           
                             <div class="col-2">
-                                <a href="https://www.facebook.com/3Layers-Host-112222980124952">
-                                    <img src="/images/facebook.png" target="_blank" alt="Facebook Icon" width="25px">
+                                <a href="https://www.facebook.com/3Layers-Host-112222980124952" target="_blank">
+                                    <picture>
+                                        <source srcset="{{ substr .Site.Params.socialfacebook 0 -4 | absURL }}.webp" type="image/webp">
+                                        <source srcset="{{ .Site.Params.socialfacebook | absURL }}" type="image/jpeg"> 
+                                        <img src="{{ .Site.Params.socialfacebook | absURL }}" alt="Facebook Icon" width="25px">
+                                    </picture>                                                                              
                                 </a>
                             </div>
                             <div class="col-2">
-                            <a href="https://www.instagram.com/3layers.host/">
-                                <img src="/images/instagram.png" target="_blank" alt="Instagram Icon" width="25px">
+                            <a href="https://www.instagram.com/3layers.host/" target="_blank">
+                                <picture>
+                                    <source srcset="{{ substr .Site.Params.socialinstagram 0 -4 | absURL }}.webp" type="image/webp">
+                                    <source srcset="{{ .Site.Params.socialinstagram | absURL }}" type="image/jpeg"> 
+                                    <img src="{{ .Site.Params.socialinstagram | absURL }}" alt="Instagram Icon" width="25px">
+                                </picture>
                             </a>
                             </div>
                             <div class="col-2">
-                            <a href="https://www.linkedin.com/company/40848949">
-                                <img src="/images/linkedin.png" target="_blank" alt="Linkedin Icon" width="25px">
+                            <a href="https://www.linkedin.com/company/40848949" target="_blank">
+                                <picture>
+                                    <source srcset="{{ substr .Site.Params.sociallinkedin 0 -4 | absURL }}.webp" type="image/webp">
+                                    <source srcset="{{ .Site.Params.sociallinkedin | absURL }}" type="image/jpeg"> 
+                                    <img src="{{ .Site.Params.sociallinkedin | absURL }}" alt="Linkedin Icon" width="25px">
+                                </picture>                                
                             </a>
                             </div>
                             <div class="col-2">
-                            <a href="https://twitter.com/3layershost">
-                                <img src="/images/twitter.png" target="_blank" alt="Twitter Icon" width="25px">
+                            <a href="https://twitter.com/3layershost" target="_blank">
+                                <picture>
+                                    <source srcset="{{ substr .Site.Params.socialtwitter 0 -4 | absURL }}.webp" type="image/webp">
+                                    <source srcset="{{ .Site.Params.socialtwitter | absURL }}" type="image/jpeg"> 
+                                    <img src="{{ .Site.Params.socialtwitter | absURL }}" alt="Twitter Icon" width="25px">
+                                </picture>                                
                             </a>
                             </div>
                         </div>

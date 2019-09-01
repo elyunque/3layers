@@ -17,7 +17,11 @@
                   <div class="block-38 text-center">
                     <div class="block-38-img">
                       <div class="block-38-header"> 
-                        <img src="{{ .Params.thumbnail | absURL }}" alt="Image placeholder">
+                        <picture>
+                          <source srcset="{{ substr .Params.thumbnail 0 -4 | absURL }}.webp" type="image/webp">
+                          <source srcset="{{ .Params.thumbnail | absURL }}" type="image/jpeg"> 
+                          <img src="{{ .Params.thumbnail | absURL }}" alt="{{ .Params.name }}">
+                        </picture>                        
                         <h3 class="block-38-heading">{{ .Params.name }}</h3>
                         <p class="block-38-subheading">{{ .Params.position }}</p>
                       </div>

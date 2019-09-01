@@ -4,8 +4,14 @@
         <div class="row align-items-center">
           
           <div class="col-6 col-md-6 col-lg-2">
-            <a href="{{ .Site.Params.homeurl | absURL }}" class="d-flex align-items-center site-logo">
-              <p><img align="middle" src="{{ `images/logo.jpg` | absURL }}" alt="">&nbsp;	<h3>{{ .Site.Params.company }}</h3></p>
+            <a href="{{ .Site.Params.homeurl | absURL }}" class="d-flex align-items-center site-logo">              
+              <p>
+                  <picture>
+                    <source srcset="{{ substr .Site.Params.logo 0 -4 | absURL }}.webp" type="image/webp">
+                    <source srcset="{{ .Site.Params.logo | absURL }}" type="image/jpeg"> 
+                      <img align="middle" src="{{ .Site.Params.logo | absURL }}" alt="Logo 3Layers Host">
+                  </picture>&nbsp;<h3>{{ .Site.Params.company }}</h3>
+              </p>
             </a>
           </div>
 

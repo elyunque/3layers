@@ -4,10 +4,15 @@ enableRobotsTXT = true
 
 [params]
 company = "3 Layers"
+logo = "images/logo.jpg"
 home = "Inicio"
 homeurl = "/"
 blog = "Blog"
 blogurl = "/blog/"
+socialfacebook = "/images/facebook.png"
+socialinstagram = "/images/instagram.png"
+sociallinkedin = "/images/linkedin.png"
+socialtwitter = "/images/twitter.png"
 weight = 100
 
 [[menu.main]]
@@ -99,7 +104,7 @@ weight = 100
   [[menu.main]]
     identifier = "marketing"
     title = "Mercadeo Digital"
-    url = "/services/marketing"
+    url = "/services/digital-marketing/"
     parent = "services"
     weight = 520
   [[menu.main]]
