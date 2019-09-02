@@ -1,0 +1,11 @@
+@media (max-width: 1200px) {
+    .mapouter {
+        display: none;
+    }
+}
+
+@media (min-width: 1201px) {
+    .mapouter {
+        display: block;
+    }
+}
