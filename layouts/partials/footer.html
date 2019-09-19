@@ -26,7 +26,7 @@
                         </h3>
                         <div class="row">                           
                             <div class="col-2">
-                                <a href="https://www.facebook.com/3Layers-Host-112222980124952" target="_blank">
+                                <a href="{{ .Site.Params.socialfacebooklink | absURL }}" target="_blank">
                                     <picture>
                                         <source srcset="{{ substr .Site.Params.socialfacebook 0 -4 | absURL }}.webp" type="image/webp">
                                         <source srcset="{{ .Site.Params.socialfacebook | absURL }}" type="image/jpeg"> 
@@ -35,7 +35,7 @@
                                 </a>
                             </div>
                             <div class="col-2">
-                            <a href="https://www.instagram.com/3layers.host/" target="_blank">
+                            <a href="{{ .Site.Params.socialinstagramlink | absURL }}" target="_blank">
                                 <picture>
                                     <source srcset="{{ substr .Site.Params.socialinstagram 0 -4 | absURL }}.webp" type="image/webp">
                                     <source srcset="{{ .Site.Params.socialinstagram | absURL }}" type="image/jpeg"> 
@@ -44,7 +44,7 @@
                             </a>
                             </div>
                             <div class="col-2">
-                            <a href="https://www.linkedin.com/company/40848949" target="_blank">
+                            <a href="{{ .Site.Params.sociallinkedinlink | absURL }}" target="_blank">
                                 <picture>
                                     <source srcset="{{ substr .Site.Params.sociallinkedin 0 -4 | absURL }}.webp" type="image/webp">
                                     <source srcset="{{ .Site.Params.sociallinkedin | absURL }}" type="image/jpeg"> 
@@ -53,7 +53,7 @@
                             </a>
                             </div>
                             <div class="col-2">
-                            <a href="https://twitter.com/3layershost" target="_blank">
+                            <a href="{{ .Site.Params.socialtwitterlink | absURL }}" target="_blank">
                                 <picture>
                                     <source srcset="{{ substr .Site.Params.socialtwitter 0 -4 | absURL }}.webp" type="image/webp">
                                     <source srcset="{{ .Site.Params.socialtwitter | absURL }}" type="image/jpeg"> 

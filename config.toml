@@ -10,9 +10,13 @@ homeurl = "/"
 blog = "Blog"
 blogurl = "/blog/"
 socialfacebook = "/images/facebook.png"
+socialfacebooklink = "https://www.facebook.com/3Layers-Host-112222980124952"
 socialinstagram = "/images/instagram.png"
+socialinstagramlink = "https://www.instagram.com/3layers.host/"
 sociallinkedin = "/images/linkedin.png"
+sociallinkedinlink = "https://www.linkedin.com/company/3layers"
 socialtwitter = "/images/twitter.png"
+socialtwitterlink = "https://twitter.com/3layershost"
 weight = 100
 
 [[menu.main]]
