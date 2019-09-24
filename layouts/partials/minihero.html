@@ -1,9 +1,9 @@
 <div class="unit-5 overlay" style="background-image: url('{{ .Params.thumbnail | absURL }}');">
     <div class="container text-center">
         {{ if isset .Params "subtitle" }}
-            <h2 class="mb-0">{{ .Params.subtitle }}</h2>
+            <h1 class="mb-0">{{ .Params.subtitle }}</h1>
         {{ else }}
-            <h2 class="mb-0">{{ .Title }}</h2>
+            <h1 class="mb-0">{{ .Title }}</h1>
         {{ end }}
         <p class="mb-0 unit-6">
             <a href="{{ .Site.Params.homeurl | absURL }}">

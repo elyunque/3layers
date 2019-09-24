@@ -1320,10 +1320,13 @@ a {
   .unit-5 > .container {
     z-index: 2;
     position: relative; }
-  .unit-5 h2 {
-    color: #fff;
-    font-size: 3rem; }
+    .unit-5 h2 {
+      color: #fff;
+      font-size: 3rem; }
 
+h1 {
+  color: #fff;
+  font-size: 3rem; }   
 .unit-6 {
   color: #fff; }
   .unit-6 .sep {
