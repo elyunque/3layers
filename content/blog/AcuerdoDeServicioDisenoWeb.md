@@ -3,7 +3,7 @@ title: "Acuerdo De Servicio Diseño Web"
 subtitle: "Acuerdo De Servicio Diseño Web"
 date: 2018-11-12T22:35:09-04:00
 draft: false
-sitemap: true
+sitemap: false
 thumbnail: "images/blog/acuerdo1.jpg"
 author: "Henry Pimentel"
 ---
