@@ -32,7 +32,7 @@ Entre las partes se han convenido en celebrar el presente acuerdo de desarrollo 
 
 1.5	Para la puesta en ejecución de este SITIO WEB se requiere por parte de EL CONTRATANTE un alojamiento web adecuado que ejecute el lenguaje de programación PHP y posea un motor de bases de datos MYSQL en sus últimas versiones y por lo menos 25GB de espacio en disco disponible para alojar los archivos. Además se da por entenido que cualquier lenguaje de programación adicional que se requiera deberá ser soportado por el alojamiento web contratado de manera independiente por EL CONTRATANTE.
 
-1.6	EL DESARROLLADOR se compromete a entregar un primer diseño en la segunda semana a partir de ser aprobada la cotización, posterior a esta primera entrega por parte de EL DESARROLADOR es obligación de EL CONTRATANTE realizar las correcciones de lugar en un plazo no mayor a tres (3) días laborables e informar por escrito a EL DESARROLLADOR sobre cualquier modificación requerida, es importante destacar que EL CONTRATANTE solo tendrá acceso a cuatro (4) modificaciones posterior a la entrega del preliminar por EL DESARROLLADOR, y el proyecto completo no debe extenderse por más de cuarenta y cinco (45) días calendario.
+1.6	EL DESARROLLADOR se compromete a entregar un primer diseño en la segunda semana a partir de ser aprobada la cotización, posterior a esta primera entrega por parte de EL DESARROLADOR es obligación de EL CONTRATANTE realizar las correcciones de lugar en un plazo no mayor a tres (3) días laborables e informar por escrito a EL DESARROLLADOR sobre cualquier modificación requerida, es importante destacar que EL CONTRATANTE solo tendrá acceso a cuatro (4) modificaciones posteriores a la entrega del preliminar por EL DESARROLLADOR, y el proyecto completo no debe extenderse por más de cuarenta y cinco (45) días calendario.
 
 **SEGUNDA. - OBLIGACIONES DE LAS PARTES**
 
@@ -120,7 +120,7 @@ Entre las partes se han convenido en celebrar el presente acuerdo de desarrollo 
 
 9.4	EL DESARROLLADOR se compromete expresamente a asumir la totalidad de las obligaciones laborales, corrientes o especiales establecidas por la ley, en el desarrollo del presente acuerdo.
 
-**DECIMA. - NATURALEZA DEL ACUERDO**
+**DÉCIMA. - NATURALEZA DEL ACUERDO**
 
 10.1	Por tratarse de un acuerdo de prestación de servicios profesionales, todos los derechos y obligaciones que se deriven del presente acuerdo se regularán por el Código Civil del País de EL CONTRATANTE.
 
