@@ -12,7 +12,7 @@ aliases:
 
 **REUNIDOS**
 \
-Al referirse a EL PROVEEDOR en los siguientes artículos de este acuerdo, estaremos refiriéndonos a la representación del experto en redes sociales y mercadeo social contratado por 3Layers.host para el desarrollo de la campaña en redes sociales y/o correo electrofónico requerido por el Cliente y a todos los recursos materiales o digitales para la finalización del proyecto, excluyendo explícitamente documentaciones, materiales didácticos, fotografías o videos que pertenecen a un tercero o que no están disponibles bajo un acuerdo de recursos comunes.
+Al referirse a EL PROVEEDOR en los siguientes artículos de este acuerdo, estaremos refiriéndonos a la representación del experto en redes sociales y mercadeo social contratado por 3Layers.host para el desarrollo de la campaña en redes sociales y/o correo electrónico requerido por el Cliente y a todos los recursos materiales o digitales para la finalización del proyecto, excluyendo explícitamente documentaciones, materiales didácticos, fotografías o videos que pertenecen a un tercero o que no están disponibles bajo un acuerdo de recursos comunes.
 
 Este acuerdo se referirá a EL CONTRATANTE sobre la persona o entidad comercial que ha adquirido el servicio de campañas de redes sociales y marketing digital, es debidamente representada por el firmante de la cotización aprobada, y debe ser una entidad o persona, directa o indirectamente, que posea más del cincuenta por ciento (50%) del capital social emitido, o más del cincuenta por ciento (50%) del poder de voto en reuniones generales, o que tiene el poder de nombrar y despedir a la mayoría de los directores o de otra manera dirigir las actividades de dicha entidad legal, y/o entidad o persona que disfruta previamente de algún beneficio sobre servicios en 3Layers.host.
 
@@ -56,7 +56,7 @@ dentro de los primeros cinco (5) días de cada mes, estos informes pueden inclui
 \
 El presente contrato tendrá una duración de un (1) meses contados a partir del momento de aprobada y hecho efectivo el pago de la cotización relacionada, y no está sujeto a rembolso y/o cancelación por ninguna de las partes.
 
-El contrato se prorrogará tácitamente por periodos sucesivos de un (1) mes, siempre que y cuando exista una cotización aprobada y liquidada que lo avale.
+El contrato se prorrogará tácitamente por periodos sucesivos de un (1) mes, siempre que y cuando exista una cotización aprobada y liquidada que lo avalé.
 
 El PROVEEDOR se compromete a garantizar que los servicios ofrecidos serán cumplidos a en su totalidad, y con responsabilidad en función a los tiempos y a las estrategias establecidas
 
@@ -75,7 +75,7 @@ información necesaria para publicar en los perfiles online.
 
 **5- Remuneración**
 \
-Incluye, pero podría no limitarse a la cotización aprobada y saldada por EL CONTRATANTE, Los montos a invertir por la promociones y publicidad online, serán determinadas y pagadas por EL CONTRATANTE, en función a sus criterios de inversión. 
+Incluye, pero podría no limitarse a la cotización aprobada y saldada por EL CONTRATANTE, Los montos a invertir por las promociones y publicidades online, serán determinadas y pagadas por EL CONTRATANTE, en función a sus criterios de inversión. 
 
 El PROVEEDOR se compromete a enviar dentro de los últimos cinco (5) días de cada mes un informe de resultados y la factura con los servicios prestados, 
 del mes en siguiente.
@@ -83,8 +83,8 @@ del mes en siguiente.
 EL CONTRATANTE se compromete a pagar los primeros diez (10) días de cada mes.
 
 En caso de retrasarse el pago por un periodo superior a (10) diez días EL 
-PROVEEOR podrá suspender de forma cautelar los servicios que presta al 
-EL CONTRATANTE hasta que éste vuelva a estar al corriente de todos los pagos. 
+PROVEEDOR podrá suspender de forma cautelar los servicios que presta al 
+EL CONTRATANTE hasta que este vuelva a estar al corriente de todos los pagos. 
 La demora en el pago de la factura implicará el incremento de esta con un porcentaje de un 2 % mensual que se aplicará subsecuentemente hasta que la factura sea liquidada.
 
 El PROVEEDOR, tendrá derecho a ser íntegramente remunerado por los servicios prestados de forma profesional y diligente, sin que la obligación de 
@@ -93,7 +93,7 @@ remunerar dichos servicios esté subordinada a la consecución de los objetivos 
 **6- Confidencialidad. **
 \
 EL CONTRATANTE deberá proporcionar la información necesaria para el óptimo desarrollo de los servicios a prestar por el PROVEEDOR.
-Cada una de las partes mantendrá el carácter de confidencialidad de la información en todo momento y, de no mediar el previo consentimiento escrito de EL CONTRATANTE al efecto se abstendrá de revelar tal información, total o parcialmente, a cualquier persona distinta de empleados, agentes, y otros representantes autorizados que necesiten conocer la información para realizar el servicio por el cual se contrata. Las partes se obligan a informar a sus respectivos representantes, sobre la índole confidencial de la Información y a exigir a dichos representantes que el carácter de confidencialidad de esta durante el plazo de duración del presente contrato y un (1) año a contar desde su resolución. 
+Cada una de las partes mantendrá el carácter de confidencialidad de la información en todo momento y, de no mediar el previo consentimiento escrito de EL CONTRATANTE al efecto se abstendrá de revelar tal información, total o parcialmente, a cualquier persona distinta de empleados, agentes, y otros representantes autorizados que necesiten conocer la información para realizar el servicio por el cual se contrata. Las partes se obligan a informar a sus respectivos representantes, sobre la índole confidencial de la Información y a exigir a dichos representantes que el carácter de confidencialidad durante el plazo de duración del presente contrato y un (1) año a contar desde su resolución. 
 
 **7- Derechos de propiedad intelectual.**
 \
@@ -116,4 +116,4 @@ Para cualquier divergencia en la interpretación o aplicación del presente cont
 
 El conocimiento y la resolución de cualquier cuestión litigiosa derivada del presente contrato, las partes la someten al conocimiento y decisión del Tribunal Arbitraje de la ciudad de residencia de EL PROVEEDOR, al que se le encargara la designa de árbitro y a la administración del arbitraje, obligándose desde ahora al cumplimiento del laudo arbitral.
 
-En prueba de conformidad, al aceptar la cotización relacionada a un servicio referente a este acuerdo se aceptan los puntos indicados en el presente contrato y las partes se compromete de manera noble a cumplirlos.
+En prueba de conformidad, al aceptar la cotización relacionada al servicio referente a este acuerdo se aceptan los puntos indicados en el presente contrato y las partes se compromete de manera noble a cumplirlos.
