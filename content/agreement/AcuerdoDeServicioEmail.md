@@ -39,7 +39,7 @@ Para utilizar Correo Electrónico, usted debe:
 
 Tener al menos dieciocho (18) años y con facultades para representar un contrato; Completar el proceso de registro; de acuerdo con los Términos; y brindar información certera, completa y actualizada de contacto.
 
-Mediante el uso de Correo Electrónico, usted representa y garantiza que cumple con todos los requisitos mencionados anteriormente, y que no utilizará el Servicio de una manera que viole cualquier ley o regulación mundial, incluyendo la Ley 310-14 de Republica Dominicana que regula el envío de correos electrónicos comerciales no solicitados (SPAM).
+Mediante el uso de Correo Electrónico, usted representa y garantiza que cumple con todos los requisitos mencionados anteriormente, y que no utilizará el Servicio de una manera que viole cualquier ley o regulación mundial, incluyendo la Ley 310-14 de la República Dominicana que regula el envío de correos electrónicos comerciales no solicitados (SPAM).
 
 Podemos rechazar prestar el servicio, cancelar cuentas de cualquier usuario, y cambiar los requisitos de responsabilidad en cualquier momento si se violan las políticas.
 
@@ -60,7 +60,7 @@ La Empresa se reserva el derecho de modificar cualquiera de los Términos de uso
 
 **5. Usuario y Contraseña**
 \
-EL CLIENTE es responsable de mantener su nombre de usuario y contraseña de forma confidencial. También es responsable de la utilización de cualquier cuenta a la que tenga acceso a, esté o no autorizado el uso. EL CLIENTE deberá notificarnos de manera inmediata de cualquier uso no autorizado de sus cuentas. La Empresa no es responsable por pérdidas de información debido a contraseñas robadas o hackeadas. La Empresa no tendrá acceso a su contraseña actual, y por razones de seguridad, sólo podremos restablecer la misma.
+EL CLIENTE es responsable de mantener su nombre de usuario y contraseña de forma confidencial. También es responsable de la utilización de cualquier cuenta a la que tenga acceso a, esté o no autorizado el uso. EL CLIENTE deberá notificarnos de manera inmediata de cualquier uso no autorizado de sus cuentas. La Empresa no es responsable por pérdidas de información debido a contraseñas robadas o hackeadas. La Empresa no tendrá acceso a su contraseña actual, y por razones de seguridad, solamente podremos restablecer la misma.
 
 **Pago**
 
@@ -97,7 +97,7 @@ EL CLIENTE deberá acatar las siguientes reglas:
 - No enviará correo no deseado o spam. Por “spam”, nos referimos a correo electrónico no solicitado.
 - No va a utilizar en su correo electrónico cualquier material, incluidos los gráficos o de otros contenidos, que no sea creado o por él, no proporcionado por nosotros para su uso, o que viole los derechos de cualquier otra parte.
 - No va a utilizar nombres de manera engañosa o incorrectas, direcciones, direcciones de correo electrónico, líneas de asunto, u otra información en cualquiera de los correos electrónicos creados o enviados usando nuestro servicio.
--No va a cargar o escribir correos electrónicos que contengan u ofrezcan cualquier contenido ilegal, bienes o servicios fraudulento.
+- No va a cargar o escribir correos electrónicos que contengan u ofrezcan cualquier contenido ilegal, bienes o servicios fraudulentos.
 - No va a compartir su contraseña.
 - No va a tratar de descifrar, descompilar, desensamblar o realizar ingeniería inversa a cualquiera del software provisto por la Empresa, o de cualquier forma utilizado o descargado desde la página web.
 - No va a configurar varias cuentas para cualquier persona o entidad con el fin de enviar contenido sustancialmente similar, a menos que sea parte de una franquicia.
@@ -149,4 +149,4 @@ En caso de un fallo de seguridad que EL CLIENTE o cualquier persona pueda afecta
 \
 Cualquier aviso a EL CLIENTE será válido cuando La Empresa envíe a la última dirección de correo electrónico o dirección física que nos haya brindado a la contratación.
 
-En prueba de conformidad, al aceptar la cotización relacionada a un servicio referente a este acuerdo se aceptan los puntos indicados en el presente contrato y las partes se compromete de manera noble a cumplirlos.
+En prueba de conformidad, al aceptar la cotización relacionada al servicio referente a este acuerdo se aceptan los puntos indicados en el presente contrato y las partes se compromete de manera noble a cumplirlos.
