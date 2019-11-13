@@ -6,6 +6,8 @@ draft: false
 sitemap: false
 thumbnail: "images/blog/acuerdo1.jpg"
 author: "Henry Pimentel"
+aliases:
+    - /acuerdoweb/
 ---
 
 **ACUERDO DE DESARROLLO DE SITIO WEB**
