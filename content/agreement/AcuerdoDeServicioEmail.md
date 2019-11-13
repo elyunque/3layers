@@ -3,7 +3,7 @@ title: "Acuerdo De Servicio Email"
 subtitle: "Acuerdo De Servicio Email"
 date: 2018-11-13T14:01:10-04:00
 draft: false
-sitemap: true
+sitemap: false
 thumbnail: "images/blog/acuerdo1.jpg"
 aliases:
     - /acuerdoemail/
