@@ -5,7 +5,7 @@ draft: false
 thumbnail: "images/marketing.jpg"
 panel: "¿Que incluye el Mercadeo Digital?"
 #faq: "Preguntas Frecuentes de Marketing Digital"
-sitemap: true
+sitemaps: true
 ---
 
 En 3Layers Host contribuimos con el crecimiento de sus medios digitales y de su mercado a través de implementación de entrega efectiva de contenido a sus clientes y público en general, con el fin de hacer crecer sus mercados en redes sociales, lista de noticias, correo electrónico de mercadeo y promoción.

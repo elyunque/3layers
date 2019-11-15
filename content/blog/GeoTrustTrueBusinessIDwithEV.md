@@ -3,7 +3,7 @@ title: "GeoTrust True BusinessID con EV"
 subtitle: "GeoTrust True BusinessID con EV"
 date: 2019-07-30T22:12:15-04:00
 draft: false
-sitemap: true
+sitemaps: true
 thumbnail: "images/blog/geotrust.jpg"
 author: "3layers"
 ---

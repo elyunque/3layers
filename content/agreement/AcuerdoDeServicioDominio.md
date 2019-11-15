@@ -3,7 +3,7 @@ title: "Acuerdo De Servicio Nombre de Dominio"
 subtitle: "Acuerdo De Servicio Nombre de Dominio"
 date: 2018-11-12T22:35:09-04:00
 draft: false
-sitemap: false
+sitemaps: false
 thumbnail: "images/blog/acuerdo1.jpg"
 aliases:
     - /acuerdodominio/

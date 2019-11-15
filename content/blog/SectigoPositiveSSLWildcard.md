@@ -3,7 +3,7 @@ title: "Sectigo PositiveSSL Wildcard"
 subtitle: "Sectigo PositiveSSL Wildcard"
 date: 2019-07-30T22:53:19-04:00
 draft: false
-sitemap: true
+sitemaps: true
 thumbnail: images/blog/sectigo.jpg
 author: "3layers"
 ---

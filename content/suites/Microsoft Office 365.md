@@ -3,7 +3,7 @@ title: "Office"
 subtitle: "Office"
 date: 2019-08-26T14:03:01-04:00
 draft: false
-sitemap: true
+sitemaps: true
 thumbnail: "images/blog/office.jpg"
 ---
 

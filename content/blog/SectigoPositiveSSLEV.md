@@ -3,7 +3,7 @@ title: "Sectigo Positive SSL EV"
 subtitle: "Sectigo Positive SSL EV"
 date: 2019-07-30T22:33:19-04:00
 draft: false
-sitemap: true
+sitemaps: true
 thumbnail: images/blog/sectigo.jpg
 author: "3layers"
 ---

@@ -9,7 +9,7 @@ description: "Planes desde $9.99/mes"
 button: "Ver Detalles"
 pageurl: "/hosting/hosting3/"
 fade: 300
-sitemap: true
+sitemaps: true
 ---
 
 {{< pricetable 

@@ -5,7 +5,7 @@ draft: false
 thumbnail: "images/support.jpg"
 panel: "¿Por Qué Elegirnos?"
 #faq: "Preguntas Frecuentes de Migración"
-sitemap: true
+sitemaps: true
 ---
 
 Con el Soporte Técnico de 3Layers Host ofrecemos a sus empresa e invividuos la proteción de su inversión a largo plazo. Con el equipo de Soporte y Servicio Técnico, que esta formado por profesionales con amplia experiencia en areas tecnicas variadas sistemas operativos, equipos movil, redes, conectividad, seguridad, almacenamiento. Le ayudaremos a obtener el máximo provecho de sus productos  y a minimizar los paros del su productividad.

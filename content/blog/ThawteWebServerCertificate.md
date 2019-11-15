@@ -3,7 +3,7 @@ title: "Thawte Web Server Certificate"
 subtitle: "Thawte Web Server Certificate"
 date: 2019-07-30T22:02:22-04:00
 draft: false
-sitemap: true
+sitemaps: true
 thumbnail: "images/blog/thawte.jpg"
 author: "3layers"
 ---

@@ -3,7 +3,7 @@ title: "G Suite"
 subtitle: "Gsuite"
 date: 2019-08-26T14:02:55-04:00
 draft: false
-sitemap: true
+sitemaps: true
 thumbnail: "images/blog/gsuite.jpg"
 ---
 

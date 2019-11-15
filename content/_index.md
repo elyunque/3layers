@@ -5,5 +5,5 @@ draft: false
 hosting: "¡Diferentes plataformas para adaptarse a cada necesidad!"
 panel: "¿Por Qué Elegirnos?"
 testimonials: "Testimonios"
-sitemap: true
+sitemaps: true
 ---

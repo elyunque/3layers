@@ -5,7 +5,7 @@ draft: false
 thumbnail: "images/support.jpg"
 panel: "¿Cuales son las principales características?"
 faq: "Preguntas Frecuentes de Boletín informativo"
-sitemap: true
+sitemaps: true
 ---
 
 Cuando usted posee una lista de contactos de clientes y desea enviarle comunicados, facturas, actualizaciones de productos o novedades, es el momento en que debe pensar en un Boletín informativo.

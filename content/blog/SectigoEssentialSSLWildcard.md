@@ -3,7 +3,7 @@ title: "Sectigo EssentialSSL Wildcard"
 subtitle: "Sectigo EssentialSSL Wildcard"
 date: 2019-07-30T20:42:06-04:00
 draft: false
-sitemap: true
+sitemaps: true
 thumbnail: images/blog/sectigo.jpg
 author: "3layers"
 ---

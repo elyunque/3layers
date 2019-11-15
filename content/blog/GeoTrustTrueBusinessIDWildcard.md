@@ -3,7 +3,7 @@ title: Certificado SSL de GeoTrust True BusinessID Wildcard
 subtitle: Certificado SSL de GeoTrust True BusinessID Wildcard
 date: 2019-07-29T23:41:15.000Z
 draft: false
-sitemap: true
+sitemaps: true
 thumbnail: "images/blog/geotrust.jpg"
 author: 3layers
 ---

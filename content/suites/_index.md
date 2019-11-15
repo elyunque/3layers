@@ -3,7 +3,7 @@ title: "Suite a tu Necesidad"
 subtitle: "Suites"
 date: 2019-08-26T14:02:55-04:00
 draft: false
-sitemap: true
+sitemaps: true
 thumbnail: "images/suites.jpg"
 ---
 

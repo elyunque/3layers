@@ -3,7 +3,7 @@ title: "Sectigo EV SSL Certificate"
 subtitle: "Sectigo EV SSL Certificate"
 date: 2019-07-30T22:32:41-04:00
 draft: false
-sitemap: true
+sitemaps: true
 thumbnail: images/blog/sectigo.jpg
 author: "3layers"
 ---

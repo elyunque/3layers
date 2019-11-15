@@ -3,7 +3,7 @@ title: "7 Almacenes de Fotografías"
 subtitle: "7 Almacenes de Fotografías"
 date: 2019-09-22T22:42:12-04:00
 draft: false
-sitemap: true
+sitemaps: true
 thumbnail: "images/blog/photostock.jpg"
 author: "Henry Pimentel"
 ---

@@ -5,7 +5,7 @@ draft: false
 thumbnail: "images/migration.jpg"
 panel: "¿Por Qué Migrar Con Nosotros?"
 faq: "Preguntas Frecuentes de Migración"
-sitemap: true
+sitemaps: true
 ---
 
 3Layers Host cuenta con un personal experimentado en administración de correo electrónicos y migración de datos. Cual sea su razón para migrarse de proveedor de correo electrónico nosotros podemos apoyarle para que no pierda sus preciados correos electrónicos en el proceso.

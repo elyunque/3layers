@@ -3,7 +3,7 @@ title: "Symantec Secure Site Pro"
 subtitle: "Symantec Secure Site Pro"
 date: 2019-07-30T21:52:49-04:00
 draft: false
-sitemap: true
+sitemaps: true
 thumbnail: "images/blog/symantec.jpg"
 author: "3layers"
 ---

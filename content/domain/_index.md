@@ -6,6 +6,6 @@ draft: false
 thumbnail: "images/hero_bg_1.jpg"
 faq: "Preguntas Frecuentes De Dominios"
 panel: "¿Por Qué Elegirnos?"
-sitemap: false
+sitemaps: false
 ---
 

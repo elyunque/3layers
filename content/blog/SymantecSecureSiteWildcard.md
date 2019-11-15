@@ -3,7 +3,7 @@ title: "Symantec Secure Site Wildcard"
 subtitle: "Symantec Secure Site Wildcard"
 date: 2019-07-30T21:56:27-04:00
 draft: false
-sitemap: true
+sitemaps: true
 thumbnail: "images/blog/symantec.jpg"
 author: "3layers"
 ---

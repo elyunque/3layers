@@ -3,7 +3,7 @@ title: "¿Como educar a sus empleados sobre amenazas cibernéticas?"
 subtitle: "¿Como educar a sus empleados sobre amenazas cibernéticas?"
 date: 2019-09-03T10:33:31-04:00
 draft: false
-sitemap: true
+sitemaps: true
 thumbnail: images/blog/training.jpg
 author: "3layers"
 ---

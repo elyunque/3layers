@@ -3,7 +3,7 @@ faq: "Preguntas Frecuentes De Dominios"
 title: "¿Qué dominio o dominios debo adquirir?"
 date: 2019-07-21T13:15:19-04:00
 draft: false
-sitemap: false
+sitemaps: false
 ---
 
 Es importante destacar aspecto sobre los dominios que muchas empresas no conocen:

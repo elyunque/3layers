@@ -3,7 +3,7 @@ title: GeoTrust QuickSSL Premium
 subtitle: GeoTrust QuickSSL Premium
 date: 2019-07-26T03:13:36.000Z
 draft: false
-sitemap: true
+sitemaps: true
 thumbnail: "images/blog/geotrust.jpg"
 author: 3layers
 ---

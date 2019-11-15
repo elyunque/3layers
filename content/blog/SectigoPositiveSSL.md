@@ -3,7 +3,7 @@ title: "Sectigo PositiveSSL"
 subtitle: "Sectigo PositiveSSL"
 date: 2019-07-29T20:24:53-04:00
 draft: false
-sitemap: true
+sitemaps: true
 thumbnail: images/blog/sectigo.jpg
 author: "3layers"
 ---

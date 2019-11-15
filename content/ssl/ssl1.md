@@ -4,7 +4,7 @@ subtitle: "Certificado SSL de Validación de Dominio"
 date: 2019-07-25T19:24:46-04:00
 draft: false
 thumbnail: "images/hero_bg_1.jpg"
-sitemap: true
+sitemaps: true
 ---
 
 {{< pricetable 

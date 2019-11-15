@@ -3,7 +3,7 @@ title: Uso de equipos personales en el trabajo
 subtitle: Uso de equipos personales en el trabajo
 date: 2019-08-26T13:10:59.743Z
 draft: false
-sitemap: true
+sitemaps: true
 thumbnail: images/blog/mobile.jpg
 author: 3layers
 ---

@@ -3,7 +3,7 @@ title: RapidSSL de GeoTrust
 subtitle: RapidSSL de GeoTrust
 date: 2019-07-26T02:16:42.000Z
 draft: false
-sitemap: true
+sitemaps: true
 thumbnail: "images/blog/rapidssl.jpg"
 author: 3layers
 ---

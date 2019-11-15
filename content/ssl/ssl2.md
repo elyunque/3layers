@@ -4,7 +4,7 @@ subtitle: "Certificado SSL de Validación de Negocios"
 date: 2019-07-25T21:38:59-04:00
 draft: false
 thumbnail: "images/hero_bg_1.jpg"
-sitemap: true
+sitemaps: true
 ---
 
 {{< pricetable 

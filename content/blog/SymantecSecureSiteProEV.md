@@ -3,7 +3,7 @@ title: "Symantec Secure Site Pro EV"
 subtitle: "Symantec Secure Site Pro EV"
 date: 2019-07-30T22:27:00-04:00
 draft: false
-sitemap: true
+sitemaps: true
 thumbnail: "images/blog/symantec.jpg"
 author: "3layers"
 ---

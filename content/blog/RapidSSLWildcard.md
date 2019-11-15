@@ -3,7 +3,7 @@ title: "RapidSSL Wildcard de GeoTrust"
 subtitle: "RapidSSL Wildcard de GeoTrust"
 date: 2019-07-29T20:21:24-04:00
 draft: false
-sitemap: true
+sitemaps: true
 thumbnail: "images/blog/rapidssl.jpg"
 author: "3layers"
 ---

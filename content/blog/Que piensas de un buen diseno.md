@@ -3,7 +3,7 @@ title: ¿Qué Piensas De Un Buen Diseño?
 subtitle: ¿Qué Piensas De Un Buen Diseño?
 date: 2019-08-25T23:58:46.000Z
 draft: false
-sitemap: true
+sitemaps: true
 thumbnail: images/blog/design.jpg
 author: 3layers
 ---

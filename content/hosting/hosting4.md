@@ -9,7 +9,7 @@ description: ""
 button: "Ver Detalles"
 pageurl: "/hosting/hosting4/"
 fade: 300
-sitemap: true
+sitemaps: true
 ---
 
 {{< pricetable 

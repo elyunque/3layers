@@ -3,7 +3,7 @@ title: ¿Qué es un certificado SSL y para qué sirve?
 subtitle: ¿Qué es un certificado SSL y para qué sirve?
 date: 2019-08-15T14:42:10.000Z
 draft: false
-sitemap: true
+sitemaps: true
 thumbnail: images/blog/locker.jpg
 author: 3layers
 ---
