@@ -3,7 +3,7 @@ title: "Boletín informativo"
 date: 2019-08-23T21:25:00-04:00
 draft: false
 thumbnail: "images/support.jpg"
-panel: "Boletín informativo que llega a sus clientes"
+panel: "¿Cuales son las principales características?"
 faq: "Preguntas Frecuentes de Boletín informativo"
 sitemap: true
 ---

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+
+{{ partial "head" . }}
+
+<body>
+  
+  <div class="site-wrap">
+
+    <div class="site-mobile-menu">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div> <!-- .site-mobile-menu -->
+    
+    
+    {{ partial "header" . }}
+    
+    {{ partial "minihero" . }}
+
+    <div class="site-section">
+      <div class="container">
+
+          {{ .Content  }}
+
+          {{ if isset .Params "panel" }}
+            {{ partial "panel" . }}
+          {{ end }}
+
+          {{ if isset .Params "faq" }}
+            {{ partial "faq" . }}
+          {{ end }}
+          
+      </div>
+    </div>
+    
+    {{ partial "footer" . }}
+    
+  </div>
+
+  {{ partial "foot" . }}    
+
+  </body>
+</html>

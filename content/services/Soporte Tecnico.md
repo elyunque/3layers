@@ -3,8 +3,8 @@ title: "Soporte Técnico"
 date: 2019-08-23T21:25:00-04:00
 draft: false
 thumbnail: "images/support.jpg"
-panel: "¿Por Qué Migrar Con Nosotros?"
-faq: "Preguntas Frecuentes de Migración"
+panel: "¿Por Qué Elegirnos?"
+#faq: "Preguntas Frecuentes de Migración"
 sitemap: true
 ---
 

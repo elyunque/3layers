@@ -3,8 +3,8 @@ title: "Digital Marketing"
 date: 2019-08-23T21:25:00-04:00
 draft: false
 thumbnail: "images/marketing.jpg"
-panel: "Hágase sentir con nuestras soluciones de Mercadeo Digital"
-faq: "Preguntas Frecuentes de Marketing Digital"
+panel: "¿Que incluye el Mercadeo Digital?"
+#faq: "Preguntas Frecuentes de Marketing Digital"
 sitemap: true
 ---
 

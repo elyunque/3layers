@@ -26,9 +26,13 @@
 
           {{ .Content  }}
 
-          {{ partial "panel" . }}
+          {{ if isset .Params "panel" }}
+            {{ partial "panel" . }}
+          {{ end }}
 
-          {{ partial "faq" . }}
+          {{ if isset .Params "faq" }}
+            {{ partial "faq" . }}
+          {{ end }}
           
       </div>
     </div>
