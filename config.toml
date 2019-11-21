@@ -125,11 +125,17 @@ weight = 100
     parent = "services"
     weight = 540
   [[menu.main]]
+    identifier = "archive"
+    title = "Archivado"
+    url = "/services/archivadoemail"
+    parent = "services"
+    weight = 550
+  [[menu.main]]
     identifier = "support"
     title = "Soporte Técnico"
     url = "/services/soporte-tecnico/"
     parent = "services"
-    weight = 550
+    weight = 560
 [[menu.main]]
   identifier = "blog"
   title = "Blog"
