@@ -5,6 +5,6 @@ date: {{ .Date }}
 draft: false
 sitemaps: true
 thumbnail: "images/img_1.jpg"
-author: "3layers"
+author: "Henry Pimentel"
 ---
 

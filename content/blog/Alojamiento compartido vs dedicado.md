@@ -5,7 +5,7 @@ date: 2019-11-27T10:09:48-04:00
 draft: false
 sitemaps: true
 thumbnail: "images/blog/code-coding-computer-data.jpg"
-author: "3layers"
+author: "Henry Pimentel"
 ---
 
 Bueno, comencemos con la primera pregunta, ¿qué es el alojamiento compartido?
