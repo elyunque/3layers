@@ -8,7 +8,7 @@
         <div class="row hosting">
 
             {{ range first 4 (sort (where .Site.Pages "Section" "hosting") ".Params.fade" ) }}
-                {{ if isset .Params "title" }}
+                {{ if isset .Params "fade" }}
                     
                     <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="{{ .Params.fade }}">
                         <div class="unit-2 text-center border py-5 h-100 bg-white">

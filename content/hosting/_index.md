@@ -1,6 +1,6 @@
 ---
 title: "Alojamientos"
-subtitle: "Alojamiento Compartido"
+subtitle: "Alojamientos"
 date: 2019-07-20T21:27:57-04:00
 draft: false
 thumbnail: "images/hero_bg_1.jpg"
@@ -8,7 +8,6 @@ icon: "/images/shared.png"
 description: "Planes desde $3.99/mes"
 button: "Ver Detalles"
 pageurl: "/hosting/hosting1/"
-fade: 100
 sitemaps: true
 ---
 
