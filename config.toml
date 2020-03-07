@@ -1,5 +1,5 @@
 baseURL = "https://3layers.host/"
-title = "3 Layers"
+title = "3Layers Host"
 enableRobotsTXT = true
 
 [params]
