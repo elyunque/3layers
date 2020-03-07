@@ -3,7 +3,7 @@ title = "3Layers Host"
 enableRobotsTXT = true
 
 [params]
-company = "3Layers Host"
+company = "3Layers"
 version = "v1.10"
 logo = "images/logo.jpg"
 home = "Inicio"
