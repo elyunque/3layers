@@ -8,7 +8,7 @@ thumbnail: "images/blog/photostock.jpg"
 author: "Henry Pimentel"
 ---
 
-Al2 momento de crear contenido para un Portal Web surgen tres necesidades primordiales:
+Al momento de crear contenido para un Portal Web surgen tres necesidades primordiales:
 
 * Crear contenido profesional, con alto nivel de profesionalismo y que este acorde con los nuevos tiempos,
 * Tener recursos tales como referencias a vínculos externos de alto valor, que agregue SEO al articulo y que sean veraces y creíbles,
