@@ -4,7 +4,7 @@ subtitle: Uso de equipos personales en el trabajo
 date: 2019-08-26T13:10:59.743Z
 draft: false
 sitemaps: true
-thumbnail: images/blog/mobile.jpg
+thumbnail: images/blog/remotedesktop.jpg
 author: 3layers
 ---
 Es común ver como empresas de todos los tamaños permiten que dispositivos personales de sus empleados y asociados se conecten a las redes privadas de sus infraestructuras, esto ya sea con fines laborales (permitir a los empleados usar herramientas y programas de la empresa a través de sus dispositivos personales) o por el conocido “dame wifi” de los empleados al departamento de tecnología. Esto incluye laptops, teléfonos inteligentes, entre otros.

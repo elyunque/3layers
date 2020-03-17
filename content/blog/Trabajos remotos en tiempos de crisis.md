@@ -1,7 +1,7 @@
 ---
-title: "Trabajo Remoto"
-subtitle: "Trabajo Remoto"
-date: 2020-03-17T22:42:12-04:00
+title: "Trabajos remotos en tiempos de crisis"
+subtitle: "Trabajos remotos en tiempos de crisis"
+date: 2020-03-17T18:05:11-04:00
 draft: false
 sitemaps: true
 thumbnail: "images/blog/remotedesktop.jpg"
