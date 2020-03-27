@@ -35,7 +35,7 @@
                     </div>
                     <div class="text p-4">
                       <h2 class="h5 text-black"><a href="{{ .Permalink | absURL }}">{{ .Title }}</h2></a>
-                      {{ $month_names := slice "Enero" "Febrero" "Marzo" "Abril" "Mayo" "Junio" "Julio" "Augosto" "Septiembre" "Octubrer" "Noviembrer" "Diciembre" }}
+                      {{ $month_names := slice "Ene" "Feb" "Mar" "Abr" "May" "Jun" "Jul" "Aug" "Sep" "Oct" "Nov" "Dic" }}
                       {{ $month := sub .Date.Month 1 }}
                       <span class="text-uppercase date d-block mb-3"><small>By {{ .Params.author }} &bullet; {{ index $month_names $month }} {{ .Date.Day }} {{ .Date.Year }}</small></span>
                       <p class="mb-0">{{ .Plain | truncate 100 }}</p>
