@@ -54,7 +54,7 @@ sections:
   label: Contact
   create: all
   match: "**/*"
-upload_dir: static/uploads
+upload_dir: static
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
