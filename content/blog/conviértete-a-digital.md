@@ -21,13 +21,10 @@ Como parte de nuestra estrategia para apoyar a nuestros clientes y prospectos he
 
 En tal sentido nuestro equipo de ventas esta dispuesto a ayudarle en:
 
-\-	Que usted como empresa pueda tomar decisiones rápidas que exploten las necesidades de sus rubros de negocio usando la tecnología, y capacitar a sus vendedores en las herramientas necesarias para poder conseguir prospectos usando estas.
-
-\-	Que todos en su empresa sepa usar el Internet y las computadoras,
-
-\-	Que sus prospectos encuentren su empresa y no que usted tenga que ir detrás de sus prospectos, ya que esta pandemia nos llevara a un punto donde las empresas inundaran de propaganda el internet y mucha de esa propaganda será dañina o molesta para sus prospectos, queremos que usted no caiga en ese error y que aprenda de nosotros a crear un lazo armonioso y de necesidad entre sus clientes y ustedes,
-
-\-	Desarrollar un plan de marketing comercial bien diseñado, que incluya redes sociales, ventas en la Internet por eCommerce y apoyo de su personal en el uso de las tecnologías.
+* Que usted como empresa pueda tomar decisiones rápidas que exploten las necesidades de sus rubros de negocio usando la tecnología, y capacitar a sus vendedores en las herramientas necesarias para poder conseguir prospectos usando estas.
+* Que todos en su empresa sepa usar el Internet y las computadoras,
+* Que sus prospectos encuentren su empresa y no que usted tenga que ir detrás de sus prospectos, ya que esta pandemia nos llevara a un punto donde las empresas inundaran de propaganda el internet y mucha de esa propaganda será dañina o molesta para sus prospectos, queremos que usted no caiga en ese error y que aprenda de nosotros a crear un lazo armonioso y de necesidad entre sus clientes y ustedes,
+* Desarrollar un plan de marketing comercial bien diseñado, que incluya redes sociales, ventas en la Internet por eCommerce y apoyo de su personal en el uso de las tecnologías.
 
 No lo dude más, nuestro [personal de venta](https://3layers.host/contact/) esta para apoyarle sin compromiso y con la mejor disposición de manera remota, seguros en sus casas y con la mejor disposición que usted pueda imaginar.
 
