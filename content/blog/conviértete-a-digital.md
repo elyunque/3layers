@@ -3,7 +3,7 @@ author = "Henry Pimentel"
 date = 2020-04-13T04:00:00Z
 sitemaps = true
 subtitle = "Conviértete a Digital"
-thumbnail = "static/images/ventasdigital.jpg"
+thumbnail = ""
 title = "Conviértete a Digital"
 
 +++
