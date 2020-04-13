@@ -15,7 +15,7 @@ La respuesta esta en las tecnologías, unas de las bendiciones que nos ha dejado
 
 Claro, esto afectara algunos sectores mas que otros pero en resumen lo único que diferencia a un empresa de otra es la adaptabilidad a utilizar las tecnologías para que su poder de ventas sea efectivo y resista la crisis, ya que los clientes aun siguen afuera, y mientras estén dando la última batalla estarán requiriendo bienes y servicios, por lo tanto esas empresa que logren que sus prospectos lleguen a ellos con más facilidad serán los que habrán aprovechado la tecnología a su favor para quedarse en el mercado.
 
- En 3Layers Host además de contar con un equipo de ventas dinámico adaptado a la tecnología y estar posicionado entre las mejores empresas de nuestro rubro, contamos con vendedores capacitados en las herramientas de tecnología, video conferencia, asistencia de escritorios remotos, que no se han detenido de trabajar y brindar servicios que apoyen a nuestros clientes.
+En 3Layers Host además de contar con un equipo de ventas dinámico adaptado a la tecnología y estar posicionado entre las mejores empresas de nuestro rubro, contamos con vendedores capacitados en las herramientas de tecnología, video conferencia, asistencia de escritorios remotos, que no se han detenido de trabajar y brindar servicios que apoyen a nuestros clientes.
 
 Como parte de nuestra estrategia para apoyar a nuestros clientes y prospectos hemos desarrollado un plan de apoyo a empresas en esta crisis para acercarlos a la tecnología y permitir obtener de nosotros nuestra experiencia usando las tecnologías para sus beneficios. Esto porque entendemos en la relación simbiótica que existe entre 3Layers Host y nuestros clientes y que la única razón de nuestra existencia es ayudarles.
 
