@@ -1,0 +1,19 @@
+---
+label: Hero
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: thumbnail
+  label: thumbnail
+- type: text
+  name: pageurl
+  label: pageurl
+- type: text
+  name: button
+  label: button
