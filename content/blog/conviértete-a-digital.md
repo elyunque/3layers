@@ -17,7 +17,7 @@ El nuevo esquema de trabajo al que estamos siendo forzados afectara algunos sect
 
 En 3Layers Host además de contar con un equipo de ventas dinámico adaptado a la tecnología y estar posicionado entre las mejores empresas de nuestro rubro, contamos con vendedores capacitados en un conjunto las herramientas de tecnología de vanguardia, vídeo conferencia y asistencia de escritorios remotos, nuestro personal no se ha detenido de trabajar y brindar servicios que apoyan a nuestros clientes en su día a día de manera incansable.
 
-Como parte de nuestra estrategia para apoyar a nuestros clientes y prospectos hemos desarrollado un plan de apoyo a empresas con la finalidad de acercarlos a las tecnologías que manejamos en 3Layers Host y permitirles obtener de nosotros nuestra experiencia usando las tecnologías para sus beneficios.
+Como parte de nuestra estrategia para apoyar a nuestros clientes y prospectos hemos desarrollado un plan de apoyo con la finalidad de acercarlos a las tecnologías que manejamos en 3Layers Host y permitirles obtener de nosotros nuestra experiencia usando las tecnologías para sus beneficios.
 
 Creemos en la relación simbiótica que existe entre 3Layers Host y nuestros clientes y que la única razón de nuestra existencia es ayudarles. En tal sentido nuestro equipo de ventas está dispuesto a ayudarle en:
 
