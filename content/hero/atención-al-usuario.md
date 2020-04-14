@@ -2,7 +2,7 @@
 button = "Conozca Más"
 date = 2019-07-21T04:10:00Z
 pageurl = "/services/soporte-tecnico/"
-thumbnail = "images/hero2_tech.jpg"
+thumbnail = "images/hero2_tech2.jpg"
 title = "Atención al Usuario"
 
 +++
