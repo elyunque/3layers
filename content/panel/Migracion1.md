@@ -2,7 +2,7 @@
 title: "Expertos del Sector"
 date: 2019-07-22T21:54:26-04:00
 draft: false
-icon: "images/panel/cube.png"
+icon: "images/panel/award.png"
 fade: 10
 panel: "¿Por Qué Migrar Con Nosotros?"
 ---

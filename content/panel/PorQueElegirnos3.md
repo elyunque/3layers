@@ -2,7 +2,7 @@
 title: "Velocidad Excepcional"
 date: 2019-07-20T22:55:11-04:00
 draft: false
-icon: "images/panel/airplane.png"
+icon: "images/panel/highspeed.png"
 fade: 30
 panel: "¿Por Qué Elegirnos?"
 ---

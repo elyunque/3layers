@@ -2,7 +2,7 @@
 title: "Análisis de competencia"
 date: 2019-07-22T21:54:26-04:00
 draft: false
-icon: "images/panel/cube.png"
+icon: "images/panel/graph.png"
 fade: 10
 panel: "¿Que incluye el Mercadeo Digital?"
 ---

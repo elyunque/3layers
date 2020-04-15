@@ -1,9 +1,9 @@
 ---
-faq: "Preguntas Frecuentes de Boletín informativo"
-title: "¿Desde qué tipo de ambiente se puede realizar la migración?"
+faq: "Preguntas Frecuentes de Boletín Informativo"
+title: "¿Qué tipos de correos electrónicos puedo enviar?"
 date: 2019-07-21T13:31:39-04:00
 draft: false
 sitemaps: false
 ---
 
-Asistimos las migraciones de Exchange Server 2003, 2007, 2010 y 2013 (on-premise y alojados), Microsoft Office 365, G-Suite/Gmail, GroupWise 7 y versiones posteriores, Zimbra; Lotus Notes, POP, e IMAP.
+Usted puede enviar cualquier tipo de información que desee a sus suscriptores, pero siempre acogido a las normas y reglamentos, como por ejemplo siempre incluir un vínculo para darse de baja y evitar usar una gran cantidad de imágenes en su Boletín, esto último ayuda con la entregabilidad de sus correos electrónicos.

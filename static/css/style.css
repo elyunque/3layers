@@ -101,12 +101,12 @@ a {
     box-shadow: none !important; }
 
 .site-section {
-  padding: 3em 0; }
+  padding: 1em 0; }
   @media (min-width: 768px) {
     .site-section {
-      padding: 7em 0; } }
+      padding: 1em 0; } }
   .site-section.site-section-sm {
-    padding: 4em 0; }
+    padding: 1em 0; }
 
 .site-section-heading {
   font-size: 30px;
@@ -1186,7 +1186,7 @@ a {
     z-index: 2; }
   .unit-3 .unit-3-icon-wrap {
     position: relative;
-    height: 68px;
+    height: 62px;
     width: 59px;
     -webkit-box-flex: 0;
     -ms-flex: 0 0 59px;
