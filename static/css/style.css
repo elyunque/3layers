@@ -101,12 +101,12 @@ a {
     box-shadow: none !important; }
 
 .site-section {
-  padding: 1em 0; }
+  padding: 3em 0; }
   @media (min-width: 768px) {
     .site-section {
-      padding: 1em 0; } }
+      padding: 5em 0; } }
   .site-section.site-section-sm {
-    padding: 1em 0; }
+    padding: 4em 0; }
 
 .site-section-heading {
   font-size: 30px;
