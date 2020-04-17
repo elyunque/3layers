@@ -8,15 +8,15 @@ panel: "¿Por Qué Elegirnos?"
 sitemaps: true
 ---
 
-Con el Soporte Técnico de 3Layers Host ofrecemos a sus empresa e invividuos la proteción de su inversión a largo plazo. Con el equipo de Soporte y Servicio Técnico, que esta formado por profesionales con amplia experiencia en areas tecnicas variadas sistemas operativos, equipos movil, redes, conectividad, seguridad, almacenamiento. Le ayudaremos a obtener el máximo provecho de sus productos  y a minimizar los paros del su productividad.
+Con el Soporte Técnico de 3Layers Host ofrecemos a sus empresa e invividuos la proteción de su inversión a largo plazo. Con el equipo de Soporte y Servicio Técnico, que esta formado por profesionales con amplia experiencia en areas tecnicas variadas sistemas operativos, equipos movil, redes, conectividad, seguridad, almacenamiento. Le ayudaremos a obtener el máximo provecho de sus productos  y a minimizar los paros de su productividad.
 
 * Contamos con especialistas que ofrecen asistencia técnica 24/7 por teléfono, correo electrónico y nuestro centro de datos de manera proactiva.
-* Los ingenieros de servicio técnico se encarga de mantener en funcionamiento nuestra amplia base de equipos (con lo que mantenemos los servicios de nuestros clientes activos), que incluye 2.000 sistemas repartidos en 90 países alrededor del mundo.
-* Nuestro ingenieros de servicio técnico son ingenieros certificados en sus respectivas areas de asistencia técnica, y reciben capacitaciones constante en servicio al cliente.
-* El requermiento minimo de un soporte técnico de 3Layers Host es de cuatro años de experiencia en el area en que se desempeña.
+* Nuestros ingenieros de servicio técnico se encarga de mantener en funcionamiento nuestra amplia base de equipos (con lo que mantenemos los servicios de nuestros clientes activos), que incluye 2.000 sistemas repartidos en 90 países alrededor del mundo.
+* Nuestro ingenieros de servicio técnico son ingenieros certificados en sus respectivas areas de asistencia técnica, y reciben capacitaciones constante en servicio al cliente, redacción e inteligencia emocional.
+* El requerimiento minimo de un soporte técnico de 3Layers Host es de cuatro años de experiencia en el area en que se desempeña.
 * Nuestros colaboradores forman parte de un programa de formación continua con entrenamiento en linea y presencial en mas de 7 paises.
 
-**No encargamos de su infraestructura**
+**Nos encargamos de su infraestructura**
 
 En 3Layers Host estamos preparados para encargarnos de todas las necesidades de su empresa en la areas tecnologicas.
 
@@ -26,8 +26,8 @@ En 3Layers Host estamos preparados para encargarnos de todas las necesidades de 
 * Inventario de equipos de cómputo e integración con sus sistema de activo fijo.
 * Concientización, protección y capacitación de usuarios en temas de seguridad y de uso de las TIC.
 * Recuperación de documentos eliminados acidentalmente de disco duros o SSD.
-* Instalación, configuración y mantenimiento de redes Wifi y alambricas.
-* Configuración de cámaras de video para su seguridad.
+* Instalación, configuración y mantenimiento de redes WIFI y alambricas.
+* Configuración de cámaras de video conferencia y de video seguridad.
 
 {{< pricetable 
 topdata="<p>Nuestros planes de asistencia técnica son una tremenda opcion para potenciar las tecnologias en su empresa, al mismo tiempo, maximizar la seguridad de su infraestrcutura apoyado en un equipo experto de 3Layers Host.</p>"

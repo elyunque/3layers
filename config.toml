@@ -19,6 +19,8 @@ sociallinkedin = "/images/linkedin.png"
 sociallinkedinlink = "https://www.linkedin.com/company/3layershost"
 socialtwitter = "/images/twitter.png"
 socialtwitterlink = "https://twitter.com/3layershost"
+googlemapembed="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15137.012157698788!2d-69.955313!3d18.472194!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc7ca2d0d7f4ec684!2s3Layers%20Host!5e0!3m2!1sen!2sdo!4v1587093523164!5m2!1sen!2sdo"
+googlemaplink="https://www.google.com/maps/place/3Layers+Host/@18.472194,-69.955313,15z/data=!4m5!3m4!1s0x0:0xc7ca2d0d7f4ec684!8m2!3d18.4721937!4d-69.9553129?hl=en-US"
 weight = 100
 
 [[menu.main]]

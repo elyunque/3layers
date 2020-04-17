@@ -13,7 +13,7 @@ sitemaps: true
 ---
 
 {{< pricetable 
-topdata="<p>Los alojamientos compartidos son una forma eficiente y económica obtener un lugar en la nube donde colocar su presencia Web corporativa. En esta modalidad puede beneficiarse de paquetes de seguridad y de mantenimiento en conjunto por una fracción mínima del costo de un servidor. Al mismo tiempo de disfrutar de beneficios como correo electrónico ilimitado, SSL, seguridad periférica y soporte técnico.</p>"
+topdata="<p>Los alojamientos compartidos son una forma eficiente y económica de obtener un lugar en la nube donde colocar su presencia Web corporativa. En esta modalidad puede beneficiarse de paquetes de seguridad y de mantenimiento por una fracción mínima del costo de un servidor. Con beneficios como correo electrónico ilimitado, SSL, seguridad periférica y soporte técnico.</p>"
 tablefeatured1="" tablefeatured2="" tablefeatured3="featured-pricing" 
 tabletitle1="BASICO" tabletitle2="PREMIUM" tabletitle3="AVANZADO" 
 tableprice1="$9.<small><sup><u>49</sup></u> /mes</small>" tableprice2="$14.<small><sup><u>66</sup></u> /mes</small>" tableprice3="$20.<small><sup><u>33</sup></u> /mes</small>"

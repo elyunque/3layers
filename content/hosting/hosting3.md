@@ -13,7 +13,7 @@ sitemaps: true
 ---
 
 {{< pricetable 
-topdata="<p>Los alojamientos dedicados son una efectiva forma de colocar aplicaciones, CMS, ERP, PBX, base de datos y Portales Web que su empresa requiera, trabajamos con los centros de datos mas grandes del mundo, ofreciendo Hardware de última generación, con capacidad exclusiva para procesar <i>Internet of things (IoT)</i> e <i>Inteligencia de Negocio</i> (incluyendo <i>Inteligencia Artificial</i>).</p>"
+topdata="<p>Los alojamientos dedicados son una efectiva forma de colocar aplicaciones, CMS, ERP, PBX, base de datos y Portales Web que su empresa requiera, trabajamos con los centros de datos mas grandes del mundo, ofreciendo Hardware de última generación, con capacidad exclusiva para procesar <i>Internet of Things (IoT)</i> e <i>Inteligencia de Negocio</i> (incluyendo <i>Inteligencia Artificial</i>). Nuestros VPS vienen con el Sistema Operativo de su elección Microsoft Windows Servers o Distribuciones de Linux.</p>"
 tablefeatured1="" tablefeatured2="featured-pricing" tablefeatured3="" 
 tabletitle1="RENDIMIENTO" tabletitle2="ALMACENAMIENTO" tabletitle3="INFRAESTRUCTURA" 
 tableprice1="$167.<small><sup><u>98</sup></u> /mes</small>" tableprice2="$321.<small><sup><u>10</sup></u> /mes</small>" tableprice3="$505.<small><sup><u>20</sup></u> /mes</small>"
