@@ -3,7 +3,7 @@ author = "Henry Pimentel"
 date = 2020-04-26T04:00:00Z
 sitemaps = true
 subtitle = "SSL, CRT, CSR"
-thumbnail = "images/cpanel.jpg"
+thumbnail = "/images/sslcrt.jpg"
 title = "SSL, CRT, CSR"
 
 +++
