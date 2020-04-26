@@ -21,27 +21,31 @@ Imagine que usted visita la página Web de su banco para realizar una consulta d
 
 Como evitamos esta situación, para tales fines, existen los certificados TSL y SSL, como ejemplo digamos que usted visita la página [https://example.com](https://example.com "https://example.com") y este devuelve un certificado "Emitido para:" o “Issued to:” que tiene el mismo nombre que el sitio web que estoy visitando actualmente. Existe varios tipos de certificados como el tipo comodín que cubre el dominio principal example.com y todos los recursos de sus subdominios (ejemplo enlinea.example.com, transacciones.example.com, en general *.example.com).
 
+![SSL Certificate](images/ssl.JPG "SSL Certificate")
+
 La siguiente parte muestra "Emitido por:" o “Issued by:” y aquí está la gran diferencia entre los certificados auto firmados y los emisores públicos de confianza (como DigiCert, RapidSSL, GeoTrust, Sectigo, Thawte, entre otros). El emisor del certificado auto firmado es juez, jurado y verdugo y nadie puede afirmar ser quien es. Pero dado que el emisor de este certificado no es conocido por nadie excepto por el que genero el certificado, no confiaran en él y esto generara una alerta por su navegador de internet cuando visite el recurso. Esto podemos verlo si removemos el certificado de el recurso anterior example.com y le colocamos un certificado auto firmado recibiremos la siguiente alerta.
+
+![No SSL Error](images/errorSSL.png "No SSL Error")
 
 **Self-Signed (certificado auto firmado) contra un Certificate Authority (Autoridad de Certificado)...**
 
-Supongamos que soy el propietario del dominio bancoseguro.com ¿Cómo puedo generar confianza en mis clientes para que visiten mi portal? 
+Supongamos que soy el propietario del dominio bancoseguro.com ¿Cómo puedo generar confianza en mis clientes para que visiten mi portal?
 
-Para cubrir a mis clientes y a mi negocio necesito obtener un certificado de un Emisor (Certificate Authority/CA) conocido y confiable. El CA tiene la responsabilidad de validar y asegurar económicamente todos los certificados que han emitido, y son en general una entidad respetada y autorizada para expedir certificados SSL. Los CA tienen la carga de validar que el dominio bancoseguro.com es propiedad de la empresa Banco Seguro y indemnizar a Banco Seguro si su recurso fuera vulnerado por una falla del certificado emitido por ellos. 
+Para cubrir a mis clientes y a mi negocio necesito obtener un certificado de un Emisor (Certificate Authority/CA) conocido y confiable. El CA tiene la responsabilidad de validar y asegurar económicamente todos los certificados que han emitido, y son en general una entidad respetada y autorizada para expedir certificados SSL. Los CA tienen la carga de validar que el dominio bancoseguro.com es propiedad de la empresa Banco Seguro y indemnizar a Banco Seguro si su recurso fuera vulnerado por una falla del certificado emitido por ellos.
 
 **¿Qué pasos debo seguir para obtener una certificación de un CA?**
 
-En este momento revisaremos lo que es la llave (KEY) y la solicitud de firma de certificado (CSR). Pensemos por un momento en el certificado como su domicilio (bancoseguro.com es igual a su dirección física de su negocio). Y la llave es el método para abrir la puerta de su negocio. 
+En este momento revisaremos lo que es la llave (KEY) y la solicitud de firma de certificado (CSR). Pensemos por un momento en el certificado como su domicilio (bancoseguro.com es igual a su dirección física de su negocio). Y la llave es el método para abrir la puerta de su negocio.
 
 Sin la llave en mano, solo podrías ver mi negocio desde la calle, pero nada más. En términos de computadoras, esta "llave" tiene la capacidad de ingresar y descifrar el tráfico hacia y desde el servidor. Y el emisor del certificado (CA) garantiza antes de entregarme un certificado SSL que no le he proporcionado una dirección falsa donde los clientes deben encontrarme (bancoseguro.com en este ejemplo).
 
 **Una llave para abrir mis recursos virtuales**
 
-Necesitamos generar esta clave y debe permanecer confidencial, por lo tanto, no debo nunca compartirla con nadie, ni siquiera con mi CA (seria como entregarle las llaves a alguien de mi empresa, siempre existe la duda de que le hagan una copia). Entonces necesito obtener un certificado que esté vinculada a esta clave privada y esto proviene de un emisor (CA) fuera de mi control. Si les entrego mi llave, pueden obtener control sobre mi tráfico, por lo tanto, surge la pregunta: 
+Necesitamos generar esta clave y debe permanecer confidencial, por lo tanto, no debo nunca compartirla con nadie, ni siquiera con mi CA (seria como entregarle las llaves a alguien de mi empresa, siempre existe la duda de que le hagan una copia). Entonces necesito obtener un certificado que esté vinculada a esta clave privada y esto proviene de un emisor (CA) fuera de mi control. Si les entrego mi llave, pueden obtener control sobre mi tráfico, por lo tanto, surge la pregunta:
 
 **¿Cómo puedo obtener una autorización de mi CA sin entregarle mi llave?**
 
-En este momento entra en juego el CSR. Esta cadena CSR (solicitud de firma de certificado) está generada sobre algoritmos contra mi clave y solo tiene un uso temporal. Esto significa que la clave del recurso nunca se comparte, si no, se hace un CSR que es una cadena intermedia entre la llave de mi recurso y el emisor CA. Con esta cadena intermedia el CA puede generar una clave privada y entregárnosla para ser añadida a nuestro recurso. Esta emisión de certificado por el CA solo se logra cuando se ha pasado un o más requerimientos, dependiendo del tipo de certificado que deseamos obtener. 
+En este momento entra en juego el CSR. Esta cadena CSR (solicitud de firma de certificado) está generada sobre algoritmos contra mi clave y solo tiene un uso temporal. Esto significa que la clave del recurso nunca se comparte, si no, se hace un CSR que es una cadena intermedia entre la llave de mi recurso y el emisor CA. Con esta cadena intermedia el CA puede generar una clave privada y entregárnosla para ser añadida a nuestro recurso. Esta emisión de certificado por el CA solo se logra cuando se ha pasado un o más requerimientos, dependiendo del tipo de certificado que deseamos obtener.
 
 Algunos certificados como los EV son tan estrictos y fuertes que requieren llamadas telefónicas al negocio, un registro en las bases de datos de impuestos internos de la compañía solicitante, suplir al emisor del certificado de facturas de la empresa solicitante y registros especiales dentro de los DNS de los dominios a los que se desean certificar.
 
