@@ -21,11 +21,11 @@ Imagine que usted visita la página Web de su banco para realizar una consulta d
 
 Como evitamos esta situación, para tales fines, existen los certificados TSL y SSL, como ejemplo digamos que usted visita la página [https://example.com](https://example.com "https://example.com") y este devuelve un certificado "Emitido para:" o “Issued to:” que tiene el mismo nombre que el sitio web que estoy visitando actualmente. Existe varios tipos de certificados como el tipo comodín que cubre el dominio principal example.com y todos los recursos de sus subdominios (ejemplo enlinea.example.com, transacciones.example.com, en general *.example.com).
 
-![](images/ssl.JPG)
+![SSL Show ](images/ssl.JPG "SSL Show ")
 
 La siguiente parte muestra "Emitido por:" o “Issued by:” y aquí está la gran diferencia entre los certificados auto firmados y los emisores públicos de confianza (como DigiCert, RapidSSL, GeoTrust, Sectigo, Thawte, entre otros). El emisor del certificado auto firmado es juez, jurado y verdugo y nadie puede afirmar ser quien es. Pero dado que el emisor de este certificado no es conocido por nadie excepto por el que genero el certificado, no confiaran en él y esto generara una alerta por su navegador de internet cuando visite el recurso. Esto podemos verlo si removemos el certificado de el recurso anterior example.com y le colocamos un certificado auto firmado recibiremos la siguiente alerta.
 
-![](images/errorSSL.png)
+![SSL Error](images/errorSSL.png "SSL Error")
 
 **Self-Signed (certificado auto firmado) contra un Certificate Authority (Autoridad de Certificado)...**
 
