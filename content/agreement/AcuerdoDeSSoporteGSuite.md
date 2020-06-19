@@ -11,7 +11,7 @@ aliases:
 
 ## Ámbito de asistencia 
 
-Como cliente del soporte G Suite de *3Layers Host*, la asistencia que recibes cubre los servicios principales de G Suite, algunas herramientas de migración, las versiones móviles y sin conexión de las aplicaciones. Para conocer los detalles de la asistencia, consulta los servicios que se muestran más adelante. En función de su tipo de suscripción a G Suite, es posible que no tengas acceso a algunos servicios.
+Como cliente del soporte G Suite de *3Layers Host*, la asistencia que recibes cubre los servicios principales de G Suite, las versiones móviles y sin conexión de las aplicaciones. Para conocer los detalles de la asistencia, consulta los servicios que se muestran más adelante. En función de su tipo de suscripción a G Suite, es posible que no tengas acceso a algunos servicios.
 
 ## A quién va dirigido el Soporte 
 
@@ -28,11 +28,11 @@ Con el soporte de *3Layers Host* usted obtiene un compromiso de solución a su s
 - Comprobamos que el incidente reportado es en realidad, la ausencia de una función. Para estos casos realizamos una propuesta en Google Cloud Connect por parte de *3Layers Host* para solicitar dicha funcionalidad.
 - Si no podemos reproducir el problema, le ofrecemos recomendaciones para apoyarnos a realizar las investigaciones requeridas, y de esta manera retroalimentarnos, siempre tendrá nuestro seguimiento hasta dar con el problema presentado y poderle ofrecer una solución.
 - Si el producto no es de G Suite, le asistimos con su proveedor externo correspondiente, colocándonos en contacto con él para que le proporcione más asistencia, o le apoyamos con un personal técnico especializado de *3Layers Host* que le dé seguimiento a su proveedor de tercero.
-- Si es imposible resolver el incidente consultado o determinamos que no podemos ofrecer asistencia en relación con él, escalamos el caso a G Suite o al proveedor del software que presenta la situación y le damos seguimiento hasta llegar a la solución.
+- Si es imposible resolver el incidente consultado o determinamos que no podemos ofrecer asistencia en relación con él, escalamos el caso a G Suite o al proveedor del software que presenta la situación y mostrando donde se presenta la situación.
 \
 \
 
-### Antes de contactar con el equipo de Asistencia 
+### Canales de soluciones para asistir o guiar al usuario final 
 
 - Dirígete al Centro de Ayuda para administradores de G Suite y busca tu situación, para validar si esta documentada.
 - [Comprueba si Google ya está al tanto de la situación](https://support.google.com/a/answer/6166309).
@@ -63,9 +63,9 @@ Como cliente de G Suite, los siguientes servicios están cubiertos por tu Acuerd
 
 * **Calendar**
 * **Classroom**: 
-En el resto de las ediciones de G Suite, la aplicación Classroom no está sujeta a los Términos del Servicio de G Suite, por lo que está exenta del soporte técnico de *3Layers Host*.
+en el resto de las ediciones de G Suite, la aplicación Classroom no está sujeta a los Términos del Servicio de G Suite, por lo que está exenta del soporte técnico de *3Layers Host*.
 * **Drive y editores de Documentos**:
-La asistencia que reciben los clientes de G Suite cubre los siguientes servicios web:
+la asistencia que reciben los clientes de G Suite cubre los siguientes servicios web:
     - Google Drive
     - Documentos de Google
     - Hojas de cálculo de Google
@@ -78,7 +78,7 @@ La asistencia que reciben los clientes de G Suite cubre los siguientes servicios
     
 ## Servicios de comunicación
 
-* **Contactos**: Puedes recibir ayuda con los siguientes temas:
+* **Contactos**: puedes recibir ayuda con los siguientes temas:
     - Cómo acceder a los contactos.
     - Faltan o sobran resultados de autocompletar en cualquier servicio.
     - Cómo cambiar la visibilidad de tu directorio.
@@ -88,15 +88,15 @@ La asistencia que reciben los clientes de G Suite cubre los siguientes servicios
     - Cómo crear o editar contactos.
     - Cómo encontrar y fusionar contactos duplicados.
     - Cómo sincronizar los contactos con cualquier cliente de correo de terceros o dispositivo móvil. Para obtener más información, consulta el artículo [Utilizar clientes POP o IMAP](https://support.google.com/a/answer/12103).
-* **Gmail**: Puedes recibir ayuda con los siguientes temas:
+* **Gmail**: puedes recibir ayuda con los siguientes temas:
     - Ajustes de Gmail
     - Entrega de correo electrónico
     - Correos electrónicos salientes (incluidos los mensajes devueltos o rechazados, el servicio relay SMTP y la configuración SMTP)
     - Enrutamiento avanzado de Gmail
     - Obtención de mensajes
     - IMAP y POP
-* **Google+ y Google Currents**: Todas las ediciones de G Suite, excepto G Suite para Centros Educativos y Enterprise para Centros Educativos, y los servicios Google+ y Google Currents.
-* **Grupos para empresas**: Grupos de Google para empresas no está disponible con la edición antigua gratuita de G Suite. La asistencia de G Suite, sin embargo, no cubre la versión de Grupos de Google para consumidores.
+* **Google+ y Google Currents**: todas las ediciones de G Suite, excepto G Suite para Centros Educativos y Enterprise para Centros Educativos, y los servicios Google+ y Google Currents.
+* **Grupos para empresas**: grupos de Google para empresas no está disponible con la edición antigua gratuita de G Suite. La asistencia de G Suite, sin embargo, no cubre la versión de Grupos de Google para consumidores.
 * **Google Chat, Google Meet y versión clásica de Hangouts**: *3Layers Host* no se hace responsable de las reparaciones del hardware utilizado en las salas de reuniones, pero te ayudará a ponerte en contacto con el fabricante del equipo original.
 
 ## No ofrecemos asistencia en relación con:
@@ -122,3 +122,5 @@ Para verificar los requisitos del sistema y del navegador para las funciones sin
 - [Trabajar sin conexión en Gmail](https://support.google.com/a/answer/7684186)
 - [Ver tu calendario sin conexión](https://support.google.com/calendar/answer/1340696)
 - [Configurar el acceso sin conexión a los editores de Documentos](https://support.google.com/a/answer/1642623)
+
+**Los precios suministrados están sujetos a aprobación de parte de Google y el equipo de G Suite. El hecho de cumplir los requisitos solicitados no asegura la aprobación de los beneficios o descuentos.**
