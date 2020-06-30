@@ -122,6 +122,12 @@ weight = 100
     parent = "services"
     weight = 530
   [[menu.main]]
+    identifier = "newsletter"
+    title = "SMS & Voice"
+    url = "/services/sms"
+    parent = "services"
+    weight = 531
+  [[menu.main]]
     identifier = "migration"
     title = "Migraciones"
     url = "/services/migraciones"
