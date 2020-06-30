@@ -11,5 +11,6 @@ En 3Layers Host a través de nuestros servicios y recursos de proveedores y expe
 - [Mercadeo Digital](/services/digital-marketing/)
 - [Migraciones de Datos y Correo Electrónicos](/services/migraciones/)
 - [Boletines Informativos](/services/newsletter/)
+- [SMS & Voice](/services/sms/)
 - [Soporte Técnico](/services/soporte-tecnico/)
 - [Dominios de Internet](/domain/)
