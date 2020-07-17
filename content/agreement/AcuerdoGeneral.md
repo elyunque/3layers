@@ -64,6 +64,7 @@ Cada una de estas organizaciones que asigna dominios tiene diferentes términos 
 5.5 El cliente tiene derecho a la información y el derecho a modificar, suspender o eliminar su información guardada. Si la eliminación entra en conflicto con el deber legal o contractual de guardar información u otros motivos legales, la información se hará inaccesible.
 
 **6. CONTENIDO PUBLICADO**
+
 6.1 Es responsabilidad del cliente identificar el contenido de Internet como contenido propio o como contenido de terceros. El nombre completo y la dirección del cliente deben estar presentes. Otras obligaciones pueden resultar de las disposiciones de la Ley de Telecomunicaciones y de la Ley de Teleservicios. El cliente está obligado a examinar estas disposiciones y a cumplirlas.
 
 6.2 El cliente se compromete a no publicar contenido que pueda violar los derechos de terceros o violar de otro modo la ley. No se permite la colocación de material erótico, pornográfico, extremista o material no considerado de buen gusto. Tenemos derecho a bloquear el acceso a la cuenta de cualquier cliente que viole esto.
