@@ -37,6 +37,7 @@ Cada una de estas organizaciones que asigna dominios tiene diferentes términos 
 3.4 Si el cliente desea estar registrado en motores de búsqueda (motores de búsqueda en línea de contenido de Internet), sólo somos responsables de la mediación. Los operadores de los motores de búsqueda son los únicos responsables de la fecha y hora de la admisión al motor de búsqueda.
 
 3.5 Las limitaciones técnicas están reguladas por las Políticas del Sistema, y son las siguientes:
+
 * Operar aplicaciones que se usan para extraer monedas criptográficas
 * El escaneo de redes extranjeras o direcciones IP extranjeras
 * El uso de IP de origen falso.
@@ -105,7 +106,8 @@ Si el cliente es un consumidor/usuario final, la cantidad de interés cobrada se
 
 9.2 El contrato es cancelable sin dar razones por ambas partes en ningún momento durante un período de 30 días hasta el final del mes, pero a más tardar al expirar el período mínimo de contrato estipulado en el contrato. Una cancelación se puede hacer por escrito por carta, fax, correo electrónico o a través de la interfaz segura de administración en línea, siempre que esta opción esté disponible.
 
-9.3 También tenemos derecho a poner fin a la relación contractual por una buena causa sin previo aviso. Las razones razón importante para la terminación serían: 
+9.3 También tenemos derecho a poner fin a la relación contractual por una buena causa sin previo aviso. Las razones razón importante para la terminación serían:
+
 * En el caso de dos meses consecutivos que el cliente no pagó una parte sustancial de la compensación adeudada. También puede ser que el cliente contravenga o ignore las advertencias sobre la infracción de los requisitos de la sección 6.
 * Que puede resultar en bloqueo o determinación sin previo aviso, puede ser que el cliente utiliza contenido, que afecta al rendimiento o a la seguridad del servidor.
 
