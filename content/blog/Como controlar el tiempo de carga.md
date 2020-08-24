@@ -1,29 +1,29 @@
 ---
 title: "¿Como controlar el tiempo de carga de un Portal Web?"
 subtitle: "¿Como controlar el tiempo de carga de un Portal Web?"
-date: 2020-08-24T11:27:54-04:00
-draft: false
+date: 2020-08-24T11:27:54.000-04:00
 sitemaps: true
-thumbnail: "images/blog/pageload.jpg"
-author: "Henry Pimentel"
----
+thumbnail: images/blog/pageload.jpg
+author: Henry Pimentel
 
+---
 Hoy en día la velocidad lo es todo, vivimos en un mundo donde las informaciones se requieren de manera instantánea, esto no escapa a su Portal Web o servicio Web de cualquier tipo, ya que en caso contrario unos segundos de tardanza afectan la usabilidad de la página y con ello el abandono de los visitantes puede ser alta por esta razón. Google basa su algoritmo de búsqueda en la consideración de que la velocidad de carga de página es uno de los 200 factores que influyen en la posición del sitio web entre los resultados de búsqueda orgánica y, definitivamente, Google da por entendido que la experiencia del usuario se enriquece con la velocidad de carga de un portal. De dos sitios web que están en un mismo nicho, ganara mejor posicionamiento el sitio web que presente una carga más rápida de sus recursos y presente la información al visitante con premura. El portal más lento es probable que pierdas visitas y que estas opten por algún sitio de la competencia en cuestión de segundos, que le presente la información buscada con mayor prontitud.
 
 Con los siguientes puntos que daremos a continuación podrás tener el conocimiento necesario tanto para accionar, así como, para dirigir a tu desarrollador del Portal Web en el camino donde quiere que vaya tu negocio online. Te presentamos algunos consejos que pueden apoyarte en la búsqueda de optimizar el tiempo de carga de tu sitio web:
 
 **Formato y tamaño de las imágenes optimizados**
+
 En el mayor de los casos cuando se desarrolla un Portal Web se busca “impactar al usuario”, imágenes enormes, muchos colores que definan los valores de la compañía, varios efectos de transición de entrada y salida; como si estuviéramos hablando de un recurso infinito, y es en ese punto donde se cae en un error, pensar en un sitio web como un recurso infinito que siempre entregara el mejor rendimiento hagamos lo que hagamos.
 Las imágenes de gran resolución ralentizan su página web lo cual crea una experiencia del usuario inferior en comparación con otros Portales Web de la competencia. Al optimizar las imágenes es el proceso de disminuir el tamaño de su archivo mediante el uso de un plugin o script el cual en cambio acelera el tiempo de carga de su sitio web. Compresión sin pérdida es el método idóneo para trabajar con sus imágenes.
 Además, puedes utilizar herramientas de optimización de imágenes, que comprimen la imagen para reducir aún más su tamaño:
 
-* Optimizilla 
+* Optimizilla
 * Smush.it
 * Online Image Optimizer
 * I Love IMG
 
 Para conseguir que el tiempo de carga de tu página esté optimizado, se recomienda utilizar formatos de imagen estándar, como JPG, PNG y GIF. Pero si deseas realmente conseguir un verdadero rendimiento te recomendamos convertir todas tus imágenes a formato WebP.
-Entre las ventajas del formato WebP está la compresión sin pérdida, la cual se basa en distintas técnicas que transforman los parámetros y los datos de la imagen, dando como resultado una imagen hasta 90% más reducida y con la misma calidad que la original. 
+Entre las ventajas del formato WebP está la compresión sin pérdida, la cual se basa en distintas técnicas que transforman los parámetros y los datos de la imagen, dando como resultado una imagen hasta 90% más reducida y con la misma calidad que la original.
 
 **Optimiza las dependencias**
 
@@ -43,11 +43,11 @@ Cuando un visitante entra a un sitio web, los archivos de imágenes, CSS y Java 
 
 Puedes utilizar encabezados "Expires para los componentes estáticos del sitio y encabezados "Cache-Control" para los dinámicos. El uso de estos encabezados permite almacenar en caché los distintos componentes de un sitio, incluidos scripts, contenido flash, imágenes y hojas de estilos, lo que a su vez minimiza el número de solicitudes HTTP y, por tanto, mejora el tiempo de carga de la página. Con el uso de encabezados «Expires» puedes controlar el tiempo máximo que pueden utilizar los componentes de una página web para almacenarse en caché, como se muestra en el siguiente ejemplo:
 
-*Expires: Wed, 20 Apr 2015 20:00:00 GMT*
+_Expires: Wed, 20 Apr 2015 20:00:00 GMT_
 
 Si tu servidor es Apache, puedes establecer el tiempo para el contenido en caché con la directiva «ExpiresDefault», que define la fecha de caducidad como un número de años a partir de la fecha actual:
 
-*ExpiresDefault “access plus 15 years”*
+_ExpiresDefault “access plus 15 years”_
 
 **Evita los scripts que bloquean la renderización**
 
