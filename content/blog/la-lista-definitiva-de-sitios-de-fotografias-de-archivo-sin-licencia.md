@@ -13,7 +13,7 @@ En muchas ocasiones deseamos crear un contenido de ejemplo para nuestros cliente
 
 Pero ya por suerte no tenemos mas ese problema, en los últimos años, han aparecido un cantidad considerable de sitios web que promueven el contenido de recursos como fotos, vídeos y patrones de forma gratuita.
 
-Esta lista puede ser útil para muchos propósitos, creación de presentaciones de ventas, mercadeo o financieras, para alimentar reportes e informes con imágenes genéricas, colocar una imagen a ese articulo del Blog que estas creando, o publicaciones en las redes sociales, solo la imaginación es el limite.
+Esta lista puede ser útil para muchos propósitos, creación de presentaciones de ventas, mercadeo o financieras, para alimentar reportes e informes con imágenes genéricas, colocar una imagen a ese articulo del Blog que estas creando, o publicaciones en las redes sociales, solo la imaginación es el límite.
 
 ¡Esperamos que te ayuden!
 
