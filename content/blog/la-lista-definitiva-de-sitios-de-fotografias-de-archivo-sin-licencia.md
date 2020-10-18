@@ -4,7 +4,7 @@ date = 2020-10-17T04:00:00Z
 sitemaps = false
 subtitle = "Fotos, videos y patrones de archivo para su próximo proyecto web"
 thumbnail = "/images/pexels-steve-johnson-1509534.jpg"
-title = "La Lista Definitiva De Sitios De Fotografías De Archivo Sin Licencia"
+title = "La lista recursos sin licencia"
 
 +++
 Los recursos como vídeos, imágenes y fondos son el corazón de un diseño, y para los que estamos en el negocio de el diseño muchas veces no es fácil encontrar recursos gratuitos que pueden ser usados para nuestros proyectos. 
