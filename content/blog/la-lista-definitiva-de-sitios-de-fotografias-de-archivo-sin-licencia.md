@@ -7,17 +7,17 @@ thumbnail = "/images/pexels-steve-johnson-1509534.jpg"
 title = "Recursos para tus creaciones"
 
 +++
-Los recursos como vídeos, imágenes y fondos son el corazón de un diseño, y para los que estamos en el negocio de el diseño muchas veces no es fácil encontrar recursos gratuitos que pueden ser usados para nuestros proyectos. 
+Los recursos como vídeos, imágenes y fondos son el corazón de un diseño, y para los que estamos en el negocio del diseño muchas veces no es fácil encontrar recursos gratuitos que pueden ser usados para nuestros proyectos.
 
-En muchas ocasiones deseamos crear un contenido de ejemplo para nuestros clientes y requerimos un banco de foto que podamos usar de manera gratuita, esto siempre ha sido un dolor de cabeza para muchos creadores de contenido. 
+En muchas ocasiones deseamos crear un contenido de ejemplo para nuestros clientes y requerimos un banco de foto que podamos usar de manera gratuita, esto siempre ha sido un dolor de cabeza para muchos creadores de contenido.
 
 Pero ya por suerte no tenemos mas ese problema, en los últimos años, han aparecido un cantidad considerable de sitios web que promueven el contenido de recursos como fotos, vídeos y patrones de forma gratuita.
 
-Esta lista puede ser útil para muchos propósitos, creación de presentaciones de ventas, mercadeo o financieras, para alimentar reportes e informes con imágenes genéricas, colocar una imagen a ese articulo del Blog, o publicaciones en las redes sociales, solo la imaginación es el limite.
+Esta lista puede ser útil para muchos propósitos, creación de presentaciones de ventas, mercadeo o financieras, para alimentar reportes e informes con imágenes genéricas, colocar una imagen a ese articulo del Blog que estas creando, o publicaciones en las redes sociales, solo la imaginación es el limite.
 
 ¡Esperamos que te ayuden!
 
-Todas los recursos contenidos en los portales siguientes son licenciados bajo Creative Commons y son de uso gratuito para uso comercial, pero siempre debes revisar el nivel de licenciamiento antes de usarlos, porque pueden cambiar sin previo aviso.
+Nota: Todas los recursos contenidos en los portales siguientes son licenciados bajo Creative Commons y son de uso gratuito para uso comercial, pero siempre debes revisar el nivel de licenciamiento antes de usarlos, porque pueden cambiar sin previo aviso.
 
 ## Almacén de fotografías
 
@@ -65,7 +65,7 @@ Todas los recursos contenidos en los portales siguientes son licenciados bajo Cr
 
 ## Patrones, texturas y fondos
 
-[**http://patternico.com**](http://patternico.com "http://patternico.com") - 
+[**http://patternico.com**](http://patternico.com "http://patternico.com") -
 
 [**http://thepatternlibrary.com**](http://thepatternlibrary.com "http://thepatternlibrary.com")
 
