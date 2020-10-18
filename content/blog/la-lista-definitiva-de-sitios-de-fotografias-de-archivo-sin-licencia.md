@@ -1,7 +1,7 @@
 +++
 author = "HENRY PIMENTEL"
 date = 2020-10-17T04:00:00Z
-sitemaps = false
+sitemaps = true
 subtitle = "Fotos, videos y patrones de archivo para su próximo proyecto web"
 thumbnail = "/images/pexels-steve-johnson-1509534.jpg"
 title = "La lista recursos sin licencia"
