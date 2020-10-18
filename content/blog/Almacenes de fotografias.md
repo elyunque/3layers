@@ -1,11 +1,12 @@
 ---
-title: "7 Almacenes de Fotografías"
-subtitle: "7 Almacenes de Fotografías"
+title: 7 Almacenes de Fotografías
+subtitle: 7 Almacenes de Fotografías
 date: 2019-09-22T22:42:12-04:00
 draft: false
+sitemap: true
+thumbnail: https://ucarecdn.com/38dcf0a3-b9e1-4914-a0b3-4e13f93f3232/
+author: Henry Pimentel
 sitemaps: true
-thumbnail: "images/blog/photostock.jpg"
-author: "Henry Pimentel"
 ---
 
 Al momento de crear contenido para un Portal Web surgen tres necesidades primordiales:
