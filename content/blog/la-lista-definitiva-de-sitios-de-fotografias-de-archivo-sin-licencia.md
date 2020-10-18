@@ -2,7 +2,7 @@
 author = "HENRY PIMENTEL"
 date = 2020-10-17T04:00:00Z
 sitemaps = true
-subtitle = "Fotos, videos y patrones de archivo para su próximo proyecto web"
+subtitle = "Fotos, vídeos y patrones de archivo para su próximo proyecto web"
 thumbnail = "/images/pexels-steve-johnson-1509534.jpg"
 title = "Recursos para tus creaciones"
 
