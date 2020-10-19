@@ -6,4 +6,7 @@ hosting: "¡Diferentes plataformas para adaptarse a cada necesidad!"
 panel: "¿Por Qué Elegirnos?"
 testimonials: "Testimonios"
 sitemaps: true
+outputs:
+- html
+- json
 ---
