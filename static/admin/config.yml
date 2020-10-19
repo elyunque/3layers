@@ -30,5 +30,8 @@ collections:
       - {label: 'Draft', name: 'draft', widget: 'boolean', default: true}
       - {label: 'Site Map', name: 'sitemap', widget: 'boolean', default: true}
       - {label: 'Featured Image', name: 'thumbnail', widget: 'image'}
-      - {label: 'Author', name: 'author', widget: 'string', default: 'Henry Pimentel'}
+      - {label: 'Icon', name: 'icon', widget: 'image'}
+      - {label: 'Descriptión', name: 'description', widget: 'string'}
+      - {label: 'URL de la Página', name: 'pageurl', widget: 'string'}
+      - {label: 'SubTitle', name: 'subtitle', widget: 'number'}      
       - {label: 'Body', name: 'body', widget: 'markdown'}
