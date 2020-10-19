@@ -2,7 +2,7 @@
 title: "Mejor Soporte"
 date: 2019-07-20T22:56:48-04:00
 draft: false
-icon: "images/panel/support.png"
+icon: "images/support.png"
 fade: 50
 panel: "¿Por Qué Elegirnos?"
 ---

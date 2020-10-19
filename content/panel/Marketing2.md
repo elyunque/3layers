@@ -2,7 +2,7 @@
 title: "Email marketing"
 date: 2019-07-22T21:54:26-04:00
 draft: false
-icon: "images/panel/mail.png"
+icon: "images/mail.png"
 fade: 10
 panel: "¿Que incluye el Mercadeo Digital?"
 ---

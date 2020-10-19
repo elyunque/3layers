@@ -4,7 +4,7 @@ subtitle: "Google G Suite"
 date: 2019-08-26T14:02:55-04:00
 draft: false
 sitemaps: true
-thumbnail: "images/blog/gsuite.jpg"
+thumbnail: "images/gsuite.jpg"
 ---
 
 Ya en el 2006 Google inicio la evolución de su icónico producto de G Suite, herramienta que todos los jóvenes conocen y podemos conciderala la plataforma más contemporánea y creativa en el mercado, nacida desde sus inicios en la Nube.

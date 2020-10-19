@@ -4,7 +4,7 @@ subtitle: "Sectigo PositiveSSL Wildcard"
 date: 2019-07-30T22:53:19-04:00
 draft: false
 sitemaps: true
-thumbnail: images/blog/sectigo.jpg
+thumbnail: images/sectigo.jpg
 author: "3layers"
 ---
 
@@ -26,7 +26,7 @@ La verificación de la documentación y la organización lleva días, a veces se
 
 La imagen transparente PNG estática crea una imagen de un sello que generalmente existe en los documentos oficiales, y demuestra el nivel de seguridad y la protección de datos instalados en un servidor web. Mira cómo se ve el sello Sectigo.
 
-![Sectigo SSL Seal](/images/blog/sectigo_seal.png)
+![Sectigo SSL Seal](/images/sectigo_seal.png)
 
 **Impulsar el ranking SEO**
 
@@ -34,7 +34,7 @@ Google Inc. ha anunciado cambios en el algoritmo del motor de búsqueda. Ahora t
 
 **Compatibilidad con comodines PositiveSSL**
 
-Día a día llegan nuevos navegadores y dispositivos al mundo en línea; Por eso es tan importante asegurarse de que SSL funcione y sea compatible con todos los dispositivos. Sectigo ofrece soporte para 99,6+ navegadores / dispositivos móviles con cada certificado. Consulte la lista de compatibilidad [dispositivos y navegadores compatibles con Sectigo](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+Día a día llegan nuevos navegadores y dispositivos al mundo en línea; Por eso es tan importante asegurarse de que SSL funcione y sea compatible con todos los dispositivos. Sectigo ofrece soporte para 99,6+ navegadores / dispositivos móviles con cada certificado. Consulte la lista de compatibilidad [dispositivos y navegadores compatibles con Sectigo](https://3layers.host/compatibilidad-de-dispositivos-con-ssl/).
 
 **Únicos con garantía real en Latinoamericano**
 

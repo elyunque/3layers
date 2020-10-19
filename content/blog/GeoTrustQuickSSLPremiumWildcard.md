@@ -4,7 +4,7 @@ title: "GeoTrust QuickSSL Premium Wildcard"
 date: 2019-07-29T19:51:55-04:00
 draft: false
 sitemaps: true
-thumbnail: "images/blog/geotrust.jpg"
+thumbnail: "images/geotrust.jpg"
 author: "3layers"
 ---
 
@@ -24,7 +24,7 @@ GeoTrust requiere pasar la validación de dominio a través de uno de los métod
 
 QuickSSL Premium Wildcard SSL se suministra con el logotipo estándar dinámico, un sello del sitio web para aumentar la confianza dentro de su sitio. El sello dinámico muestra información verificada si alguien hace clic en este. Recomendamos encarecidamente instalar el logotipo del sello en las páginas más comunes. El sello GeoTrust estará disponible de la siguiente forma en su portal.
 
-![Geotrust SSL Seal](/images/blog/geotrust-seal.png)
+![Geotrust SSL Seal](/images/geotrust-seal.png)
 
 **Mejora tu ranking de Google**
 
@@ -32,7 +32,7 @@ Las modificaciones menores en el algoritmo de clasificación de Google ayudan a 
 
 **Compatibilidad clásica**
 
-Los productos GeoTrust con 3Layers Host vienen con una alta compatibilidad profesional con navegadores modernos y dispositivos móviles. Nunca enfrentará ningún problema con ese producto. Sin embargo, los desarrolladores prometieron un 99,6% de soporte para el navegador. Aquí está la lista más completa de [dispositivos y navegadores compatibles para GeoTrust](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+Los productos GeoTrust con 3Layers Host vienen con una alta compatibilidad profesional con navegadores modernos y dispositivos móviles. Nunca enfrentará ningún problema con ese producto. Sin embargo, los desarrolladores prometieron un 99,6% de soporte para el navegador. Aquí está la lista más completa de [dispositivos y navegadores compatibles para GeoTrust](https://3layers.host/compatibilidad-de-dispositivos-con-ssl/).
 
 **Únicos con garantía real en Latinoamericano**
 

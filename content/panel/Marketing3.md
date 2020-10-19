@@ -2,7 +2,7 @@
 title: "Publicidad online"
 date: 2019-07-22T21:54:26-04:00
 draft: false
-icon: "images/panel/bulb.png"
+icon: "images/bulb.png"
 fade: 10
 panel: "¿Que incluye el Mercadeo Digital?"
 ---

@@ -4,7 +4,7 @@ subtitle: "En Respuesta Al COVID 19"
 date: 2020-03-27T00:37:53-04:00
 draft: false
 sitemaps: true
-thumbnail: "images/blog/covid19.jpg"
+thumbnail: "images/covid19.jpg"
 author: "Henry Pimentel"
 ---
 

@@ -4,7 +4,7 @@ subtitle: ¿Qué es un certificado SSL y para qué sirve?
 date: 2019-08-15T14:42:10.000Z
 draft: false
 sitemaps: true
-thumbnail: images/blog/locker.jpg
+thumbnail: images/locker.jpg
 author: 3layers
 ---
 Hoy en día es más común oír hablar a los usuarios de Internet sobre lo que pueden o no hacer en sus equipos móviles, PC, o portátiles. En general, tenemos una generación de usuarios más consciente de la seguridad, y aunque muchas acciones son mitos (obtenidos en su mayoría por rumores en redes sociales o WhatsApp), muchas otras son realidades, y nos ayudaran a estar más seguro en un mundo lleno de [Ciberataques](https://es.wikipedia.org/wiki/Ciberataque) y [Guerras digitales entre grandes potencias](https://www.kaspersky.com/about/policy-blog/general-cybersecurity/how-to-deal-with-militarizing-cyberspace).
@@ -29,10 +29,10 @@ El navegador web que usted utilice le dirá que está visitando un portal web se
 
 | Barra de Estatus                                          | Navegador       |
 | --------------------------------------------------------- | --------------- |
-| ![Chrome SSL Status](/images/blog/chromessl.jpg)           | Google Chrome   |
-| ![Apple Safari SSL Status](/images/blog/safarissl.jpg)     | Apple Safari    |
-| ![Mozilla Firefox SSL Status](/images/blog/firefoxssl.jpg) | Mozilla Firefox |
-| ![Opera SSL Status](/images/blog/operassl.jpg)             | Opera           |
+| ![Chrome SSL Status](/images/chromessl.jpg)           | Google Chrome   |
+| ![Apple Safari SSL Status](/images/safarissl.jpg)     | Apple Safari    |
+| ![Mozilla Firefox SSL Status](/images/firefoxssl.jpg) | Mozilla Firefox |
+| ![Opera SSL Status](/images/operassl.jpg)             | Opera           |
 
 Para sus correos electrónicos los puertos seguros siempre serán 993, 995, y 465, esto quiere decir que si no está usando uno de estos puertos en la configuración de su correo electrónico, usted está sobre una conexión no encriptada. Es importante destacar que, aunque este sobre estos puertos contacte a su proveedor de correo electrónico para asegurarse que el certificado está activo y que estos puertos están abriendo una conexión segura.
 

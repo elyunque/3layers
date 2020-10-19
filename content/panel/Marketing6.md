@@ -2,7 +2,7 @@
 title: "Gestión de perfiles sociales"
 date: 2019-07-22T21:54:26-04:00
 draft: false
-icon: "images/panel/speaker.png"
+icon: "images/speaker.png"
 fade: 10
 panel: "¿Que incluye el Mercadeo Digital?"
 ---

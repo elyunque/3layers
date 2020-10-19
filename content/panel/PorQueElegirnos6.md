@@ -2,7 +2,7 @@
 title: "Testimonios de Clientes"
 date: 2019-07-20T22:57:30-04:00
 draft: false
-icon: "images/panel/customers.png"
+icon: "images/customers.png"
 fade: 60
 panel: "¿Por Qué Elegirnos?"
 ---

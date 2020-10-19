@@ -3,7 +3,7 @@ title: "PoliticaDePrivacidad"
 date: 2020-03-17T23:45:48-04:00
 draft: false
 sitemaps: false
-thumbnail: "images/blog/privacy.jpg"
+thumbnail: "images/privacy.jpg"
 aliases:
     - /privacidad/
 ---

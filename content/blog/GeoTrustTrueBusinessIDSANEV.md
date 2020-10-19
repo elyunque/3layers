@@ -4,7 +4,7 @@ subtitle: "GeoTrust True BusinessID SAN EV"
 date: 2019-07-30T22:12:20-04:00
 draft: false
 sitemaps: true
-thumbnail: "images/blog/geotrust.jpg"
+thumbnail: "images/geotrust.jpg"
 author: "3layers"
 ---
 
@@ -24,7 +24,7 @@ La validación extendida genera muchas preocupaciones para todos, ya que no est�
 
 Cada certificado SSL de GeoTrust proporciona un logotipo dinámico del sello del sitio con una verificación completa de la organización; eso significa que los visitantes de su sitio web verán información comercial verificada, como el nombre de la empresa, la dirección registrada, el teléfono y el monto de la garantía proporcionada. De esta forma se el sello GeoTrust.
 
-![Geotrust SSL Seal](/images/blog/geotrust-seal.png)
+![Geotrust SSL Seal](/images/geotrust-seal.png)
 
 **Google SEO Booster**
 
@@ -32,7 +32,7 @@ Ahora cada sitio web con certificado SSL instalado gana una clasificación más 
 
 **Soporte para dispositivos móviles**
 
-Los teléfonos móviles, las almohadillas táctiles, las PC y muchos otros dispositivos se utilizan hoy en día en todo el mundo; Por eso es tan importante mantener activos los protocolos de protección en todos los dispositivos. Los certificados de GeoTrust tienen una excelente compatibilidad de dispositivos con al menos el 99,6% de [dispositivos y navegadores compatibles de GeoTrust](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+Los teléfonos móviles, las almohadillas táctiles, las PC y muchos otros dispositivos se utilizan hoy en día en todo el mundo; Por eso es tan importante mantener activos los protocolos de protección en todos los dispositivos. Los certificados de GeoTrust tienen una excelente compatibilidad de dispositivos con al menos el 99,6% de [dispositivos y navegadores compatibles de GeoTrust](https://3layers.host/compatibilidad-de-dispositivos-con-ssl/).
 
 **Únicos con garantía real en Latinoamericano**
 

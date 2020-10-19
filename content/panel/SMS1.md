@@ -2,7 +2,7 @@
 title: "Expertos del Sector"
 date: 2019-07-22T21:54:26-04:00
 draft: false
-icon: "images/panel/award.png"
+icon: "images/award.png"
 fade: 10
 panel: "¿Qué nos diferencia de los demás?"
 ---

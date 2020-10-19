@@ -4,7 +4,7 @@ subtitle: "Microsoft 365"
 date: 2019-08-26T14:03:01-04:00
 draft: false
 sitemaps: true
-thumbnail: "images/blog/office.jpg"
+thumbnail: "images/office.jpg"
 ---
 
 Ya en el 2011 Microsoft inicio la evolución de su icónico producto de Microsoft 365, herramienta que todos conocemos (desde nuestros padres hasta nuestros hijos) y es que no en vano la ofimática de Microsoft es la más madura y versátil en el mercado.

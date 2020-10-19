@@ -4,7 +4,7 @@ subtitle: "Sectigo EV SSL Certificate"
 date: 2019-07-30T22:32:41-04:00
 draft: false
 sitemaps: true
-thumbnail: images/blog/sectigo.jpg
+thumbnail: images/sectigo.jpg
 author: "3layers"
 ---
 
@@ -16,7 +16,7 @@ El certificado SSL de validación extendida requiere validar la empresa / organi
 
 La tecnología exclusiva de Sectigo, ofrece el logotipo dinámico de Site Seal, así como el logotipo Animated Dynamic Corner of Trust. Use ambos sellos para maximizar la confianza en los servicios y el sitio web. Validar las empresas y negocios a nivel de SSL ofrece más de la mitad del crecimiento exitoso de las ventas y la confianza. Sin confianza no hay ventas, este es el hecho más común del comercio electrónico. Mira cómo se ve el sello Sectigo.
 
-![Sectigo SSL Seal](/images/blog/sectigo_seal.png)
+![Sectigo SSL Seal](/images/sectigo_seal.png)
 
 **Validación Extendida**
 
@@ -28,7 +28,7 @@ Ahora cada sitio web con certificado SSL instalado gana una clasificación más 
 
 **Dispositivos compatibles con Sectigo EV SSL**
 
-Una de las características más importantes de SSL, después de la fuerza de cifrado, es la compatibilidad. Comodo EV SSL ofrece compatibilidad y compatibilidad con dispositivos móviles y navegador 99.6+. Consulte la lista completa de todos los [dispositivos y navegadores compatibles con Sectigo](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+Una de las características más importantes de SSL, después de la fuerza de cifrado, es la compatibilidad. Comodo EV SSL ofrece compatibilidad y compatibilidad con dispositivos móviles y navegador 99.6+. Consulte la lista completa de todos los [dispositivos y navegadores compatibles con Sectigo](https://3layers.host/compatibilidad-de-dispositivos-con-ssl/).
 
 **Únicos con garantía real en Latinoamericano**
 

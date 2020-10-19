@@ -4,7 +4,7 @@ subtitle: "Symantec Secure Site Pro EV"
 date: 2019-07-30T22:27:00-04:00
 draft: false
 sitemaps: true
-thumbnail: "images/blog/symantec.jpg"
+thumbnail: "images/symantec.jpg"
 author: "3layers"
 ---
 
@@ -24,7 +24,7 @@ Hoy aún existe una pequeña parte de los clientes que usan navegadores antiguos
 
 Cada SSL de Symantec viene con Norton ™ Site Seal para ayudar a los usuarios finales a verificar rápidamente el propietario de un sitio web. Puede verificar el nombre de la organización / empresa, la dirección, el estado del análisis de malware y algunos detalles más. Recomendamos encarecidamente poner ese logotipo de Seal en las páginas más populares de su sitio web. Compruebe cómo se ve el sello Symantec.
 
-![Symantec SSL Seal](/images/blog/norton-seal.png)
+![Symantec SSL Seal](/images/norton-seal.png)
 
 **Soporte SAN**
 
@@ -36,7 +36,7 @@ El 6 de agosto de 2014, Google anunció actualizaciones menores al algoritmo de 
 
 **Dispositivos soportados**
 
-Symantec Secure Site Pro EV es un producto de referencia, ya que tiene casi el 100% de soporte móvil y de navegador. No tiene conflictos con todos los dispositivos publicados. Los certificados de Symantec pasan todos los verificadores SSL con los mejores resultados. Verifique la lista de compatibilidad si no está seguro de si su [dispositivos y navegadores son compatibles con Symantec](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+Symantec Secure Site Pro EV es un producto de referencia, ya que tiene casi el 100% de soporte móvil y de navegador. No tiene conflictos con todos los dispositivos publicados. Los certificados de Symantec pasan todos los verificadores SSL con los mejores resultados. Verifique la lista de compatibilidad si no está seguro de si su [dispositivos y navegadores son compatibles con Symantec](https://3layers.host/compatibilidad-de-dispositivos-con-ssl/).
 
 **Únicos con garantía real en Latinoamericano**
 

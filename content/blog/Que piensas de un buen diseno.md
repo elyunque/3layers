@@ -4,7 +4,7 @@ subtitle: ¿Qué Piensas De Un Buen Diseño?
 date: 2019-08-25T23:58:46.000Z
 draft: false
 sitemaps: true
-thumbnail: images/blog/design.jpg
+thumbnail: images/design.jpg
 author: 3layers
 ---
 El diseño nunca pasa de moda, y es que un buen diseño es el centro de todo; el diseño define las edades, los imperios y los géneros artísticos. Y es que el diseño expresa más de lo que deseamos trasmitir de nosotros que las propias palabras. En un diseño se plasma con formas y colores lo que hemos visto y experimentado. Muchas compañías, ciudades e individuos han realizado diseños que lo han diferenciado y que quedado en las mentes de sus consumidores por años, décadas y siglos; recordemos que el éxito de una empresa depende de la experiencia de sus usuarios y lo que vibrante que sientan la marca en sus mentes y corazones.

@@ -4,7 +4,7 @@ subtitle: "Thawte Web Server Certificate"
 date: 2019-07-30T22:02:22-04:00
 draft: false
 sitemaps: true
-thumbnail: "images/blog/thawte.jpg"
+thumbnail: "images/thawte.jpg"
 author: "3layers"
 ---
 
@@ -20,7 +20,7 @@ Es crucial pasar el proceso de validación de negocios en caso de que necesite o
 
 Thawte sugiere cargar el logotipo del sello del sitio generado dinámicamente en los lugares más visibles y significativos del sitio web. Ese sello confirmara el nivel de protección de la página web, tiene una garantía de $1,250,000, aumentará significativamente las ventas y la confianza. Comprueba cómo se ve el sello Thawte.
 
-![Thawte SSL Seal](/images/blog/thawte-seal.png)
+![Thawte SSL Seal](/images/thawte-seal.png)
 
 **Hasta 250 artículos SAN**
 
@@ -32,7 +32,7 @@ Ahora cada sitio web con certificado SSL instalado gana una clasificación más 
 
 **Compatibilidad con todo incluido**
 
-Certificado SSL de nivel de compatibilidad de cinco estrellas, es en el que confían casi todos los dispositivos. Thawte garantiza una compatibilidad del navegador del 99%, total armonía con los dispositivos móviles y otros servidores web / de correo. Obtenga una potente protección de datos donde quiera que esté. Verifique la lista completa de [dispositivos y navegadores son compatibles con Thawte](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+Certificado SSL de nivel de compatibilidad de cinco estrellas, es en el que confían casi todos los dispositivos. Thawte garantiza una compatibilidad del navegador del 99%, total armonía con los dispositivos móviles y otros servidores web / de correo. Obtenga una potente protección de datos donde quiera que esté. Verifique la lista completa de [dispositivos y navegadores son compatibles con Thawte](https://3layers.host/compatibilidad-de-dispositivos-con-ssl/).
 
 **Únicos con garantía real en Latinoamericano**
 

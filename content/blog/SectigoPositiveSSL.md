@@ -4,7 +4,7 @@ subtitle: "Sectigo PositiveSSL"
 date: 2019-07-29T20:24:53-04:00
 draft: false
 sitemaps: true
-thumbnail: images/blog/sectigo.jpg
+thumbnail: images/sectigo.jpg
 author: "3layers"
 ---
 
@@ -18,7 +18,7 @@ Sectigo CA cubre hasta el 99.6% de todos los navegadores y dispositivos móviles
 
 Cada PositiveSSL viene con un logotipo de sello de sitio para mostrar a los visitantes que el sitio web tiene una alta protección contra piratas informáticos y ataques de phishing. El sello del sitio viene en formato de imagen PNG con modo transparente. Obtenga más ventas, como resultado, más confianza en los servicios y la marca. Mira cómo se ve el sello Sectigo.
 
-![Sectigo SSL Seal](/images/blog/sectigo_seal.png)
+![Sectigo SSL Seal](/images/sectigo_seal.png)
 
 **Validación de dominio SSL**
 
@@ -30,7 +30,7 @@ Las modificaciones menores en el algoritmo de clasificación de Google ayudan a 
 
 **Dispositivos compatibles**
 
-Cada Autoridad de Certificación (Marca) tiene su propia compatibilidad de certificados con navegadores, dispositivos móviles y plataformas de servidores. Comodo PositiveSSL viene con 99.6% de soporte de todos los dispositivos. La instalación intermedia del certificado de CA requiere obtener los mejores resultados de compatibilidad. Tómese un minuto para descubrir los [dispositivos y navegadores compatibles con Sectigo](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+Cada Autoridad de Certificación (Marca) tiene su propia compatibilidad de certificados con navegadores, dispositivos móviles y plataformas de servidores. Comodo PositiveSSL viene con 99.6% de soporte de todos los dispositivos. La instalación intermedia del certificado de CA requiere obtener los mejores resultados de compatibilidad. Tómese un minuto para descubrir los [dispositivos y navegadores compatibles con Sectigo](https://3layers.host/compatibilidad-de-dispositivos-con-ssl/).
 
 **Únicos con garantía real en Latinoamericano**
 

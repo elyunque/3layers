@@ -4,7 +4,7 @@ subtitle: "Sectigo PositiveSSL Multi-Domain"
 date: 2019-07-30T20:35:38-04:00
 draft: false
 sitemaps: true
-thumbnail: images/blog/sectigo.jpg
+thumbnail: images/sectigo.jpg
 author: "3layers"
 ---
 
@@ -18,7 +18,7 @@ Los certificados SSL de Sectigo funcionan con más del 99,6% de los navegadores 
 
 Positivo SSL SSL UCC / SAN, como muchos otros certificados de validación de dominio, equipado con el logotipo Static Site Seal. Es posible usar una imagen estática PNG para colocar en el sitio web. Aumentará la confianza y ayudará a los visitantes y clientes potenciales a saber que su sitio Web es seguro. Cuando los visitantes tienen confianza, no buscan otros proveedores. Mira cómo se ve el sello Sectigo.
 
-![Sectigo SSL Seal](/images/blog/sectigo_seal.png)
+![Sectigo SSL Seal](/images/sectigo_seal.png)
 
 **El SSL de Validación de Dominio más barato del mercado**
 
@@ -34,7 +34,7 @@ Grandes noticias para todos los webmasters, ya que ahora cada sitio web con cert
 
 **Dispositivos compatibles con PositiveSSL UCC / SAN**
 
-No se preocupe por la compatibilidad, cuando se utiliza Comodo SSL, ya que es totalmente compatible con 99.7% de navegadores y dispositivos móviles. Existen enormes riesgos de recibir ataques de piratas informáticos o phishing cuando SSL no es compatible con algunos navegadores; use una autoridad de certificación pública y confiable como Sectigo CA. Consulte la lista preparada de [dispositivos y navegadores compatibles con Sectigo](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+No se preocupe por la compatibilidad, cuando se utiliza Comodo SSL, ya que es totalmente compatible con 99.7% de navegadores y dispositivos móviles. Existen enormes riesgos de recibir ataques de piratas informáticos o phishing cuando SSL no es compatible con algunos navegadores; use una autoridad de certificación pública y confiable como Sectigo CA. Consulte la lista preparada de [dispositivos y navegadores compatibles con Sectigo](https://3layers.host/compatibilidad-de-dispositivos-con-ssl/).
 
 **Únicos con garantía real en Latinoamericano**
 

@@ -4,7 +4,7 @@ subtitle: "Alojamiento Compartido VS Dedicado"
 date: 2019-11-27T10:09:48-04:00
 draft: false
 sitemaps: true
-thumbnail: "images/blog/code-coding-computer-data.jpg"
+thumbnail: "images/code-coding-computer-data.jpg"
 author: "Henry Pimentel"
 ---
 
@@ -13,7 +13,7 @@ Esto puede ser confuso al principio, pero vamos a navegar por un ejemplo muy fá
 
 Imaginemos un edificio de locales comerciales. Cada piso completo del edificio se vende como un local comercial disponible para un arrendatario.
 
-![3layers Host Build](/images/blog/building.jpeg)
+![3layers Host Build](/images/building.jpeg)
 
 Llamaremos a este edificio, "Servidor de alojamiento web".
 

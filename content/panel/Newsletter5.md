@@ -2,7 +2,7 @@
 title: "Claridad"
 date: 2019-07-22T21:54:26-04:00
 draft: false
-icon: "images/panel/podium.png"
+icon: "images/podium.png"
 fade: 10
 panel: "¿Cuales son las principales características?"
 ---

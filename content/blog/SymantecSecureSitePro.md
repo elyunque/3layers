@@ -4,7 +4,7 @@ subtitle: "Symantec Secure Site Pro"
 date: 2019-07-30T21:52:49-04:00
 draft: false
 sitemaps: true
-thumbnail: "images/blog/symantec.jpg"
+thumbnail: "images/symantec.jpg"
 author: "3layers"
 ---
 
@@ -24,7 +24,7 @@ SGC SSL es el único producto que aumenta el nivel de encriptación del navegado
 
 El certificado Symantec Secure Site Pro viene con la mayoría de las tecnologías estándar Norton ™ Site Seal y Seal-in-Search. El sello Symantec recibe alrededor de 800 millones de impresiones por día de más de 170 países. Compruebe cómo se ve el sello Symantec.
 
-![Symantec SSL Seal](/images/blog/norton-seal.png)
+![Symantec SSL Seal](/images/norton-seal.png)
 
 **Asegure múltiples sitios web**
 
@@ -36,7 +36,7 @@ Symantec Secure Site es el producto único, ya que cuenta con Seal-in-Search par
 
 **Compatibilidad del dispositivo**
 
-Symantec CA intenta hacer de sus certificados uno de los mejores del mundo, es por eso que Secure Site Pro SSL viene con casi un 100% de compatibilidad de navegador y dispositivo móvil. Ese es el resultado más alto que hemos visto. Al solicitar ese SSL, no debe tener dudas de que funcionará en casi todos los dispositivos de un planeta. Aquí está la lista de [dispositivos y navegadores son compatibles con Symantec](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+Symantec CA intenta hacer de sus certificados uno de los mejores del mundo, es por eso que Secure Site Pro SSL viene con casi un 100% de compatibilidad de navegador y dispositivo móvil. Ese es el resultado más alto que hemos visto. Al solicitar ese SSL, no debe tener dudas de que funcionará en casi todos los dispositivos de un planeta. Aquí está la lista de [dispositivos y navegadores son compatibles con Symantec](https://3layers.host/compatibilidad-de-dispositivos-con-ssl/).
 
 **Únicos con garantía real en Latinoamericano**
 

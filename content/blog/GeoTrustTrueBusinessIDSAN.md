@@ -4,7 +4,7 @@ subtitle: "GeoTrust True BusinessID SAN"
 date: 2019-07-30T21:35:26-04:00
 draft: false
 sitemaps: true
-thumbnail: "images/blog/geotrust.jpg"
+thumbnail: "images/geotrust.jpg"
 author: "3layers"
 ---
 
@@ -24,7 +24,7 @@ Debe pasar el proceso de validación comercial para obtener el certificado SSL d
 
 Los certificados SSL profesionales siempre están equipados con logotipos dinámicos de sellos de sitio que aumentan la confianza y las conversiones. La información verificada aparece una vez que hace clic para sellar el logotipo; El nombre de la organización, la dirección y la garantía de $1,250,000 aparecerán dentro del cheque del sello. Gane más confianza en su marca y servicios. Compruebe cómo se ve el sello GeoTrust.
 
-![Geotrust Seal SSL](/images/blog/geotrust-seal.png)
+![Geotrust Seal SSL](/images/geotrust-seal.png)
 
 **Impulsar el ranking SEO**
 
@@ -32,7 +32,7 @@ Google Inc. ha anunciado cambios en el algoritmo del motor de búsqueda. Ahora t
 
 **Potente compatibilidad**
 
-GeoTrust, como una de las CA de SSL más conocidas, invierte muchos recursos para la lograr la compatibilidad del navegador en tantos dispositivos como sea posible, incluidos los dispositivos móviles. Hoy, GeoTrust ofrece una compatibilidad potente del 99% con cada dispositivo. Tómese unos minutos para consultar la lista de [dispositivos y navegadores compatibles con GeoTrust](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+GeoTrust, como una de las CA de SSL más conocidas, invierte muchos recursos para la lograr la compatibilidad del navegador en tantos dispositivos como sea posible, incluidos los dispositivos móviles. Hoy, GeoTrust ofrece una compatibilidad potente del 99% con cada dispositivo. Tómese unos minutos para consultar la lista de [dispositivos y navegadores compatibles con GeoTrust](https://3layers.host/compatibilidad-de-dispositivos-con-ssl/).
 
 **Únicos con garantía real en Latinoamericano**
 

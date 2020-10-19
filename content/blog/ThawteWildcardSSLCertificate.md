@@ -4,7 +4,7 @@ subtitle: "Thawte Wildcard SSL Certificate"
 date: 2019-07-30T22:02:45-04:00
 draft: false
 sitemaps: true
-thumbnail: "images/blog/thawte.jpg"
+thumbnail: "images/thawte.jpg"
 author: "3layers"
 ---
 
@@ -24,7 +24,7 @@ Se requiere paciencia cuando se valida el certificado SSL de validación de la o
 
 Construir confianza en línea siempre es un gran trabajo, y nunca enfrenta tales problemas con el negocio de la vida real, ya que los clientes acuden a su oficina, ven a personas reales y obtienen confianza verificada. Es difícil confiar en un sitio web y compartir datos personales con él, y es por eso por lo que Thawte ofrece un sello de sitio dinámico para mostrar a todos los visitantes que el sitio web es confiable y verificado como si estuviera dentro de su oficina. El sello mostrará el nombre, la dirección, el número de teléfono y la garantía de $1.25 millones. Comprueba cómo se ve el sello Thawte.
 
-![Thawte SSL Seal](/images/blog/thawte-seal.png)
+![Thawte SSL Seal](/images/thawte-seal.png)
 
 **Hasta 250 artículos SAN**
 
@@ -36,7 +36,7 @@ Las modificaciones menores en el algoritmo de clasificación de Google ayudan a 
 
 **Compatibilidad con todo incluido**
 
-Certificado SSL de nivel de compatibilidad de cinco estrellas, en el que confían casi todos los dispositivos. Thawte garantiza una compatibilidad del navegador del 99%, total armonía con los dispositivos móviles y otros servidores web / de correo. Obtenga una potente protección de datos donde quiera que esté. Pase por la lista completa de [dispositivos y navegadores son compatibles con Thawte](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+Certificado SSL de nivel de compatibilidad de cinco estrellas, en el que confían casi todos los dispositivos. Thawte garantiza una compatibilidad del navegador del 99%, total armonía con los dispositivos móviles y otros servidores web / de correo. Obtenga una potente protección de datos donde quiera que esté. Pase por la lista completa de [dispositivos y navegadores son compatibles con Thawte](https://3layers.host/compatibilidad-de-dispositivos-con-ssl/).
 
 **Únicos con garantía real en Latinoamericano**
 

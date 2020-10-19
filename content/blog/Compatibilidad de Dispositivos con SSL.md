@@ -4,7 +4,7 @@ subtitle: Dispositivos compatibles con SSL
 date: 2019-08-17T19:22:01.000Z
 draft: false
 sitemaps: true
-thumbnail: images/blog/internetbrowser.jpg
+thumbnail: images/internetbrowser.jpg
 author: 3layers
 ---
 

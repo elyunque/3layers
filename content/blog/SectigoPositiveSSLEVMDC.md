@@ -4,7 +4,7 @@ subtitle: "Sectigo Positive SSL EV MDC"
 date: 2019-07-30T22:34:20-04:00
 draft: false
 sitemaps: true
-thumbnail: images/blog/sectigo.jpg
+thumbnail: images/sectigo.jpg
 author: "3layers"
 ---
 
@@ -18,7 +18,7 @@ Tener un certificado que cubra múltiples dominios también ahorrará dinero y s
 
 Los logotipos de SiteSeal fueron diseñados para mostrar instantáneamente a las personas que el sitio web está seguro y bien protegido. Los certificados SSL multidominio vienen con el logotipo estándar Static Seal, y ese es el único punto menor de comprarlos, ya que todos los certificados SSL EV de dominio único vienen con el logotipo dinámico y la tecnología animada Corner of Trust. Mira cómo se ve el sello Sectigo.
 
-![Sectigo SSL Seal](/images/blog/sectigo_seal.png)
+![Sectigo SSL Seal](/images/sectigo_seal.png)
 
 **Soporte SAN habilitado**
 
@@ -34,7 +34,7 @@ Las modificaciones menores en el algoritmo de clasificación de Google ayudan a 
 
 **Dispositivos compatibles con Sectigo EV SSL**
 
-Una de las características más importantes de SSL, después de la fuerza de cifrado, es la compatibilidad. Comodo EV SSL ofrece compatibilidad y compatibilidad con dispositivos móviles y navegador 99.6+. Consulte la lista completa de todos los [dispositivos y navegadores compatibles con Sectigo](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+Una de las características más importantes de SSL, después de la fuerza de cifrado, es la compatibilidad. Comodo EV SSL ofrece compatibilidad y compatibilidad con dispositivos móviles y navegador 99.6+. Consulte la lista completa de todos los [dispositivos y navegadores compatibles con Sectigo](https://3layers.host/compatibilidad-de-dispositivos-con-ssl/).
 
 **Únicos con garantía real en Latinoamericano**
 

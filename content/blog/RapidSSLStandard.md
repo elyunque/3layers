@@ -4,7 +4,7 @@ subtitle: RapidSSL de GeoTrust
 date: 2019-07-26T02:16:42.000Z
 draft: false
 sitemaps: true
-thumbnail: "images/blog/rapidssl.jpg"
+thumbnail: "images/rapidssl.jpg"
 author: 3layers
 ---
 
@@ -18,7 +18,7 @@ Para su conveniencia es posible obtener RapidSSL por tres años, ahorrar más di
 
 El certificado RapidSSL equipa un sitio web con el logotipo estático estándar de Site Seal. Viene en formato animado-gif y presenta información sobre el monto de la garantía y el nivel de encriptación. Ponga el sello en los carritos de la compra y en los formularios web para asegurar que sus clientes, proveedores y visitantes en general sepan que están protegidos. Con esto recibe la confianza del cliente y elimina cualquier duda. El sello se vera de la siguiente manera.
 
-![Geotrust Seal SSL](/images/blog/rapidssl_ssl_certificate.gif)
+![Geotrust Seal SSL](/images/rapidssl_ssl_certificate.gif)
 
 **Emisión rápida de SSL**
 
@@ -30,7 +30,7 @@ Ahora cada sitio web con certificado SSL instalado gana una clasificación más 
 
 **Potente compatibilidad**
 
-En 3Layers Host conocemos la importancia de la compatibilidad con la mayoría de los navegadores móviles y de PC. RapidSSL está invirtiendo fondos sustanciales para hacer que su SSL sea compatible con todos los dispositivos del planeta. Eche un vistazo a la lista completa de todos los [dispositivos y navegadores compatibles con RapidSSL](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+En 3Layers Host conocemos la importancia de la compatibilidad con la mayoría de los navegadores móviles y de PC. RapidSSL está invirtiendo fondos sustanciales para hacer que su SSL sea compatible con todos los dispositivos del planeta. Eche un vistazo a la lista completa de todos los [dispositivos y navegadores compatibles con RapidSSL](https://3layers.host/compatibilidad-de-dispositivos-con-ssl/).
 
 **Únicos con garantía real en Latinoamericano**
 

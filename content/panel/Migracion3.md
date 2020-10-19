@@ -2,7 +2,7 @@
 title: "Mejor Soporte"
 date: 2019-07-20T22:54:26-04:00
 draft: false
-icon: "images/panel/support.png"
+icon: "images/support.png"
 fade: 10
 panel: "¿Por Qué Migrar Con Nosotros?"
 ---

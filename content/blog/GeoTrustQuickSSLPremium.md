@@ -4,7 +4,7 @@ subtitle: GeoTrust QuickSSL Premium
 date: 2019-07-26T03:13:36.000Z
 draft: false
 sitemaps: true
-thumbnail: "images/blog/geotrust.jpg"
+thumbnail: "images/geotrust.jpg"
 author: 3layers
 ---
 ¿Esta buscando un certificado SSL tradicional? Seleccione el certificado GeoTrust QuickSSL Premium de DigiCert CA de 3Layers Host. QuickSSL permite un cifrado fuerte de 256 bits en todos los equipos de escritorio, móviles y navegadores para proteger el sitio web. Sus clientes no recibirán mensajes de advertencia de los navegadores con respecto a la conexión desprotegida. Además, a partir del 2018, todos los SSL de confianza aumentan el rango en Google y eso es increíblemente beneficioso para su Portal Web.
@@ -15,7 +15,7 @@ La emisión del certificado en 3Layers Host solo toma entre 5 y 8 minutos despu�
 
 QuickSSL Premium viene con el sello logotipo dinámico del sitio para aumentar las conversiones y aumentar la confianza en sus servicios y sitio web. La información de verificación aparecerá en su navegador de Internet una vez que alguien haga clic en el icono del sello SSL del sitio. Asegúrese de colocar el sello del sitio en las páginas más populares, como la página de inicio, el inicio de sesión o en las secciones de pago en línea. El sello GeoTrust adquirido con 3Layers Host se ve de la siguiente forma en su Portal Web.
 
-![Geotrust SSL Seal](/images/blog/geotrust-seal.png)
+![Geotrust SSL Seal](/images/geotrust-seal.png)
 
 **Certificado de dominio examinado**
 
@@ -27,7 +27,7 @@ Ahora cada sitio web con certificado SSL instalado gana una clasificación más 
 
 **Potente compatibilidad**
 
-En 3Layers Host conocemos la importancia de la compatibilidad con la mayoría de los navegadores móviles y de PC. GeoTrust está invirtiendo fondos sustanciales para hacer que su SSL sea compatible con todos los dispositivos del planeta. Eche un vistazo a la lista completa de todos los [dispositivos compatibles](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+En 3Layers Host conocemos la importancia de la compatibilidad con la mayoría de los navegadores móviles y de PC. GeoTrust está invirtiendo fondos sustanciales para hacer que su SSL sea compatible con todos los dispositivos del planeta. Eche un vistazo a la lista completa de todos los [dispositivos compatibles](https://3layers.host/compatibilidad-de-dispositivos-con-ssl/).
 
 **Elige el certificado correcto**
 

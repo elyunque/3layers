@@ -2,7 +2,7 @@
 title: "Estabilidad Increíble"
 date: 2019-07-20T22:56:12-04:00
 draft: false
-icon: "images/panel/lockserver.png"
+icon: "images/lockserver.png"
 fade: 40
 panel: "¿Por Qué Elegirnos?"
 ---

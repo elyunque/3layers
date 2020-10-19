@@ -4,7 +4,7 @@ subtitle: "Precaución con los engaños en esta temporada"
 date: 2020-04-07T17:46:16-04:00
 draft: false
 sitemaps: true
-thumbnail: "images/blog/scam.jpg"
+thumbnail: "images/scam.jpg"
 author: "Henry Pimentel"
 ---
 

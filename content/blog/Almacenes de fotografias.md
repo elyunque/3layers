@@ -4,7 +4,7 @@ subtitle: 7 Almacenes de Fotografías
 date: 2019-09-22T22:42:12-04:00
 draft: false
 sitemap: true
-thumbnail: https://ucarecdn.com/38dcf0a3-b9e1-4914-a0b3-4e13f93f3232/
+thumbnail: "images/code-coding-computer-data.jpg"
 author: Henry Pimentel
 sitemaps: true
 ---

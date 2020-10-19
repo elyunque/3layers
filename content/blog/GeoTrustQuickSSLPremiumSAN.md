@@ -4,7 +4,7 @@ subtitle: "GeoTrust QuickSSL Premium SAN"
 date: 2019-07-29T20:12:26-04:00
 draft: false
 sitemaps: true
-thumbnail: "images/blog/geotrust.jpg"
+thumbnail: "images/geotrust.jpg"
 author: "3layers"
 ---
 
@@ -26,7 +26,7 @@ Ahora cada sitio web con certificado SSL instalado gana una clasificación más 
 
 **Potente compatibilidad**
 
-Hoy es la era de los dispositivos móviles, y es por eso por lo que es tan importante tener una compatibilidad completa con la mayoría de los navegadores móviles y de PC. GeoTrust está invirtiendo fondos sustanciales para hacer que su SSL sea compatible con todos los dispositivos del planeta. Eche un vistazo a la lista completa de todos los [dispositivos y navegadores compatibles de GeoTrust](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+Hoy es la era de los dispositivos móviles, y es por eso por lo que es tan importante tener una compatibilidad completa con la mayoría de los navegadores móviles y de PC. GeoTrust está invirtiendo fondos sustanciales para hacer que su SSL sea compatible con todos los dispositivos del planeta. Eche un vistazo a la lista completa de todos los [dispositivos y navegadores compatibles de GeoTrust](https://3layers.host/compatibilidad-de-dispositivos-con-ssl/).
 
 **Únicos con garantía real en Latinoamericano**
 

@@ -4,7 +4,7 @@ subtitle: "GeoTrust True BusinessID con EV"
 date: 2019-07-30T22:12:15-04:00
 draft: false
 sitemaps: true
-thumbnail: "images/blog/geotrust.jpg"
+thumbnail: "images/geotrust.jpg"
 author: "3layers"
 ---
 
@@ -20,7 +20,7 @@ Muchas personas enfrentan algunas dificultades para pasar la verificación EV, y
 
 La barra de direcciones verde es una herramienta excelente para construir confianza, pero no es lo único que ofrece GeoTrust. Estamos hablando del logotipo de Free Dynamic Site Seal que viene con cada EV SSL. Solo asegúrese de publicar el sello en las páginas principales de su sitio web o aplicación en línea. El sello GeoTrust se ve de la siguiente forma.
 
-![Geotrust SSL Seal](/images/blog/geotrust-seal.png)
+![Geotrust SSL Seal](/images/geotrust-seal.png)
 
 **Google SEO Booster**
 
@@ -28,7 +28,7 @@ Ahora cada sitio web con certificado SSL instalado gana una clasificación más 
 
 **Dispositivos móviles**
 
-Todos preguntan sobre la compatibilidad en la era del mundo móvil. GeoTrust implica importantes fondos para emitir certificados SSL con compatibilidad de navegador y dispositivos móviles hasta un 99%. Eso significa que su certificado SSL funcionará en todas partes en nuestro avión. Lista de [dispositivos y navegadores compatibles de GeoTrust](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+Todos preguntan sobre la compatibilidad en la era del mundo móvil. GeoTrust implica importantes fondos para emitir certificados SSL con compatibilidad de navegador y dispositivos móviles hasta un 99%. Eso significa que su certificado SSL funcionará en todas partes en nuestro avión. Lista de [dispositivos y navegadores compatibles de GeoTrust](https://3layers.host/compatibilidad-de-dispositivos-con-ssl/).
 
 **Únicos con garantía real en Latinoamericano**
 

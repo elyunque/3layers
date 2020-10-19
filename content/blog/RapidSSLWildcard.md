@@ -4,7 +4,7 @@ subtitle: "RapidSSL Wildcard de GeoTrust"
 date: 2019-07-29T20:21:24-04:00
 draft: false
 sitemaps: true
-thumbnail: "images/blog/rapidssl.jpg"
+thumbnail: "images/rapidssl.jpg"
 author: "3layers"
 ---
 
@@ -24,7 +24,7 @@ RapidSSL intenta emitir SSL en no más de cinco minutos para brindar la protecci
 
 ¿Necesitas más conversiones? ¿Los visitantes abandonan el sitio web y compran a los competidores? Demuestre el logotipo de RapidSSL Site Seal en un sitio web para obtener confianza en línea. Más del 60% de los compradores en línea no realizan una compra en un sitio web sin indicadores de confianza visibles como el logotipo del sello. Con esto recibe la confianza del cliente y elimina cualquier duda. Su sello se vera de la siguiente forma.
 
-![Geotrust Seal SSL](/images/blog/rapidssl_ssl_certificate.gif)
+![Geotrust Seal SSL](/images/rapidssl_ssl_certificate.gif)
 
 **Mejora tu ranking de Google**
 
@@ -32,7 +32,7 @@ Las modificaciones menores en el algoritmo de clasificación de Google ayudan a 
 
 **Soporte de dispositivo universal**
 
-Certificado SSL con más del 99% de confianza en navegadores comunes, sistemas operativos, clientes de correo electrónico y dispositivos. Utilice solo certificados de confianza para establecer la confianza entre los clientes potenciales existentes y nuevos. Asegúrese de que SSL tenga una instalación adecuada. Obtenga más información sobre la [dispositivos y navegadores compatibles con RapidSSL](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+Certificado SSL con más del 99% de confianza en navegadores comunes, sistemas operativos, clientes de correo electrónico y dispositivos. Utilice solo certificados de confianza para establecer la confianza entre los clientes potenciales existentes y nuevos. Asegúrese de que SSL tenga una instalación adecuada. Obtenga más información sobre la [dispositivos y navegadores compatibles con RapidSSL](https://3layers.host/compatibilidad-de-dispositivos-con-ssl/).
 
 **Únicos con garantía real en Latinoamericano**
 

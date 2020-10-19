@@ -3,7 +3,7 @@ title: "Acuerdo General"
 date: 2020-07-05T10:56:51-04:00
 draft: false
 sitemaps: false
-thumbnail: "images/blog/privacy.jpg"
+thumbnail: "images/privacy.jpg"
 aliases:
     - /acuerdos/
 ---

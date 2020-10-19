@@ -4,7 +4,7 @@ subtitle: "Acuerdo De Soporte G Suite"
 date: 2018-11-12T22:35:09-04:00
 draft: false
 sitemaps: false
-thumbnail: "images/blog/acuerdo1.jpg"
+thumbnail: "images/acuerdo1.jpg"
 aliases:
     - /acuerdosoportegsuite/
 ---

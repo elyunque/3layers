@@ -4,7 +4,7 @@ subtitle: "Trabajos remotos en tiempos de crisis"
 date: 2020-03-17T18:05:11-04:00
 draft: false
 sitemaps: true
-thumbnail: "images/blog/remotedesktop.jpg"
+thumbnail: "images/remotedesktop.jpg"
 author: "Henry Pimentel"
 ---
 

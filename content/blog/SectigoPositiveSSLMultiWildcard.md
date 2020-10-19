@@ -4,7 +4,7 @@ subtitle: "Sectigo PositiveSSL Multi Wildcard"
 date: 2019-07-30T20:34:18-04:00
 draft: false
 sitemaps: true
-thumbnail: images/blog/sectigo.jpg
+thumbnail: images/sectigo.jpg
 author: "3layers"
 ---
 
@@ -24,7 +24,7 @@ Los nombres alternativos de sujeto (SAN) o, como también se les denomina Certif
 
 La mayoría de los certificados multidominio vienen sin ningún logotipo de sello; sin embargo, Sectigo proporciona el logotipo Static Site Seal de forma gratuita con cada pedido. Seal viene en formato de archivo PNG con una opción transparente. Aumente las conversiones e instale un sello en el carrito y todas las páginas de transacciones. Mira cómo se ve el sello Sectigo.
 
-![Sectigo SSL Seal](/images/blog/sectigo_seal.png)
+![Sectigo SSL Seal](/images/sectigo_seal.png)
 
 **Validación de dominio SSL**
 
@@ -36,7 +36,7 @@ Ahora cada sitio web con certificado SSL instalado gana una clasificación más 
 
 **Compatibilidad SSL**
 
-Día a día, muchos usuarios y administradores de servidores cambian a certificados SSL gratuitos y de baja calidad con poca compatibilidad del navegador a marcas profesionales de CA como Sectigo. Es fundamental utilizar SSL con la mayor compatibilidad de [dispositivos y navegadores compatibles con Sectigo](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+Día a día, muchos usuarios y administradores de servidores cambian a certificados SSL gratuitos y de baja calidad con poca compatibilidad del navegador a marcas profesionales de CA como Sectigo. Es fundamental utilizar SSL con la mayor compatibilidad de [dispositivos y navegadores compatibles con Sectigo](https://3layers.host/compatibilidad-de-dispositivos-con-ssl/).
 
 **Únicos con garantía real en Latinoamericano**
 

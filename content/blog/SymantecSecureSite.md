@@ -3,7 +3,7 @@ title: "Symantec Secure Site"
 date: 2019-07-30T21:38:01-04:00
 draft: false
 sitemaps: true
-thumbnail: "images/blog/symantec.jpg"
+thumbnail: "images/symantec.jpg"
 author: "3layers"
 ---
 
@@ -19,7 +19,7 @@ DigiCert CA, propietario de Symantec SSL, opera el mejor centro de verificación
 
 Certificados SSL de Symantec equipados con el famoso Norton ™ Secured Site Seal que recibe alrededor de 850 millones de impresiones al día en más de 160 países. Ese es el marcador de confianza número uno en el mundo SSL reconocido por casi todos los usuarios. Reciba la tecnología exclusiva Seal-in-Search con cada compra de 3Layers Host. Compruebe a continuación cómo se ve el sello Symantec.
 
-![Symantec SSL Seal](/images/blog/norton-seal.png)
+![Symantec SSL Seal](/images/norton-seal.png)
 
 **Soporte SAN habilitado**
 
@@ -31,7 +31,7 @@ Symantec Secure Site es el producto único, ya que cuenta con Seal-in-Search par
 
 **Excelente compatibilidad**
 
-Uno de los mejores SSL con casi 100% de compatibilidad con dispositivos móviles y navegadores. Con la confianza de casi todos los dispositivos en el planeta, productos altamente sugeridos por Microsoft Corporation. Elija ese producto si le preocupan los niveles más altos de protección de su sitio web. Revise la lista de todos los [dispositivos y navegadores compatibles con Symantec](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+Uno de los mejores SSL con casi 100% de compatibilidad con dispositivos móviles y navegadores. Con la confianza de casi todos los dispositivos en el planeta, productos altamente sugeridos por Microsoft Corporation. Elija ese producto si le preocupan los niveles más altos de protección de su sitio web. Revise la lista de todos los [dispositivos y navegadores compatibles con Symantec](https://3layers.host/compatibilidad-de-dispositivos-con-ssl/).
 
 **Únicos con garantía real en Latinoamericano**
 

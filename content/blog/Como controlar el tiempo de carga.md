@@ -3,7 +3,7 @@ title: "¿Como controlar el tiempo de carga de un Portal Web?"
 subtitle: "¿Como controlar el tiempo de carga de un Portal Web?"
 date: 2020-08-24T11:27:54.000-04:00
 sitemaps: true
-thumbnail: images/blog/pageload.jpg
+thumbnail: images/pageload.jpg
 author: Henry Pimentel
 
 ---

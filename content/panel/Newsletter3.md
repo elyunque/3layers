@@ -2,7 +2,7 @@
 title: "Temas de interés"
 date: 2019-07-22T21:54:26-04:00
 draft: false
-icon: "images/panel/suitcase.png"
+icon: "images/suitcase.png"
 fade: 10
 panel: "¿Cuales son las principales características?"
 ---

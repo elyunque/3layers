@@ -4,7 +4,7 @@ subtitle: "Sectigo Positive SSL EV"
 date: 2019-07-30T22:33:19-04:00
 draft: false
 sitemaps: true
-thumbnail: images/blog/sectigo.jpg
+thumbnail: images/sectigo.jpg
 author: "3layers"
 ---
 
@@ -18,7 +18,7 @@ La barra de direcciones verde genera confianza y ventas, y es un hecho innegable
 
 Obtenga logotipos de Site Seal de tecnología sorprendente de Sectigo para construir una exitosa presencia comercial en línea. Esa herramienta fue creada para ayudar a cada visitante a obtener la confirmación de la Autoridad de Certificación con respecto a la empresa y la verificación comercial. Sin confianza no hay ventas; Por lo que Sectigo PositiveSSL EV contribuye a ganar más confianza. Mira cómo se ve el sello Sectigo.
 
-![Sectigo SSL Seal](/images/blog/sectigo_seal.png)
+![Sectigo SSL Seal](/images/sectigo_seal.png)
 
 **SSL de validación extendida**
 
@@ -30,7 +30,7 @@ Ahora cada sitio web con certificado SSL instalado gana una clasificación más 
 
 **Dispositivos compatibles con certificados Sectigo**
 
-Una de las características más importantes de SSL, después de la fuerza de cifrado, es la compatibilidad. Sectigo EV SSL ofrece compatibilidad y compatibilidad con 99.6+ navegadores y dispositivos móviles. Consulte la lista completa de todos los [dispositivos y navegadores compatibles con Sectigo](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+Una de las características más importantes de SSL, después de la fuerza de cifrado, es la compatibilidad. Sectigo EV SSL ofrece compatibilidad y compatibilidad con 99.6+ navegadores y dispositivos móviles. Consulte la lista completa de todos los [dispositivos y navegadores compatibles con Sectigo](https://3layers.host/compatibilidad-de-dispositivos-con-ssl/).
 
 **Únicos con garantía real en Latinoamericano**
 

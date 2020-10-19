@@ -3,7 +3,7 @@ title: "Acuerdo De Servicio Redes Sociales"
 date: 2019-11-13T15:36:03-04:00
 draft: false
 sitemaps: false
-thumbnail: "images/blog/acuerdo1.jpg"
+thumbnail: "images/acuerdo1.jpg"
 aliases:
     - /acuerdosocial/
 ---

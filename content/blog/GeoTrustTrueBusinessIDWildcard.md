@@ -4,7 +4,7 @@ subtitle: Certificado SSL de GeoTrust True BusinessID Wildcard
 date: 2019-07-29T23:41:15.000Z
 draft: false
 sitemaps: true
-thumbnail: "images/blog/geotrust.jpg"
+thumbnail: "images/geotrust.jpg"
 author: 3layers
 ---
 
@@ -24,7 +24,7 @@ Se requiere pasar el proceso de verificación de la organización ya que el SSL 
 
 La verificación exitosa de la aprobación de la empresa lo recompensa con el logotipo de sello del sitio SSL dinámico que debe estar en uso para generar confianza en los cliente o visitante que lleguen al portal Web. El sello dinámico del sitio significa que puede hacer clic en él y obtener información de verificación en línea sobre el sitio web y la empresa. Su sello GeoTrust se vera de la siguiente forma.
 
-![Geotrust SSL Seal](/images/blog/geotrust-seal.png)
+![Geotrust SSL Seal](/images/geotrust-seal.png)
 
 **Mejora tu ranking de Google**
 
@@ -32,7 +32,7 @@ Las modificaciones menores en el algoritmo de clasificación de Google ayudan a 
 
 ***Compatibilidad total con el navegador**
 
-Existe una amplia gama de navegadores, sistemas operativos y dispositivos móviles, y es por eso que cada vez más administradores web y gerentes de seguridad se preocupan por la compatibilidad del certificado SSL. GeoTrust resuelve muchos problemas con sus versátiles certificados SSL con hasta un 99,6% de compatibilidad con el navegador. Eche un vistazo a la lista completa de todos los [dispositivos y navegarores compatibles de GeoTrust](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+Existe una amplia gama de navegadores, sistemas operativos y dispositivos móviles, y es por eso que cada vez más administradores web y gerentes de seguridad se preocupan por la compatibilidad del certificado SSL. GeoTrust resuelve muchos problemas con sus versátiles certificados SSL con hasta un 99,6% de compatibilidad con el navegador. Eche un vistazo a la lista completa de todos los [dispositivos y navegarores compatibles de GeoTrust](https://3layers.host/compatibilidad-de-dispositivos-con-ssl/).
 
 **Elige el certificado correcto**
 

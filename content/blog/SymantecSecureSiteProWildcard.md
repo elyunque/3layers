@@ -4,7 +4,7 @@ subtitle: "Symantec Secure Site Pro Wildcard"
 date: 2019-07-30T21:56:40-04:00
 draft: false
 sitemaps: true
-thumbnail: "images/blog/symantec.jpg"
+thumbnail: "images/symantec.jpg"
 author: "3layers"
 ---
 
@@ -24,7 +24,7 @@ La validación comercial significa que es posible que deba proporcionar los docu
 
 Cada SSL de Symantec viene con Norton ™ Site Seal para ayudar a los usuarios finales a verificar rápidamente el propietario de un sitio web. Puede verificar el nombre de la organización / empresa, la dirección, el estado del análisis de malware y algunos detalles más. Recomendamos encarecidamente poner ese logotipo de Seal en las páginas más populares de su sitio web. Compruebe cómo se ve el sello Symantec.
 
-![Symantec SSL Seal](/images/blog/norton-seal.png)
+![Symantec SSL Seal](/images/norton-seal.png)
 
 **Mejora el ranking del sitio web en Google**
 
@@ -32,7 +32,7 @@ Symantec Secure Site es el producto único, ya que cuenta con Seal-in-Search par
 
 **Compatible con dispositivos 99.99%**
 
-Symantec Secure Site Wildcard SSL muestra resultados fantásticos en compatibilidad con dispositivos móviles y navegadores. Es compatible con casi el 100% (99,9%) de dispositivos conocidos. Eso significa que su SSL será confiable y trabajará en todas partes para todos. Lista de [dispositivos y navegadores son compatibles con Symantec](https://3layers.host/blog/compatibilidad-de-dispositivos-con-ssl/).
+Symantec Secure Site Wildcard SSL muestra resultados fantásticos en compatibilidad con dispositivos móviles y navegadores. Es compatible con casi el 100% (99,9%) de dispositivos conocidos. Eso significa que su SSL será confiable y trabajará en todas partes para todos. Lista de [dispositivos y navegadores son compatibles con Symantec](https://3layers.host/compatibilidad-de-dispositivos-con-ssl/).
 
 **Únicos con garantía real en Latinoamericano**
 
