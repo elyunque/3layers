@@ -11,7 +11,8 @@ collections:
     folder: 'content/blog' # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: '{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter      
+    fields: # The fields for each document, usually in front matter 
+      - {label: "Key", name: "templateKey", widget: "hidden", default: "blog"}     
       - {label: 'Title', name: 'title', widget: 'string'}
       - {label: 'SubTitle', name: 'subtitle', widget: 'string'}
       - {label: 'Publish Date', name: 'date', widget: 'datetime'}
@@ -28,14 +29,14 @@ collections:
     delete: false
     slug: '{{slug}}'
     fields:       
-      - {label: 'Title', name: 'title2', widget: 'string'}
-      - {label: 'SubTitle', name: 'subtitle2', widget: 'string'}
-      - {label: 'Publish Date', name: 'date2', widget: 'datetime'}
-      - {label: 'Draft', name: 'draft2', widget: 'boolean', default: true}
-      - {label: 'Site Map', name: 'sitemap2', widget: 'boolean', default: true}
-      - {label: 'Featured Image', name: 'thumbnail2', widget: 'image'}
-      - {label: 'Icon', name: 'icon2', widget: 'image'}
-      - {label: 'Descriptión', name: 'descriptio2n', widget: 'string'}
-      - {label: 'URL de la Página', name: 'pageurl2', widget: 'string'}
-      - {label: 'SubTitle', name: 'subtitle2', widget: 'number'}      
-      - {label: 'Body', name: 'body2', widget: 'markdown'}
+      - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: 'SubTitle', name: 'subtitle', widget: 'string'}
+      - {label: 'Publish Date', name: 'date', widget: 'datetime'}
+      - {label: 'Draft', name: 'draft', widget: 'boolean', default: true}
+      - {label: 'Site Map', name: 'sitemap', widget: 'boolean', default: true}
+      - {label: 'Featured Image', name: 'thumbnail', widget: 'image'}
+      - {label: 'Icon', name: 'icon', widget: 'image'}
+      - {label: 'Descriptión', name: 'description', widget: 'string'}
+      - {label: 'URL de la Página', name: 'pageurl', widget: 'string'}
+      - {label: 'SubTitle', name: 'subtitle', widget: 'number'}      
+      - {label: 'Body', name: 'body', widget: 'markdown'}
