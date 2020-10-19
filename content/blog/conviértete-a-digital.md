@@ -1,12 +1,13 @@
-+++
-author = "Henry Pimentel"
-date = 2020-04-13T04:00:00Z
-sitemaps = true
-subtitle = "Conviértete a Digital"
-thumbnail = "images/ventasdigital.jpg"
-title = "Conviértete a Digital"
-
-+++
+---
+title: Conviértete a Digital
+subtitle: Conviértete a Digital
+date: 2020-04-13T04:00:00.000Z
+draft: false
+sitemap: true
+thumbnail: /images/blog/ventasdigital.jpg
+author: Henry Pimentel
+sitemaps: true
+---
 Unos de los grandes retos que la pandemia COVID-19 ha dejado a la humanidad recae sobre las empresas, y como estas se han adaptado a un nuevo esquema, en la forma en que hacen negocios, la búsqueda de prospectos e interactúan con sus clientes actuales.
 
 Estamos viviendo unos tiempos de cierre de puertas y de pocas inversiones, todas las empresas están pensando en cómo resolver su futuro casi inmediato con las suspensiones de labores y empleados, lo cual a futuro puede traer consecuencias nefastas para muchos negocios de los sectores más vulnerables. La pregunta seria **¿Cómo puedo sobrellevar esta crisis de personal y de inversiones por parte de mis clientes?** sin sucumbir en el intento.
