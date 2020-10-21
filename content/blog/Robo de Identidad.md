@@ -14,7 +14,7 @@ Hay que destacar también que el robo de identidad se suscribe en los delitos de
 
 ![Robo de Identidad](/images/roboidentidad.jpg)
 
-El robo de identidad un delito en auge, anteriormente cuando un ladrón robaba una cartera o billetera de nuestros bolsillos su objetivo principal era el dinero y posteriormente las tarjetas de débito/crédito que contenían, hoy en día cuando perdemos nuestra billetera no debemos poner en duda que un delito de robo de identidad podría estar siendo llevado a cabo, en especial si tenemos un cargo alto en alguna empresa. Por lo tanto, debemos tomar acciones inmediatas.
+El robo de identidad es un delito en auge, anteriormente cuando un ladrón robaba una cartera o billetera de nuestros bolsillos su objetivo principal era el dinero y posteriormente las tarjetas de débito/crédito que contenían, hoy en día cuando perdemos nuestra billetera no debemos poner en duda que un delito de robo de identidad podría estar siendo llevado a cabo, en especial si tenemos un cargo alto en alguna empresa. Por lo tanto, debemos tomar acciones inmediatas.
 
 **¿Como se “mueve” el robo de identidad?**
 
