@@ -1,16 +1,43 @@
-<script src="{{ "js/jquery-3.3.1.min.js" | absURL }}"></script>
+<!-- <script src="{{ "js/jquery-3.3.1.min.js" | absURL }}"></script>
 <script src="{{ "js/jquery-migrate-3.0.1.min.js" | absURL }}"></script>
-<!-- <script src="{{ "js/jquery-ui.min.js" | absURL }}"></script> -->
-<!-- <script src="{{ "js/popper.min.js" | absURL }}"></script> -->
 <script src="{{ "js/bootstrap.min.js" | absURL }}"></script>
 <script src="{{ "js/owl.carousel.min.js" | absURL }}"></script>
 <script src="{{ "js/jquery.stellar.min.js" | absURL }}"></script>
-<!-- <script src="{{ "js/jquery.countdown.min.js" | absURL }}"></script> -->
 <script src="{{ "js/jquery.magnific-popup.min.js" | absURL }}"></script>
-<!-- <script src="{{ "js/bootstrap-datepicker.min.js" | absURL }}"></script> -->
 <script src="{{ "js/aos.js" | absURL }}"></script>
+<script src="{{ "js/main.js" | absURL }}"></script> -->
 
-<script src="{{ "js/main.js" | absURL }}"></script>
+{{ $jqueryjs := resources.Get "js/jquery-3.3.1.min.js" }}
+{{ $jqueryjsfinal := $jqueryjs | resources.Minify }}
+<script src="{{ $jqueryjsfinal.Permalink }}"></script>
+
+{{ $migratejs := resources.Get "js/jquery-migrate-3.0.1.min.js" }}
+{{ $migratejsfinal := $migratejs | resources.Minify }}
+<script src="{{ $migratejsfinal.Permalink }}"></script>
+
+{{ $bootstrapjs := resources.Get "js/bootstrap.min.js" }}
+{{ $bootstrapjsfinal := $bootstrapjs | resources.Minify }}
+<script src="{{ $bootstrapjsfinal.Permalink }}"></script>
+
+{{ $carouseljs := resources.Get "js/owl.carousel.min.js" }}
+{{ $carouseljsfinal := $carouseljs | resources.Minify }}
+<script src="{{ $carouseljsfinal.Permalink }}"></script>
+
+{{ $stellarjs := resources.Get "js/jquery.stellar.min.js" }}
+{{ $stellarjsfinal := $stellarjs | resources.Minify }}
+<script src="{{ $stellarjsfinal.Permalink }}"></script>
+
+{{ $magnificjs := resources.Get "js/jquery.magnific-popup.min.js" }}
+{{ $magnificjsfinal := $magnificjs | resources.Minify }}
+<script src="{{ $magnificjsfinal.Permalink }}"></script>
+
+{{ $aosjs := resources.Get "js/aos.js" }}
+{{ $aosjsfinal := $aosjs | resources.Minify }}
+<script src="{{ $aosjsfinal.Permalink }}"></script>
+
+{{ $mainjs := resources.Get "js/main.js" }}
+{{ $mainjsfinal := $mainjs | resources.Minify }}
+<script src="{{ $mainjsfinal.Permalink }}"></script>
 
 <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="cc766193-05d5-4ee9-9b4a-44c68f651832";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
 

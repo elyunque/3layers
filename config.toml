@@ -2,6 +2,7 @@ DefaultContentLanguage = "es"
 baseURL = "https://3layers.host/"
 title = "3Layers Host"
 enableRobotsTXT = true
+assetDir = "static"
 
 [params]
 company = "3Layers"

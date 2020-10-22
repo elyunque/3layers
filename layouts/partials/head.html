@@ -7,30 +7,34 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400,700,900|Roboto+Mono:300,400,500"> 
-    <link rel="stylesheet" href="{{ "fonts/icomoon/style.css" | absURL }}">
 
+    <!-- <link rel="stylesheet" href="{{ "fonts/icomoon/style.css" | absURL }}">
     <link rel="stylesheet" href="{{ "css/bootstrap.min.css" | absURL }}">
-    <!-- <link rel="stylesheet" href="{{ "css/magnific-popup.css" | absURL }}"> -->
     <link rel="stylesheet" href="{{ "css/jquery-ui.css" | absURL }}">
     <link rel="stylesheet" href="{{ "css/owl.carousel.min.css" | absURL }}">
-    <!-- <link rel="stylesheet" href="{{ "css/owl.theme.default.min.css" | absURL }}"> -->
-    <!-- <link rel="stylesheet" href="{{ "css/bootstrap-datepicker.css" | absURL }}"> -->
     <link rel="stylesheet" href="{{ "css/animate.css" | absURL }}">
-    
-    
-    <!-- <link rel="stylesheet" href="{{ "fonts/flaticon/font/flaticon.css" | absURL }}"> -->
-    <!-- <link rel="stylesheet" href="{{ "css/fl-bigmug-line.css" | absURL }}"> -->
-  
     <link rel="stylesheet" href="{{ "css/aos.css" | absURL }}">
-
     <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
+    <link rel="stylesheet" href="{{ "css/custom.css" | absURL }}"> -->
 
-    <link rel="stylesheet" href="{{ "css/custom.css" | absURL }}">
+    <link rel="stylesheet" href="{{ "fonts/icomoon/style.css" | absURL }}">
+
+    {{ $bootstrapcss := resources.Get "css/bootstrap.min.css" }}
+    {{ $jquerycss := resources.Get "css/jquery-ui.css" }}
+    {{ $carouselcss := resources.Get "css/owl.carousel.min.css" }}
+    {{ $animatecss := resources.Get "css/animate.css" }}
+    {{ $aoscss := resources.Get "css/aos.css" }}
+    {{ $stylecss := resources.Get "css/style.css" }}
+    {{ $customcss := resources.Get "css/custom.css" }}
+    {{ $stylescss := slice $bootstrapcss $jquerycss $carouselcss $animatecss $aoscss $stylecss $customcss | resources.Concat "css/bundle.css" | resources.Minify }}
+
+    <link rel="stylesheet" href="{{ $stylescss.Permalink }}">
 
     <link rel="canonical" href="{{ .Permalink | absURL }}" />
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-3702215-3"></script>
+
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
