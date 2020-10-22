@@ -30,7 +30,7 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-6 offset-sm-3">
-            <input type="text" class="form-control" id="searchQuery" placeholder="Search...">
+            <input type="text" placeholder="Realice su búsqueda aquí..." class="form-control" id="searchQuery" placeholder="Search...">
             <hr>
             <div id="results"></div>
           </div>
@@ -59,7 +59,7 @@
       $(document).ready(function(){
         var blogPosts = '';
         $.ajax({
-          url:'index.json',
+          url:'\index.json',
         }).done(function(response){
           blogPosts = response;
         })
