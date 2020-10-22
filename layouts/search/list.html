@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+
+{{ partial "head" . }}
+<style>
+  #resultTemplate {
+    display:none;
+  }
+</style>
+
+<body>
+  
+  <div class="site-wrap">
+
+    <div class="site-mobile-menu">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div> <!-- .site-mobile-menu -->
+    
+    
+    {{ partial "header" . }}
+    
+    {{ partial "minihero" . }}
+
+    <div class="site-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-6 offset-sm-3">
+            <input type="text" class="form-control" id="searchQuery" placeholder="Search...">
+            <hr>
+            <div id="results"></div>
+          </div>
+        </div>
+        
+        <div id="resultTemplate">
+          <div class="result" id="result-#post-id#">
+            <h4>
+              <a href="#post-url#">#post-title#</a>
+            </h4>
+            <p>
+              #post-contents#... <a href="#post-url#">Read More</a>
+            </p>
+          </div>
+        </div>
+    </div>
+    
+
+    {{ partial "footer" . }}
+    
+  </div>
+
+  {{ partial "foot" . }}    
+  
+    <script>
+      $(document).ready(function(){
+        var blogPosts = '';
+        $.ajax({
+          url:'index.json',
+        }).done(function(response){
+          blogPosts = response;
+        })
+        
+        $("#searchQuery").keyup(function(e){
+          e.preventDefault();
+          if (e.key === 'Enter' || e.keyCode === 13) {
+            var searchQuery = $("#searchQuery").val();
+            searchQuery = $.trim(searchQuery);
+            if(searchQuery.length==0 || blogPosts.length==0) return false;
+
+            $("#results").empty();
+
+            var results = '';
+            $.each(blogPosts , function(index , post){
+              if(post.title.includes(searchQuery) || post.contents.includes(searchQuery)){
+                var resultTemplate = $("#resultTemplate").html();
+                resultTemplate = resultTemplate.replace("#post-url#" , post.permalink);
+                resultTemplate = resultTemplate.replace("#post-url#" , post.permalink);
+                resultTemplate = resultTemplate.replace("#post-id#" , index);
+                resultTemplate = resultTemplate.replace("#post-title#" , post.title);
+                resultTemplate = resultTemplate.replace("#post-contents#" , post.contents.substring(0, 80));
+
+                results += resultTemplate;
+              }
+            })
+            $("#results").html(results);
+          }
+        })
+        
+      })
+    </script>
+
+  </body>
+</html>
