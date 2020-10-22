@@ -155,3 +155,8 @@ weight = 100
   title = "Contacto"
   url = "/contact/"
   weight = 700
+[[menu.main]]
+  identifier = "search"
+  title = "Buscar"
+  url = "/search/"
+  weight = 800
