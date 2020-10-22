@@ -1,14 +1,13 @@
 $(document).ready(function(){
     var blogPosts = '';
     $.ajax({
-      url:'index.json',
+      url:'/index.json',
     }).done(function(response){
       blogPosts = response;
     })
     
     $("#searchQuery").keyup(function(e){
       e.preventDefault();
-      if (e.key === 'Enter' || e.keyCode === 13) {
         var searchQuery = $("#searchQuery").val();
         searchQuery = $.trim(searchQuery);
         if(searchQuery.length==0 || blogPosts.length==0) return false;
@@ -29,7 +28,6 @@ $(document).ready(function(){
           }
         })
         $("#results").html(results);
-      }
     })
     
   })

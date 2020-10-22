@@ -29,7 +29,7 @@
     <div class="site-section">
       <div class="container">
         <div class="row">
-          <div class="col-sm-6 offset-sm-3">
+          <div class="col-sm-12">
             <input type="text" placeholder="Realice su búsqueda aquí..." class="form-control" id="searchQuery" placeholder="Search...">
             <hr>
             <div id="results"></div>
@@ -54,44 +54,7 @@
   </div>
 
   {{ partial "foot" . }}    
-  
-    <script>
-      $(document).ready(function(){
-        var blogPosts = '';
-        $.ajax({
-          url:/index.json',
-        }).done(function(response){
-          blogPosts = response;
-        })
-        
-        $("#searchQuery").keyup(function(e){
-          e.preventDefault();
-          if (e.key === 'Enter' || e.keyCode === 13) {
-            var searchQuery = $("#searchQuery").val();
-            searchQuery = $.trim(searchQuery);
-            if(searchQuery.length==0 || blogPosts.length==0) return false;
-
-            $("#results").empty();
-
-            var results = '';
-            $.each(blogPosts , function(index , post){
-              if(post.title.includes(searchQuery) || post.contents.includes(searchQuery)){
-                var resultTemplate = $("#resultTemplate").html();
-                resultTemplate = resultTemplate.replace("#post-url#" , post.permalink);
-                resultTemplate = resultTemplate.replace("#post-url#" , post.permalink);
-                resultTemplate = resultTemplate.replace("#post-id#" , index);
-                resultTemplate = resultTemplate.replace("#post-title#" , post.title);
-                resultTemplate = resultTemplate.replace("#post-contents#" , post.contents.substring(0, 80));
-
-                results += resultTemplate;
-              }
-            })
-            $("#results").html(results);
-          }
-        })
-        
-      })
-    </script>
+  <script src="{{ "js/search.js" | absURL }}"></script>    
 
   </body>
 </html>
